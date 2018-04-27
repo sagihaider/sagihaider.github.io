@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Haider Raza / Site Title"
+title                    : "Haider Raza / Welcome to Haider Raza's professional homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ author:
   name             : "Haider Raza"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Colchester, England"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=oM66s7wAAAAJ&hl=en"
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sagihaider"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sagihaider"
   vine             :
   weibo            :
   xing             :
