@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Haider Raza / Welcome to Haider Raza's professional homepage"
+title                    : "Dr Haider Raza"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr Haider Raza"
 description              : &description "personal description"
 url                      : https://sagihaider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "sagihaider"
   foursquare       :
   github           : "sagihaider"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/sagihaider/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
