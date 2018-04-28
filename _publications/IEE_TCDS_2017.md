@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/IEEE_TCDS_2017
 date: 2017-12-05
 venue: 'IEEE Transactions on Cognitive and Developmental Systems'
-paperurl: [Paper Link:](https://ieeexplore.ieee.org/document/8239668/)
+paperurl: '[Paper Link:](https://ieeexplore.ieee.org/document/8239668/)'
 citation: 'Chowdhury, A. et al (2017). &quot;Online Covariate Shift Detection based Adaptive Brain-Computer Interface to Trigger Hand Exoskeleton Feedback for Neuro-Rehabilitation.&quot; <i>Soft Comupting</i>. 1(1).'
 ---
-Authors: Chowdhury, A., Raza., H., Meena, Y.K., Dutta, A., and Prasad, G.
+Authors: Chowdhury, A., **Raza., H.,** Meena, Y.K., Dutta, A., and Prasad, G.
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
