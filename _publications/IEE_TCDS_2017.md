@@ -7,7 +7,7 @@ venue: 'IEEE Transactions on Cognitive and Developmental Systems'
 paperurl: http://sagihaider.github.io/files/IEEE_TCDS.bib'
 citation: 'Chowdhury, A. et al (2017). &quot;Online Covariate Shift Detection based Adaptive Brain-Computer Interface to Trigger Hand Exoskeleton Feedback for Neuro-Rehabilitation.&quot; <i>IEEE Transactions on Cognitive and Developmental Systems</i>. 1(1).'
 ---
-Authors: Chowdhury, A., Raza., H., Meena, Y.K., Dutta, A., and Prasad, G.
+Authors: Chowdhury, A., Raza., H., Meena, Y.K., Dutta, A., and Prasad,G. 
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
