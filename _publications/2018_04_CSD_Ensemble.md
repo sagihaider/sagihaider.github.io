@@ -1,7 +1,7 @@
 ---
 title: "Covariate Shift Estimation and Adaptation based Ensemble Learning for Handling Inter-or-Intra Session Non- Stationarity in EEG based Brain-Computer Interface"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018_04_CSD_Ensemble
 date: 2018-04-26
 venue: 'Neurocomputing'
 <!-- paperurl: 'http://academicpages.github.io/files/paper1.pdf' -->
