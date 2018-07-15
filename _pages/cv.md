@@ -17,12 +17,33 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Fellow (11/2017 - Present)
+* Postdoctoral Research Fellow (Nov/2017 - Present)
   * Institue for Analytics and Data Science, School of Computer Science and Electronics Engg. 
-  * University of Essex
+  * University of Essex, Colchester, Essex, England, UK
 
-* Postdoctoral Research Officer (Machine Learning) (07/2016 - 10/2017)
-  * School of Medicine, Swansea University
+* Postdoctoral Research Officer (Machine Learning) (July/2016 - Oct/2017)
+  * School of Medicine, Swansea University, Swansea, Wales, UK
+
+
+* Post-Doctoral Research Assistant (Dec/2015 - Jun/2016)
+  * Intelligent System Research Centre, School of Computing and Intelligent Systems, Ulster University, UK
+
+
+* Visiting Researcher (April/2015 - July/2015)
+  * Centre for Mechatronics, Indian Institute of Technology Kanpur, India
+  * Supervisor: Professor Ashish Dutta
+  * Funder: UKIERI: UK-India Education and Research Initiative
+
+
+* Assistant Professor (Oct/2011 - Aug/2012)
+  * Department of Computer Science, Dilla University, Ethiopia. 
+
+* Assistant Professor (July/2009 - Sept/2011)
+  * Department of Information  Technology, Manav Rachna International University, Delhi-NCR, India
+
+* Lecturer (July/2008 - June/2009)
+  * Department of Information  Technology, Cosmic Business School, New Delhi, India
+
   
 Research Skills
 ======
