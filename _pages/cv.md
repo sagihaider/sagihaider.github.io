@@ -17,15 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Fellow (11/2017 - Present)
+  * Institue for Analytics and Data Science, School of Computer Science and Electronics Engg. 
+  * University of Essex
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Research Officer (Machine Learning) (07/2016 - 10/2017)
+  * School of Medicine, Swansea University
   
 Skills
 ======
