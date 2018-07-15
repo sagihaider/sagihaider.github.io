@@ -24,14 +24,15 @@ Work experience
 * Postdoctoral Research Officer (Machine Learning) (07/2016 - 10/2017)
   * School of Medicine, Swansea University
   
-Skills
+Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  Data Science, Big Data Analytics, Deep Learning
+*  Machine Learning for Biomedical Signals and Health Care Datasets
+*  Signal Processing: EEG, EMG, and MEG decoding (Feature Extraction and Features Selection); Blind Source Separation; Dimensional Reduction
+*  Brain-Computer Interfaces (BCI) for Communication and Stroke-Rehabilitation
+*  Non-Stationary Learning for Dynamic and Varying Systems (Active and Passive Learning Approaches)
+*  Dataset Shift Detection (Change Detection): Covariate Shift and Concept Shift. 
+*  Social Data Analytics, Sentiment Analysis, Stock-trade Prediction  
 
 Publications
 ======
