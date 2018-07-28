@@ -10,5 +10,5 @@ citation: 'Raza, H., Cecotti, H., and Prasad, G. (2015). &quot;Learning with cov
 
 [Download paper here](http://sagihaider.github.io/files/2018_Neurocomputing.pdf)
 
-Recommended citation: Raza, H. et al., (2014). ""Learning with covariate shift-detection and adaptation in non-stationary environments: Application to brain-computer interface"" <i>IEEE-IJCNN-2015</i>. pp. --.
+Recommended citation: Raza, H. et al., (2015). ""Learning with covariate shift-detection and adaptation in non-stationary environments: Application to brain-computer interface"" <i>IEEE-IJCNN-2015</i>. pp. --.
 DOI: 10.1109/IJCNN.2015.7280742
