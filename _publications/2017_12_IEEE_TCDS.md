@@ -1,7 +1,7 @@
 ---
 title: "Online Covariate Shift Detection based Adaptive Brain-Computer Interface to Trigger Hand Exoskeleton Feedback for Neuro-Rehabilitation."
 collection: publications
-permalink: /publication/IEEE_TCDS_2017
+permalink: /publication/2017_12_IEEE_TCDS
 date: 2017-12-05
 venue: 'IEEE Transactions on Cognitive and Developmental Systems'
 paperurl: 'http://sagihaider.github.io/files/2018_Neurocomputing.pdf'
