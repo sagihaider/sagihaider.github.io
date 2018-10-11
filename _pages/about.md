@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### Welcome to my homepage about my ongoing research and teaching activities.
+# Welcome to my homepage about my ongoing research and teaching activities.
 
 I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). 
 
