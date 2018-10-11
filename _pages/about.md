@@ -15,4 +15,4 @@ I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
 
 
-Please feel free to explore this website by using the navigation panel on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
+Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
