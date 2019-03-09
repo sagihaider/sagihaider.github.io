@@ -4,10 +4,6 @@ collection: publications
 permalink: /publication/2015_07_IEEE_EMBC
 date: 2015-07-01
 venue: '37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2015'
-paperurl: 'http://sagihaider.github.io/files/2018_Neurocomputing.pdf'
 citation: 'Chwodhury, A., Raza, H., Dutta, A., Nishad, SS., Saxena, A., and Prasad, G. (2015). &quot;A study on cortico-muscular coupling in finger motions for exoskeleton assisted neuro-rehabilitation.&quot; <i>IEEE-EMBC-2015</i>. pp. 4610-4614.'
 ---
 
-[Download paper here](http://sagihaider.github.io/files/2018_Neurocomputing.pdf)
-Recommended citation: Raza, H. et al., (2015). ""A study on cortico-muscular coupling in finger motions for exoskeleton assisted neuro-rehabilitation."" <i>IEEE-EMBC-2015</i>. pp. 4610-4614.
-DOI: 10.1109/EMBC.2015.7319421
