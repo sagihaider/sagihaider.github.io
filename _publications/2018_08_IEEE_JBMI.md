@@ -8,8 +8,6 @@ venue: 'IEEE Journal of Biomedical and Health Informatics'
 citation: 'Chowdhury, A., Meena, YK., Raza, H., Bhushan, B., Uttam, AK., Pandey, N., Hashmi, AA., Bajpai, A., Dutta, A., and Prasad, G. (2018). Active Physical Practice Followed by Mental Practice Using BCI-Driven Hand Exoskeleton: A Pilot Trial for Clinical Effectiveness and Usability. <i>IEEE Journal of Biomedical and Health Informatics, 2018</i>. --'
 ---
 
-XXX
-
 [Article publicly available here](https://ieeexplore.ieee.org/abstract/document/8424844/)
 
 

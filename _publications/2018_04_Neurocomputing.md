@@ -8,6 +8,4 @@ venue: 'Neurocomputing'
 citation: 'Raza, H., Rathee, D., Zhou, SM., Cecotti, H., and Prasad, G. (2018). Covariate Shift Estimation and Adaptation based Ensemble Learning for Handling Inter-or-Intra Session Non- Stationarity in EEG based Brain-Computer Interface.; <i>Neurocomputing, 2018</i>. --'
 ---
 
-
-
 [Article publicly available here](https://arxiv.org/abs/1805.01044)
