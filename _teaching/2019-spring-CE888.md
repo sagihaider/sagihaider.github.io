@@ -1,7 +1,7 @@
 ---
 title: "Data Science and Decision Making"
 collection: teaching
-type: "Term_Master"
+type: "Spring Term: Postgraduate (MSc)"
 permalink: /teaching/2019-spring-CE888
 venue: "University of Essex"
 date: 2019-01-01
@@ -18,15 +18,23 @@ Learning Outcomes
 
 After completing this module, students will be expected to:
 
-1. Understand the basics of the python data science stack (Pandas, Numpy, Sklearn) and Apache Spark. 
+1. Understand the basics of the python data science and decision making 
 
-2. Complement their statistical knowledge with resampling statistics (cross-validation, permutation tests, bootstrapping). 
+2. Summary and re-sampling statistics (cross-validation, permutation tests, bootstrapping). 
 
-3. Incorporate artificial intelligence and machine learning knowledge within data science.
+3. Predictive Modelling and related methods
 
-4. Be able to visualise and present models and data interpretations. 
+4. Recommender Systems
 
-5. Have a complete data science application available in an open source repository. Example application domains include, but are not limited to, data journalism, question answering, recommender systems, policy making, marketing and music generation.
+5. Bandits
+
+6. Data Exploration: Clustering methods, Dimensionality Reduction, Data Transformation
+
+7. Dataset Shift and Transfer Learning
+
+8. Deep Learning for Images and Text (Convolution Neural Networks and Recurrent Neural Networks)
+
+9. Generative Models: Variational Auto-Encoders (VAEs) and Generative Adversarial Networks (GANs)
 
 
 
