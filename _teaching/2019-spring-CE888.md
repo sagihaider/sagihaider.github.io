@@ -1,10 +1,10 @@
 ---
 title: "Data Science and Decision Making"
 collection: teaching
-type: "Spring Term: Postgraduate (MSc)"
+type: "Spring Term (2019): Postgraduate (MSc)"
 permalink: /teaching/2019-spring-CE888
 venue: "University of Essex"
-date: 2019-01-01
+date: 2019-01-14
 location: "Colchester, UK"
 ---
 
@@ -36,10 +36,13 @@ After completing this module, students will be expected to:
 
 9. Generative Models: Variational Auto-Encoders (VAEs) and Generative Adversarial Networks (GANs)
 
+10. Dask and Unix
 
 
 Materials
 ======
+
+I have shared this module with Dr Spyros Samothrakis
 
 Lab work is available [GitHub](https://github.com/sagihaider/CE888_2019)
 
