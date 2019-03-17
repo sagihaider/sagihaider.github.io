@@ -73,9 +73,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Research
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-research.html %}
-  {% endfor %}</ul>
 
