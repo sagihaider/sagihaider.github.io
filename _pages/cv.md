@@ -73,6 +73,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Research
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.research %}
+    {% include archive-single-research.html %}
+  {% endfor %}</ul>
+
