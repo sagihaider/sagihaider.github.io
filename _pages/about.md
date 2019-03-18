@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome to my homepage about my ongoing research and teaching activities.
 
-I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). 
+I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409)
 
 I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering  from [Manav Rachna International University](https://manavrachna.edu.in/), India; India, and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I have previously worked at [Swansea University](https://www.swansea.ac.uk/), [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), [Dilla University](http://www.du.edu.et/), Ethiopia. 
 
