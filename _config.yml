@@ -233,7 +233,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _research
+  # _talks
   - scope:
       path: ""
       type: research
