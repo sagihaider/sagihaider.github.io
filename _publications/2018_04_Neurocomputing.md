@@ -9,7 +9,7 @@ citation: 'Raza, H., Rathee, D., Zhou, SM., Cecotti, H., and Prasad, G. (2018). 
 ---
 <center>
 
-![CSA](./images/CSA.png) 
+![CSA](https://github.com/sagihaider/sagihaider.github.io/blob/master/images/CSA.png "CSA") 
 
 </center>
 
