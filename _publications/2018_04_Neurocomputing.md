@@ -9,8 +9,9 @@ citation: 'Raza, H., Rathee, D., Zhou, SM., Cecotti, H., and Prasad, G. (2018). 
 ---
 <center>
 
-![CSA](./images/CSA.png 'CSA.png') 
+![CSA](./images/CSA.png) 
 
 </center>
 
 [Article publicly available here](https://arxiv.org/pdf/1805.01044.pdf)
+
