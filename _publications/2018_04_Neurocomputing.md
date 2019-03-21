@@ -10,5 +10,7 @@ citation: 'Raza, H., Rathee, D., Zhou, SM., Cecotti, H., and Prasad, G. (2018). 
 
 <img src="./images/CSA.png" align="left"/>
 
+![](images/CSA.png)
+
 [Article publicly available here](https://arxiv.org/pdf/1805.01044.pdf)
 
