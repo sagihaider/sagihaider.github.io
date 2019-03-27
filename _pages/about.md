@@ -25,5 +25,5 @@ I'm interested in supervising PhD students. However, I am currently not having a
 
 
 
-Interested in joining summer school at [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [University of Essex](https://www.essex.ac.uk/), please see the [link](https://www.iadssummerschool.com/)
+Interested in joining fifth annual Summer School, 2019 at [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [University of Essex](https://www.essex.ac.uk/), please see the [link](https://www.iadssummerschool.com/)
 
