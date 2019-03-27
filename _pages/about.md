@@ -23,7 +23,7 @@ Please feel free to explore this website by using the navigation panel on the to
 
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
 
----
+
 
 Interested in joining summer school at Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [University of Essex](https://www.essex.ac.uk/), please see the [link](https://www.iadssummerschool.com/)
-======
+
