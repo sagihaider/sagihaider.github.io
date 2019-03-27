@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 ## Welcome to my homepage about my ongoing research and teaching activities.
 
 I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409)
@@ -20,3 +22,8 @@ My research interests and activities focus on the machine learning, non-stationa
 Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
+
+---
+
+Interested in joining summer school at Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [University of Essex](https://www.essex.ac.uk/), please see the [link](https://www.iadssummerschool.com/)
+======
