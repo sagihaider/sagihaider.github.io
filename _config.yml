@@ -185,6 +185,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  talkresearch:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -233,12 +236,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+  # _talkresearch
   - scope:
       path: ""
-      type: research
+      type: talkresearch
     values:
-      layout: research
+      layout: talkresearch
       author_profile: true
       share: true
 
