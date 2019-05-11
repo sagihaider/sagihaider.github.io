@@ -10,7 +10,8 @@ location: "Colchester, Essex, England"
 
 Funding Amount: £41,172.75;
 Funder: East Suffolk and North Essex NHS Foundation Trust;
-KTP Associate: Dr Saugat Bhattacharya (Part-time)
+Role: PI
+KTP Associate: Dr Saugat Bhattacharya (Research Associate Part-time)
 
 
 Aim

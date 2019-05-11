@@ -10,7 +10,8 @@ location: "Colchester, Essex, England"
 
 Funding Amount: £289,127.00;
 Funder: 50% Innovate UK and 50% Provide CIC;
-KTP Associate: Dr Dheeraj Rathee 
+Role: Lead Supervisor
+KTP Associate: Dr Dheeraj Rathee, AI-Data Scientist (Full-time)
 
 
 Aim
