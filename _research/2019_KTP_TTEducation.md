@@ -1,29 +1,24 @@
 ---
-title: "Data Analytics Innovation Vouchers (DAIVs): Unum Limited"
+title: "KTP with TT Education: AI-assisted Performance Management System"
 collection: research
-type: "DAIVs"
-permalink: /research/2018_DAIV_Unum
+type: "KTP"
+permalink: /research/2019_KTP_TTEducation
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---
 
-Funding: £2086.00 
 
-This DIAVs has been done in association with Institute for Analytics and Data Science for Unum Group. A Data
-Analytics Innovation Voucher funded by the Economics and Social Science Council (ESRC) Business
-and Local Government Data Research Centre (BLGDRC) supported the project.
+Funder and Associate
+======
 
-The aim of the study is to identify the data that could potentially be used to identify possible new
-clients (as in a new HR Director being hired by a non-client company) or even an opportunity to offer
-a more enhanced product to an existing client. The objectives are given as follows:
-
-* Given the `Company Name` and their `Postcode`, identify the higher management team such
-as `HR director`, `Operations Manager HR`, and `Vice President HR`.
-
-* We have developed a smart tool using web scraping and NLP to extract the relevant information from the web. 
+Funding Amount: £2228,006.00;
+Funder: 50% Innovate UK and 50% Provide CIC;
+KTP Associate: To be Announced
 
 
+Aim
+======
 
-
+To be released...
 
 
