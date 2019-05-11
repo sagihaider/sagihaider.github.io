@@ -8,9 +8,6 @@ location: "Colchester, Essex, England"
 ---
 
 
-Funder and Associate
-======
-
 Funding Amount: £2228,006.00;
 Funder: 50% Innovate UK and 50% Provide CIC;
 KTP Associate: To be Announced

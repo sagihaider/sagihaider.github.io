@@ -7,8 +7,6 @@ venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---
 
-Funder and Associate
-======
 
 Funding Amount: £289,127.00;
 Funder: 50% Innovate UK and 50% Provide CIC;
