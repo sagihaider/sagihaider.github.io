@@ -7,7 +7,7 @@ venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---
 
-Funding: £2046.00 
+Funding: £2086.00 
 
 This DIAVs has been done in association with Institute for Analytics and Data Science for Unum Group. A Data
 Analytics Innovation Voucher funded by the Economics and Social Science Council (ESRC) Business
