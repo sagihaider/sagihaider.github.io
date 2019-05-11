@@ -26,6 +26,13 @@ I'm interested in supervising PhD students. However, I am currently not having a
 Media and Press
 ======
 
+I have been covered by media and press. Kindly, explore the links below:
+
+The coverage in the one of the leading newspaper in India, [The Times of India](http://sagihaider.github.io/files/TimesofIndia.pdf)
+
+The coverage in [The Ghana Guardian](http://sagihaider.github.io/Ghana_Guardian.pdf)
+
+The coverage in [Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf)
 
 IADS Summer School-2019
 ======
