@@ -18,15 +18,28 @@ The link for my University of Essex [Profile](https://www.essex.ac.uk/people/raz
 
 I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering  from [Manav Rachna International University](https://manavrachna.edu.in/), India; India, and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I have previously worked at [Swansea University](https://www.swansea.ac.uk/), [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), [Dilla University](http://www.du.edu.et/), Ethiopia. 
 
+Research interests
+======
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
 
 
+Supervision
+======
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
+
+The list of current and past students:
+
+* Dr Dheeraj Rathee (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC
+* Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning)
+* Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
+* Mr Arjith Vajrala (MSc Student (2018-2019), Project Title: to be decided)
+* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: to be decided)
+
 
 Media and Press
 ======
 
-I have been covered by media and press. Kindly, explore the links below:
+Links to coverage of media and press: 
 
 [The Ghana Guardian](http://sagihaider.github.io/files/Ghana_Guardian.pdf), 2019
 
