@@ -9,9 +9,9 @@ location: "Derry/Londonderry, Northern Ireland, UK"
 ---
 
 Project title: "A BCI Operated Hand Exoskeleton based Neuro-rehabilitation
-System for Movement Restoration in Paralysis"
-Funder: DST - UKIERI;
-Role: Post-Doc (7-months);
+System for Movement Restoration in Paralysis" <br/>
+Funder: DST - UKIERI <br/>
+Role: Post-Doc (7-months) <br/>
 Supervisors: Professor Girijesh Prasad (UK) and Professor Ashish Dutta
 
 

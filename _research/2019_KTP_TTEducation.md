@@ -8,10 +8,10 @@ location: "Colchester, Essex, England"
 ---
 
 
-Funding Amount: £2228,006.00;
-Funder: 50% Innovate UK and 50% TT Education;
-Role: Supervisor
-KTP Associate: To be Announced
+Funding Amount: £2228,006.00 <br/>
+Funder: 50% Innovate UK and 50% TT Education <br/>
+Role: Supervisor <br/>
+KTP Associate: To be Announced <br/>
 
 
 
