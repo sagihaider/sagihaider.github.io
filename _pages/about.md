@@ -28,11 +28,14 @@ Media and Press
 
 I have been covered by media and press. Kindly, explore the links below:
 
-The coverage in the one of the leading newspaper in India, [The Times of India](http://sagihaider.github.io/files/TimesofIndia.pdf)
+[The Times of India](http://sagihaider.github.io/files/TimesofIndia.pdf), 2018
 
-The coverage in [The Ghana Guardian](http://sagihaider.github.io/Ghana_Guardian.pdf)
+[The Ghana Guardian](http://sagihaider.github.io/files/Ghana_Guardian.pdf), 2018
 
-The coverage in [Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf)
+[Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf), 2018
+
+[Hindustan Times](http://sagihaider.github.io/files/HindustanTimes2014.JPG), 2015
+
 
 IADS Summer School-2019
 ======
