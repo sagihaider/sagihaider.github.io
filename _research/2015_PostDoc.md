@@ -12,7 +12,7 @@ Project title: "A BCI Operated Hand Exoskeleton based Neuro-rehabilitation
 System for Movement Restoration in Paralysis" <br/>
 Funder: DST - UKIERI <br/>
 Role: Post-Doc (7-months) <br/>
-Supervisors: Professor Girijesh Prasad (UK) and Professor Ashish Dutta
+Supervisors: Professor Girijesh Prasad (UK) and Professor Ashish Dutta <br/>
 
 
 
