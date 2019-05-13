@@ -28,9 +28,9 @@ Media and Press
 
 I have been covered by media and press. Kindly, explore the links below:
 
-[The Times of India](http://sagihaider.github.io/files/TimesofIndia.pdf), 2018
+[The Ghana Guardian](http://sagihaider.github.io/files/Ghana_Guardian.pdf), 2019
 
-[The Ghana Guardian](http://sagihaider.github.io/files/Ghana_Guardian.pdf), 2018
+[The Times of India](http://sagihaider.github.io/files/TimesofIndia.pdf), 2018
 
 [Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf), 2018
 
