@@ -8,6 +8,8 @@ venue: "University of Ulster"
 location: "Derry/Londonderry, Northern Ireland, UK"
 ---
 
+Project title: "A BCI Operated Hand Exoskeleton based Neuro-rehabilitation
+System for Movement Restoration in Paralysis"
 Funder: DST - UKIERI;
 Role: Post-Doc (7-months);
 Supervisors: Professor Girijesh Prasad (UK) and Professor Ashish Dutta
