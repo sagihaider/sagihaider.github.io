@@ -16,7 +16,9 @@ I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](
 
 The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
-I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering  from [Manav Rachna International University](https://manavrachna.edu.in/), India; India, and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I have previously worked at [Swansea University](https://www.swansea.ac.uk/), [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), [Dilla University](http://www.du.edu.et/), Ethiopia. 
+Biography
+======
+I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering  from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I have previously worked at [Swansea University](https://www.swansea.ac.uk/), [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), [Dilla University](http://www.du.edu.et/), Ethiopia. 
 
 Research interests
 ======
