@@ -35,7 +35,7 @@ The list of current and past supervised students and post-docs:
 * Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning)
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
 * Mr Arjith Vajrala (MSc Student (2018-2019), Project Title: to be decided)
-* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: to be decided)
+* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application)
 
 
 Media and Press
@@ -52,8 +52,8 @@ Links to coverage of media and press:
 [Hindustan Times](http://sagihaider.github.io/files/HindustanTimes2014.JPG), 2015
 
 
-IADS Summer School-2019
+<!-- IADS Summer School-2019
 ======
 
 Interested in joining fifth annual Summer School, 2019 at [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [University of Essex](https://www.essex.ac.uk/), please see the [link](https://www.iadssummerschool.com/)
-
+ -->
