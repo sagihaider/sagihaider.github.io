@@ -44,8 +44,8 @@ After completing this module, students will be expected to:
 
 Materials
 ======
-I am sharing this module with Dr Ana Matran-Fernandez. First, five lectures and will be taken by her.  
+I am sharing this module with Dr Ana Matran-Fernandez. First five lectures will be taken by Dr Ana Matran-Fernandez.  
 
 Lab work is available [GitHub](https://github.com/sagihaider/CE888_2020)
 
-Teaching Materials Available via [Moodle](https://moodle.essex.ac.uk/course/view.php?id=6683)
+Teaching Materials Available via [Moodle](https://moodle.essex.ac.uk/course/view.php?id=13750)
