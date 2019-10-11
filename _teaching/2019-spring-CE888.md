@@ -41,8 +41,7 @@ After completing this module, students will be expected to:
 
 Materials
 ======
-
-I have shared this module with Dr Spyros Samothrakis
+I have shared this module with Dr Ana Matran-Fernandez and Dr Spyros Samothrakis
 
 Lab work is available [GitHub](https://github.com/sagihaider/CE888_2019)
 
