@@ -14,10 +14,11 @@ Role: Supervisor <br/>
 KTP Associate: Mr Ajith Varjala <br/>
 
 
-
 Aim
 ======
 
-To be released...
+The development of a new CPD tracker using AI and embedded machine learning to track and enhance performance of all
+staff. To gather data from the CPD tracker that will provide insight into effective strategies offering senior leaders a clear path for
+development driving industry-wide improvement.
 
 
