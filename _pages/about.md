@@ -41,7 +41,7 @@ The list of current and past supervised students and post-docs:
 
 * Mr Arjith Vajrala (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education)
 
-* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC [LinkedIn][https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/]
+* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC [LinkedIn](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/)
 
 
 Media and Press
