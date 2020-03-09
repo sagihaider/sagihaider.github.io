@@ -32,10 +32,16 @@ I'm interested in supervising PhD students. However, I am currently not having a
 The list of current and past supervised students and post-docs:
 
 * [Dr Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC
-* Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning)
+
+* Mr Maviya Tahsildar (MSc Student (2019-2020), Project Title: PDF Data Extraction
+
+* Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
+
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
-* Mr Arjith Vajrala (MSc Student (2018-2019), Project Title: to be decided)
-* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application)
+
+* Mr Arjith Vajrala (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education)
+
+* Mr Bartlomiej Kloza (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC [LinkedIn][https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/]
 
 
 Media and Press
