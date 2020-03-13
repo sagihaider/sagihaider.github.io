@@ -33,7 +33,7 @@ The list of current and past supervised students and post-docs:
 
 Current:
 
-* [Dr Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC
+* Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC
 
 * Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education).
 
