@@ -37,11 +37,11 @@ Current:
 
 * Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education).
 
-* Mr [Maviya Tahsildar]{https://www.linkedin.com/in/maviya-tahsildar-9319b9189/} (MSc Student (2019-2020), Project Title: PDF Data Extraction
+* Mr [Maviya Tahsildar](https://www.linkedin.com/in/maviya-tahsildar-9319b9189/) (MSc Student (2019-2020), Project Title: PDF Data Extraction
 
-* Mr [Jeet Sachania]{https://uk.linkedin.com/in/jeet-sachania-453113b7} (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
+* Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
 
-* Mr [Ryan Shaw]{https://www.linkedin.com/in/ryanshaw98/} (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
+* Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
 
 
  
@@ -52,7 +52,7 @@ Past:
 
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
 
-* Mr [Bartlomiej Kloza]{https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/} (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
+* Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
 
 Media and Press
