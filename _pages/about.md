@@ -48,7 +48,7 @@ Current:
 
 Past: 
 
-* Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
+* Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
 
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
 
