@@ -31,17 +31,26 @@ I'm interested in supervising PhD students. However, I am currently not having a
 
 The list of current and past supervised students and post-docs:
 
+Current:
+
 * [Dr Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC
 
-* Mr Maviya Tahsildar (MSc Student (2019-2020), Project Title: PDF Data Extraction
+* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education).
+
+* Mr [Maviya Tahsildar]{https://www.linkedin.com/in/maviya-tahsildar-9319b9189/} (MSc Student (2019-2020), Project Title: PDF Data Extraction
+
+* Mr [Jeet Sachania]{https://uk.linkedin.com/in/jeet-sachania-453113b7} (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
+
+
+ 
+
+Past: 
 
 * Miss Pranavi Vasa (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
 
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
 
-* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education).
-
-* Mr [Bartlomiej Kloza]((https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/)) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
+* Mr [Bartlomiej Kloza]{https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/} (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
 
 Media and Press
