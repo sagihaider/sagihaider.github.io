@@ -41,6 +41,8 @@ Current:
 
 * Mr [Jeet Sachania]{https://uk.linkedin.com/in/jeet-sachania-453113b7} (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
 
+* Mr [Ryan Shaw]{https://www.linkedin.com/in/ryanshaw98/} (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
+
 
  
 
