@@ -109,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA?"
   wikipedia        :
 
 
@@ -182,10 +182,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -225,20 +221,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: research
       author_profile: true
       share: true
 
