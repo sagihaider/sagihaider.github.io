@@ -1,8 +1,8 @@
 ---
 title: "Data Analytics Innovation Vouchers (DAIVs): Essex Police"
-collection: research
+collection: funding
 type: "DAIVs"
-permalink: /research/2019_DAIV_EP
+permalink: /funding/2019_DAIV_EP
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---

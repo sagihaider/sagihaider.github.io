@@ -1,8 +1,8 @@
 ---
 title: "Data Analytics Innovation Vouchers (DAIVs): Unum Limited"
-collection: research
+collection: funding
 type: "DAIVs"
-permalink: /research/2018_DAIV_Unum
+permalink: /funding/2018_DAIV_Unum
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---

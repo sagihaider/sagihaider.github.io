@@ -1,8 +1,8 @@
 ---
 title: "KTP with Provide CIC: AI-driven SMART Triage System"
-collection: research
+collection: funding
 type: "KTP"
-permalink: /research/2018_KTP_Provide
+permalink: /funding/2018_KTP_Provide
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---

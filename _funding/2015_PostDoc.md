@@ -1,9 +1,9 @@
 ---
 title: "Post-Doc: A BCI Operated Hand Exoskeleton based Neuro-rehabilitation
 System for Movement Restoration in Paralysis"
-collection: research
+collection: funding
 type: "Post-Doc"
-permalink: /research/2015_PostDoc
+permalink: /funding/2015_PostDoc
 venue: "University of Ulster"
 location: "Derry/Londonderry, Northern Ireland, UK"
 ---

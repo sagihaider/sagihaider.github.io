@@ -1,8 +1,8 @@
 ---
 title: "KTP with TT Education: AI-assisted Performance Management System"
-collection: research
+collection: funding
 type: "KTP"
-permalink: /research/2019_KTP_TTEducation
+permalink: /funding/2019_KTP_TTEducation
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---

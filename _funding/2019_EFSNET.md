@@ -1,8 +1,8 @@
 ---
 title: "AI based approach to improve cancer pathway"
-collection: research
+collection: funding
 type: "Grant"
-permalink: /research/2019_EFSNET
+permalink: /funding/2019_EFSNET
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---

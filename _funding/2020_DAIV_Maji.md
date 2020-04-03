@@ -1,8 +1,8 @@
 ---
 title: "Data Analytics Innovation Vouchers (DAIVs): Maji Financial Wellbeing Ltd"
-collection: research
+collection: funding
 type: "DAIVs"
-permalink: /research/2020_Maji
+permalink: /funding/2020_Maji
 venue: "University of Essex"
 location: "Colchester, Essex, England"
 ---
