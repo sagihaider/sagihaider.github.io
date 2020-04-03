@@ -58,10 +58,10 @@ Funder: East Suffolk and North Essex NHS Foundation Trust, Role: PI.
 
 * **Talk**: _VNR Vignana Jyothi Institute of Engineering and Technology, Hydrabad, India_: 'Artificial Intelligence & Machine Learning'
 
-* **Talk**: _ St. Joseph's College, Bengaluru, India_: Artificial Intelligence and it's application in Industry and Research
+* **Talk**: _St. Joseph's College, Bengaluru, India_: Artificial Intelligence and it's application in Industry and Research
 
 
-* **Talk**: _ Taj MG Road, Bengaluru,  India_: Artificial Intelligence & Machine Learning
+* **Talk**: _Taj MG Road, Bengaluru,  India_: Artificial Intelligence & Machine Learning
 
 
 * **Tutorial**: _IADS Summer School, University of Essex_: 'Learning Under Distribution Shift: Transfer Learning'
