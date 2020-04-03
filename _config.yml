@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Haider Raza"
-  avatar           : "HaiderEssex.jpg"
+  avatar           : "HR.jpg"
   bio              : "Research Fellow: Machine Learning, Data Analytics, EEG/MEG-based Brain-ComputerInterface"
   location         : "Colchester, England"
   employer         : "University of Essex"
@@ -109,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "YlOdJBJQN4c7k25uzwSwJA"
+  # youtube          : "YlOdJBJQN4c7k25uzwSwJA"
   wikipedia        :
 
 
