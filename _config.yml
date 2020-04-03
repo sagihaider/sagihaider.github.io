@@ -233,7 +233,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _research
+  # _funding
   - scope:
       path: ""
       type: funding
