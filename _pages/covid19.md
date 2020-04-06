@@ -17,6 +17,9 @@ This is a test of *pandoc*.
 - list one
 - list two
 
-Inline-style: 
-![image info](.files/CovidImages/Unknown.png)
+
+# **1. Conceptual Spaces**
+<img src=".files/CovidImages/Unknown.png" width="400"> <img src="/images/interpretable_embeding.png" width="400">
+<!-- Inline-style: 
+![image info](.files/CovidImages/Unknown.png) -->
 
