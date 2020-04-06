@@ -25,8 +25,7 @@ title: COVID-19 Data Analysis
 <img src="/files/CovidImages/Unknown-3.png" width="400"> 
 
 
-
 # **4. Number of Daily Cases**
-<img src="/files/CovidImages/Unknown.png-4" width="400"> 
+<img src="/files/CovidImages/Unknown-4.png" width="400"> 
 
 
