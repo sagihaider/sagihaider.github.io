@@ -9,9 +9,11 @@ author_profile: true
 
 **Aim**: In this covid-19 dataset, we will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. We have divided this aim into following objectives:
 
-1. Data Loading from Kaggle to Google Colab (YouTube: Part-1)
-2. Exploratory Data Analysis (YouTube: Part-2)
-3. Exploratory Data Analysis (YouTube: Part-3)
+1. Data Loading from Kaggle to Google Colab (YouTube: [Part-1](https://www.youtube.com/watch?v=ky1fKr61mLM&list=PLIzq8uevSgteNro5dla9HJ3tdrzWdzE_U&index=1))
+2. Exploratory Data Analysis (YouTube: [Part-2](https://www.youtube.com/watch?v=sgNTjHLvRsg&list=PLIzq8uevSgteNro5dla9HJ3tdrzWdzE_U&index=2))
+3. Exploratory Data Analysis (YouTube: [Part-3](https://www.youtube.com/watch?v=BeZqBXRzk_k&list=PLIzq8uevSgteNro5dla9HJ3tdrzWdzE_U&index=3))
+
+The above given YouTube link are the explanation of data analysis. The link of the playlist is [COVID-19](https://www.youtube.com/watch?v=ky1fKr61mLM&list=PLIzq8uevSgteNro5dla9HJ3tdrzWdzE_U).  
 
 
 
