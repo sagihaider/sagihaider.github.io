@@ -18,5 +18,5 @@ This is a test of *pandoc*.
 - list two
 
 Inline-style: 
-![image info](./Figs/Unknown.png)
+![image info](.files/CovidImages/Unknown.png)
 
