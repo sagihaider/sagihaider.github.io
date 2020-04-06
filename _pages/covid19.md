@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "COVID-19 Data Analysis"
 permalink: /covid19/
 author_profile: true
 ---
 
-
----
-title: COVID-19 Data Analysis
-...
 
 # Test!
 
