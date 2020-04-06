@@ -5,12 +5,13 @@ permalink: /covid19/
 author_profile: true
 ---
 
-Data Source: [Kaggle: COVID19 Global Forecasting (Week 3)](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)
+**Data Source**: [Kaggle: COVID19 Global Forecasting (Week 3)](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)
 
-Aim: In this covid-19 dataset, we will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. We have divided this aim into following objectives:
+**Aim**: In this covid-19 dataset, we will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. We have divided this aim into following objectives:
 
-1. Data Loading from Kaggle to Google Colab
-2. Exploratory Data Analysis
+1. Data Loading from Kaggle to Google Colab (YouTube: Part-1)
+2. Exploratory Data Analysis (YouTube: Part-2)
+3. Exploratory Data Analysis (YouTube: Part-3)
 
 
 
@@ -50,8 +51,60 @@ Aim: In this covid-19 dataset, we will be predicting the cumulative number of co
 # **11. Confirmed Cases trend (pattern) from first day of incidence**
 <img src="/files/CovidImages/Unknown-11.png" width="700"> 
 
-# **12. Fatalities trend from first day of incidence'**
+# **12. Fatalities trend from first day of incidence**
 <img src="/files/CovidImages/Unknown-12.png" width="700"> 
+
+# **13. Confirmed Cases and Fatalities worldwide trend from first day of incidence**
+<img src="/files/CovidImages/Unknown-13.png" width="700"> 
+
+# **14. Confirmed Cases and Fatalities worldwide trend on same scale**
+<img src="/files/CovidImages/Unknown-14.png" width="700"> 
+
+# **15. Confirmed Cases and Fatalities worldwide trend in log10 scale**
+<img src="/files/CovidImages/Unknown-15.png" width="700"> 
+
+# **16. Co-relation between ConfirmedCases and Fatalities worldwide**
+<img src="/files/CovidImages/Unknown-16.png" width="700"> 
+
+# **17. Confirmed Cases and Fatalities worldwide trend (without China data)**
+<img src="/files/CovidImages/Unknown-17.png" width="700"> 
+
+# **18. Confirmed Cases and Fatalities worldwide trend (without China) on same scale**
+<img src="/files/CovidImages/Unknown-18.png" width="700"> 
+
+# **19. Confirmed Cases and Fatalities worldwide trend (without China) on log10 scale**
+<img src="/files/CovidImages/Unknown-19.png" width="700"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
