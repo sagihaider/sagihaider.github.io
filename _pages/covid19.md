@@ -42,10 +42,10 @@ author_profile: true
 # **10. Variation in number of confirmed cases on daily basis**
 <img src="/files/CovidImages/Unknown-10.png" width="700"> 
 
-# **11. Confirmed Cases trend (pattern) from first day of incidence (confirmed cases)**
+# **11. Confirmed Cases trend (pattern) from first day of incidence**
 <img src="/files/CovidImages/Unknown-11.png" width="700"> 
 
-# **12. Date on which a top 12 countries had Maximum cases**
+# **12. Fatalities trend from first day of incidence'**
 <img src="/files/CovidImages/Unknown-12.png" width="700"> 
 
 
