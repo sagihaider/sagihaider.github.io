@@ -24,4 +24,8 @@ author_profile: true
 # **4. Number of Daily Cases**
 <img src="/files/CovidImages/Unknown-4.png" width="600"> 
 
+# **5. Number of Daily Cases (Country wise)**
+<img src="/files/CovidImages/Unknown-4.png" width="900"> 
+
+
 
