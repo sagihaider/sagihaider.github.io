@@ -25,7 +25,7 @@ author_profile: true
 <img src="/files/CovidImages/Unknown-4.png" width="600"> 
 
 # **5. Number of Daily Cases (Country wise)**
-<img src="/files/CovidImages/Unknown-4.png" width="900"> 
+<img src="/files/CovidImages/Unknown-5.png" width="900"> 
 
 
 
