@@ -7,6 +7,11 @@ author_profile: true
 
 Data Source: [Kaggle: COVID19 Global Forecasting (Week 3)](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)
 
+Aim: In this covid-19 dataset, we will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. We have divided this aim into following objectives:
+
+1. Data Loading from Kaggle to Google Colab
+2. Exploratory Data Analysis
+
 
 
 # **1. Top 10 Confirmed COVID-19 cases by country**
