@@ -18,8 +18,20 @@ This is a test of *pandoc*.
 - list two
 
 
-# **1. Conceptual Spaces**
+# **1. Top 10 Confirmed COVID-19 cases by country**
 <img src="/files/CovidImages/Unknown.png" width="400"> 
-<!-- Inline-style: 
-![image info](.files/CovidImages/Unknown.png) -->
+
+
+# **1. Top 10 Fatality COVID-19 cases by country**
+<img src="/files/CovidImages/Unknown-2.png" width="400"> 
+
+
+# **1. Conceptual Spaces**
+<img src="/files/CovidImages/Unknown-3.png" width="400"> 
+
+
+
+# **1. Conceptual Spaces**
+<img src="/files/CovidImages/Unknown.png-4" width="400"> 
+
 
