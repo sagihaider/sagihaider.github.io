@@ -19,7 +19,7 @@ This is a test of *pandoc*.
 
 
 # **1. Conceptual Spaces**
-<img src="./files/CovidImages/Unknown.png" width="400"> 
+<img src="/files/CovidImages/Unknown.png" width="400"> 
 <!-- Inline-style: 
 ![image info](.files/CovidImages/Unknown.png) -->
 
