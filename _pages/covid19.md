@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "COVID-19 Data Analysis"
 permalink: /covid19/
 author_profile: true
