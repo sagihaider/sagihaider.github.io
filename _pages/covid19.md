@@ -75,6 +75,16 @@ The above given YouTube link are the explanation of data analysis. The link of t
 <img src="/files/CovidImages/Unknown-19.png" width="800"> 
 
 
+## Difference between CFR vs IFR
+
+* CFR is the ratio of the number of deaths divided by the number of confirmed (preferably by nucleic acid testing) cases of disease.  
+
+* IFR is the ratio of deaths divided by the number of actual infections with SARS-CoV-2.  
+
+* Note: Because nucleic acid  testing is limited and currently available primarily to people with significant indications of and risk factors for covid-19 disease, and because a large number of infections with SARS-CoV-2 result in mild or even asymptomatic disease, the IFR is likely to be significantly lower than the CFR. 
+
+Ref: [Ref: Virology](https://www.virology.ws/2020/04/05/infection-fatality-rate-a-critical-missing-piece-for-managing-covid-19/)
+
 
 
 
