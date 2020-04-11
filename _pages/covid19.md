@@ -16,6 +16,8 @@ author_profile: true
 The above given YouTube link are the explanation of data analysis. The link of the playlist is [COVID-19](https://www.youtube.com/watch?v=ky1fKr61mLM&list=PLIzq8uevSgteNro5dla9HJ3tdrzWdzE_U).  
 
 
+***
+
 
 # **1. Top 10 Confirmed COVID-19 cases by country**
 <img src="/files/CovidImages/Unknown.png" width="800"> 
