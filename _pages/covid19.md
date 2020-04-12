@@ -144,11 +144,11 @@ Ref: [Ref: Virology](https://www.virology.ws/2020/04/05/infection-fatality-rate-
 # **17. Confirmed Cases and Fatalities worldwide trend (without China data)**
 <img src="/files/CovidImages/Unknown-36.png" width="800"> 
 
-<!-- # **18. Confirmed Cases and Fatalities worldwide trend (without China) on same scale**
+# **18. Confirmed Cases and Fatalities worldwide trend (without China) on same scale**
 <img src="/files/CovidImages/Unknown-37.png" width="800"> 
 
 # **19. Confirmed Cases and Fatalities worldwide trend (without China) on log10 scale**
-<img src="/files/CovidImages/Unknown-38.png" width="800">  -->
+<img src="/files/CovidImages/Unknown-38.png" width="800"> 
 
 
 
