@@ -93,6 +93,65 @@ Ref: [Ref: Virology](https://www.virology.ws/2020/04/05/infection-fatality-rate-
 ## Week 4
 
 
+# **1. Top 10 Confirmed COVID-19 cases by country**
+<img src="/files/CovidImages/Unknown-20.png" width="800"> 
+
+# **2. Top 10 Fatality COVID-19 cases by country**
+<img src="/files/CovidImages/Unknown-21.png" width="800"> 
+
+# **3. Cumulative trend plot for Confirmed Cases**
+<img src="/files/CovidImages/Unknown-22.png" width="800"> 
+
+# **4. Number of Daily Cases**
+<img src="/files/CovidImages/Unknown-23.png" width="800"> 
+
+# **5. Number of Daily Cases (Country wise)**
+<img src="/files/CovidImages/Unknown-24.png" width="800"> 
+
+# **6. Date on which a top 12 countries had Maximum cases**
+<img src="/files/CovidImages/Unknown-25.png" width="800"> 
+
+# **7. Number of daily new Fatalities**
+<img src="/files/CovidImages/Unknown-26.png" width="800"> 
+
+# **8. Number of daily new Fatalities (Country wise)**
+<img src="/files/CovidImages/Unknown-27.png" width="800"> 
+
+# **9. Date on which a top 12 countries had Maximum Fatalities**
+<img src="/files/CovidImages/Unknown-28.png" width="900"> 
+
+# **10. Variation in number of confirmed cases on daily basis**
+<img src="/files/CovidImages/Unknown-29.png" width="800"> 
+
+# **11. Confirmed Cases trend (pattern) from first day of incidence**
+<img src="/files/CovidImages/Unknown-30.png" width="800"> 
+
+# **12. Fatalities trend from first day of incidence**
+<img src="/files/CovidImages/Unknown-31.png" width="800"> 
+
+# **13. Confirmed Cases and Fatalities worldwide trend from first day of incidence**
+<img src="/files/CovidImages/Unknown-32.png" width="800"> 
+
+# **14. Confirmed Cases and Fatalities worldwide trend on same scale**
+<img src="/files/CovidImages/Unknown-33.png" width="800"> 
+
+# **15. Confirmed Cases and Fatalities worldwide trend in log10 scale**
+<img src="/files/CovidImages/Unknown-34.png" width="800"> 
+
+# **16. Co-relation between ConfirmedCases and Fatalities worldwide**
+<img src="/files/CovidImages/Unknown-35.png" width="800"> 
+
+# **17. Confirmed Cases and Fatalities worldwide trend (without China data)**
+<img src="/files/CovidImages/Unknown-36.png" width="800"> 
+
+<!-- # **18. Confirmed Cases and Fatalities worldwide trend (without China) on same scale**
+<img src="/files/CovidImages/Unknown-37.png" width="800"> 
+
+# **19. Confirmed Cases and Fatalities worldwide trend (without China) on log10 scale**
+<img src="/files/CovidImages/Unknown-38.png" width="800">  -->
+
+
+
 
 
 
