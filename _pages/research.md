@@ -23,7 +23,7 @@ A major issue in bringing real-world applications of machine learning outside th
 
 Healthcare analytics is the combination of data science and healthcare, where data analytics is used on healthcare data for offering insights into hospital management, patient records, costs, diagnoses, and more. The field covers a broad area of the healthcare industry, offering insights on both the macro and micro level. When combined with artificial intelligence and machine learning methods and data visualisation tools, healthcare analytics helps managers operate better by providing real-time information that can support decisions, predictive power, and deliver actionable insights. I am particularly interested in the following themes:
 
-* AI & Data-Driven SMART Triage System 
+* AI & data-driven SMART triage system 
 * AI Pathway with an intelligent decision support system
 * Technology and digital transformation for future healthcare
 * Predictive Modelling using Electronic Health Records 
