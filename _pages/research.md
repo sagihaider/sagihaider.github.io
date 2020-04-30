@@ -31,5 +31,8 @@ Healthcare analytics is the combination of data science and healthcare, where da
 *** 
 **3. Environmental Sciences and Agriculture**
 
-Advances in AI could be one of the solutions to solving major global environmental crises--from climate change to agriculture. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including forest-fire, water availability, crop-monitoring, and ecosystems wellbeing. I am interested in bringing AI and ML to play a key role in enhancing environmental decision and policy-making work, by bringing algorithmic solutions such as developing forest-fire prediction algorithm using IoT and image analysis for monitoring crops through drone and sensors.  
+Advances in AI could be one of the solutions to solving major global environmental crises--from climate change to agriculture. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including forest-fire, water availability, crop-monitoring, and ecosystems wellbeing. I am interested in bringing AI and ML to play a key role in enhancing environmental decision and policy-making work, by bringing algorithmic solutions to the following themes:
+
+* Developing forest-fire prediction algorithm using IoT
+* Image analysis for monitoring crops 
 
