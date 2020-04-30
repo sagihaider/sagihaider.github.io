@@ -14,10 +14,13 @@ My interest in Artificial Intelligence (AI) and Machine Learning begins when I w
 </p>
 
 *** 
-**EEG/MEG-based Brain-Computer Interfacing**
+**1. EEG/MEG-based Brain-Computer Interfacing**
+
+A major issue in bringing real-world applications of machine learning outside the laboratory is the difference in the data distributions between training and testing stages or domains. The diverging statistical properties in different domains can lead to decay the prediction performance. The technical term for a change in the distribution of features is covariate shift, which also happens to be a common challenge in electroencephalography (EEG) and Magnetoencephalography (MEG) based brain-computer interface (BCI); this is due to the presence of non-stationarities in the EEG/MEG signals. The non-stationary nature of EEG/MEG signals makes an EEG/MEG-based brain-computer interface (BCI) a dynamic system, thus improving its performance is a challenging task. A lot of adaptive machine learning approaches have been developed and used previously to tackle this challenge such as passive and active approach for learning, domain adaptation, transfer learning, covariate shift minimization, deep learning, and more.  
 
 *** 
-**Healthcare Analytics**
+**2. Healthcare Analytics**
 
 *** 
-**Environmental Sciences and Agriculture**
+**3. Environmental Sciences and Agriculture**
+
