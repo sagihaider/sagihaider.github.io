@@ -26,7 +26,7 @@ Healthcare analytics is the combination of data science and healthcare, where da
 * AI & Data-Driven SMART Triage System 
 * AI Pathway with an intelligent decision support system
 * Technology and digital transformation for future healthcare
-* Predictive Modelling 
+* Predictive Modelling using Electronic Health Records 
 
 *** 
 **3. Environmental Sciences and Agriculture**
