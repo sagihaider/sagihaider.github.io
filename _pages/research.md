@@ -13,6 +13,15 @@ My interest in Artificial Intelligence (AI) and Machine Learning begins when I w
   <img width="600" height="600" src="/images/wordcloud.png">
 </p>
 
+The picture that changes my life is given below. The picture is from book ``Artificial Intelligence: A Modern Approach`` by Stuart Russell and Peter Norvig
+
+<p align="center">
+  <img width="500" height="500" src="/images/AI_4Pillars.png">
+</p>
+
+*** 
+The following are my area of research:
+
 *** 
 **1. EEG/MEG-based Brain-Computer Interfacing**
 
