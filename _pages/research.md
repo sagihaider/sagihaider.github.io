@@ -13,7 +13,7 @@ My interest in Artificial Intelligence (AI) and Machine Learning begins when I w
   <img width="600" height="600" src="/images/wordcloud.png">
 </p>
 
-The picture that changes my life is given below. The picture is from book ``Artificial Intelligence: A Modern Approach`` by Stuart Russell and Peter Norvig
+The picture that changed my life is given below. The picture is from book ``Artificial Intelligence: A Modern Approach`` by Stuart Russell and Peter Norvig. The first chapter of the book is an introduction to AI and I read it in 2007. I would say no one can explain it much better than this book. 
 
 <p align="center">
   <img width="500" height="500" src="/images/AI_4Pillars.png">
