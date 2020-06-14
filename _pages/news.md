@@ -16,6 +16,7 @@ author_profile: true
 
 * **Grant**: GCRF, Essex Engagement fund – Research Pump Priming: Unravelling the Forest Fires in Lower Himalayan Forests: A Comprehensive Study of Indian Forest Regions of Uttarakhand using IoT technology. Funding Amount: £9335.69
 
+*** 
 
 2019
 ======
@@ -45,7 +46,9 @@ Funder: East Suffolk and North Essex NHS Foundation Trust, Role: PI.
 
 * **Tutorial**: _IADS Summer School, University of Essex_: 'Introduction to Deep Learning' 
 
-2019
+*** 
+
+2018
 ======
 
 * **Publication**: _Book Chapter, Institution of Engineering and Technology_: 'Covariate shift detection-based nonstationary adaptation in motor-imagery-based brain–computer interface' 
@@ -72,8 +75,7 @@ Funder: East Suffolk and North Essex NHS Foundation Trust, Role: PI.
 * **Tutorial**:  Invited Tutorial	Delivered a series of tutorials as a Knowledge Exchange to public bodies in UK such as Essex County Counci, South-End County Council,  Suffolk County Council, Essex Police on using Python and R for Data Analytics
 
 
-
-
+*** 
 
 2017
 ======
