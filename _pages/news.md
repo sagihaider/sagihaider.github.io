@@ -8,6 +8,9 @@ author_profile: true
 
 2020
 ======
+
+* Got elevated to the grade of IEEE Senior member (SMIEEE).
+
 * **Grant** Two-Way visiting Fellowship awarded by GCRF, University of Essex and Indian Institute for Information Technology
 
 * **Certification**: Achieved the status of Fellow of Higher Education Academy
