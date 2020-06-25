@@ -22,6 +22,12 @@ I received a PhD in Computer Science from [University of Ulster](https://www.uls
 
 I have previously worked at [Swansea University](https://www.swansea.ac.uk/), Wales, UK; [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; [Dilla University](http://www.du.edu.et/), Ethiopia; and [Manav Rachna International University](https://manavrachna.edu.in/), India. 
 
+I am also associated with following professional bodies: 
+
+* Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
+* Senior Members of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
+
+
 Research interests
 ======
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
