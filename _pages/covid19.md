@@ -5,6 +5,16 @@ permalink: /covid19/
 author_profile: true
 ---
 
+*** 
+
+Early classification of 2019 novel coronavirus disease (COVID-19) is essential for disease cure and control. Compared with reverse-transcription polymerase chain reaction (RT-PCR), chest computed tomography (CT) imaging may be a significantly more trustworthy, useful, and rapid technique to classify and evaluate COVID-19, specifically in the epidemic region.
+
+We have developed a classification model, where any one can upload a lung CT slice and check their results. Please click the link [khoj COVID](https://bit.ly/khoj_covid)
+
+Note: This is an early stage development, and we are working to make the app better.
+
+*** 
+
 **Data Source**: [Kaggle: COVID19 Global Forecasting (Week 3)](https://www.kaggle.com/c/covid19-global-forecasting-week-3/data)
 
 **Aim**: In this covid-19 dataset, we will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. We have divided this aim into following objectives:
