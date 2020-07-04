@@ -9,6 +9,8 @@ author_profile: true
 2020
 ======
 
+* **Webinar**: Enjoyed participating in a webinar on 02/Jul/2020 and discussed a title "Lobbying with data - how can data help businesses influence policy?" along with Bonamy Waddell and Peter Bleackley. [YouTube](https://www.youtube.com/watch?v=ZC8ddOhyZ00&feature=share) link to the recorded webinar. 
+
 * **Promotion**: Got elevated to the grade of IEEE Senior member (SMIEEE).
 
 * **Grant** Two-Way visiting Fellowship awarded by GCRF, University of Essex and Indian Institute for Information Technology
