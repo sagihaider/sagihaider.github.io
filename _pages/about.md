@@ -32,6 +32,13 @@ Research interests
 ======
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
 
+Current editorial duties
+======
+
+* Guest Associate Editor for Brain Imaging Methods: Brain-Computer Interfaces for Perception, Learning, and Motor Control, Frontiers in Neuroscience [link to call](https://www.frontiersin.org/research-topics/11139/brain-computer-interfaces-for-perception-learning-and-motor-control)
+
+* Review Editor for Medtech Data Analytics, Frontiers in Medical Technology
+
 
 Supervision
 ======
