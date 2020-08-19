@@ -9,6 +9,8 @@ author_profile: true
 2020
 ======
 
+* **Promotion**: I have been granted permanency by the University of Essex in July 2020 and got promotion as well. I will be joining my new role as a Lecturer on 21st November 2020 in the School of Computer Science and Electronics Engineering. 
+
 * **Webinar**: Enjoyed participating in a webinar on 02/Jul/2020 and discussed a title "Lobbying with data - how can data help businesses influence policy?" along with Bonamy Waddell and Peter Bleackley. [YouTube](https://www.youtube.com/watch?v=ZC8ddOhyZ00&feature=share) link to the recorded webinar. 
 
 * **Promotion**: Got elevated to the grade of IEEE Senior member (SMIEEE).
