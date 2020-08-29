@@ -15,6 +15,14 @@ I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](
 
 The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
+***
+Job Opening:
+<p align="center">
+  <img width="50" height="50" src="/images/hiring.png">
+</p>
+
+A KTP opening
+***
 Biography
 ======
 I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from [Colvin Taluqdars' College](https://en.wikipedia.org/wiki/Colvin_Taluqdars%27_College) in Lucknow, which is one of the oldest private schools in India. I was born in the city of [Lucknow](https://en.wikipedia.org/wiki/Lucknow) and spent an early 19 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow. 
@@ -27,11 +35,12 @@ I am also associated with following professional bodies:
 * Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
 * Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
 
-
+***
 Research interests
 ======
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
 
+***
 Current editorial duties
 ======
 
@@ -39,7 +48,7 @@ Current editorial duties
 
 * Review Editor for Medtech Data Analytics, Frontiers in Medical Technology
 
-
+***
 Supervision
 ======
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
@@ -59,8 +68,6 @@ Current:
 * Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
 
 
- 
-
 Past: 
 
 * Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
@@ -70,6 +77,7 @@ Past:
 * Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
 
+***
 Media and Press
 ======
 
