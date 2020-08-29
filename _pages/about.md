@@ -43,7 +43,7 @@ Title: "AI Software Development Engineer (KTP Associate)" with the well-establis
 * Application closing date: 23/09/2020
 * Academic Team: Haider Raza, Shoaib Jameel, Dr John Woods.
 * The project will develop an integrated smart platform to enhance communication speed, productivity and robustness from house planning to delivery.
-* Clink on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA)
+* Click on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA)
 
 
 Research interests
