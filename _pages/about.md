@@ -29,8 +29,10 @@ I am also associated with following professional bodies:
 * Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
 
 
-***
-Job Opening:
+
+Job Opening
+======
+
 <p align="center">
   <img width="50" height="50" src="/images/hiring.png">
 </p>
@@ -43,12 +45,12 @@ Title: "AI Software Development Engineer (KTP Associate)" with the well-establis
 * The project will develop an integrated smart platform to enhance communication speed, productivity and robustness from house planning to delivery.
 * Clink on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA)
 
-***
+
 Research interests
 ======
 My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
 
-***
+
 Current editorial duties
 ======
 
@@ -56,7 +58,7 @@ Current editorial duties
 
 * Review Editor for Medtech Data Analytics, Frontiers in Medical Technology
 
-***
+
 Supervision
 ======
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
@@ -85,7 +87,6 @@ Past:
 * Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
 
-***
 Media and Press
 ======
 
