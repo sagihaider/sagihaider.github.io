@@ -15,13 +15,7 @@ I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](
 
 The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
-***
-Job Opening:
-<p align="center">
-  <img width="50" height="50" src="/images/hiring.png">
-</p>
 
-A KTP opening
 ***
 Biography
 ======
@@ -34,6 +28,21 @@ I am also associated with following professional bodies:
 
 * Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
 * Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
+
+
+***
+Job Opening:
+<p align="center">
+  <img width="50" height="50" src="/images/hiring.png">
+</p>
+
+Title: "AI Software Development Engineer (KTP Associate)" with the well-established developer Mersea Homes Limited and University of Essex
+* The post is for 26-months (expected start date: Jan/Feb 2021).
+* Salary: £32,000 - £36,250 per annum
+* Application closing date: 23/09/2020
+* Academic Team: Haider Raza, Shoaib Jameel, Dr John Woods.
+* The project will develop an integrated smart platform to enhance communication speed, productivity and robustness from house planning to delivery.
+* Clink on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA)
 
 ***
 Research interests
