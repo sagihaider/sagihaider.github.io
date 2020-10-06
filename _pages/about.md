@@ -48,7 +48,7 @@ Title: "AI Software Development Engineer (KTP Associate)" with the well-establis
 
 Research interests
 ======
-My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of the intelligent systems and practice my skills on the following programming languages: Python, Matlab, and R. 
+My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills on the following programming languages: Python, Matlab, and R. 
 
 I am associated to the following research groups at the University of Essex:
 1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) 
