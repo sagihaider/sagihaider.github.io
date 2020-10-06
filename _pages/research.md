@@ -53,3 +53,5 @@ Advances in AI could be one of the solutions to solving major global environment
 * Developing forest-fire prediction algorithm using IoT
 * Image analysis for monitoring crops 
 
+[Highlights](http://sagihaider.github.io/files/ForestFire.pdf), 2020
+
