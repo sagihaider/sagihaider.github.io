@@ -30,7 +30,7 @@ I am also associated with following professional bodies:
 
 
 
-Job Opening
+<!-- Job Opening
 ======
 
 <p align="center">
@@ -43,12 +43,17 @@ Title: "AI Software Development Engineer (KTP Associate)" with the well-establis
 * Application closing date: 23/09/2020
 * Academic Team: Haider Raza, Shoaib Jameel, Dr John Woods.
 * The project will develop an integrated smart platform to enhance communication speed, productivity and robustness from house planning to delivery.
-* Click on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA)
+* Click on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA) -->
 
 
 Research interests
 ======
-My research interests and activities focus on the machine learning, non-stationary learning, brain-computer interface, EEG/MEG signal processing, and computational intelligence methods for health and biomedical informatics. I work on the development of the intelligent systems and practice my skills on the projects related to electronic healthcare systems, stoke-rehabilitation, and few others areas.
+My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of the intelligent systems and practice my skills on the following programming languages: Python, Matlab, and R. 
+
+My research groups are as follows:
+1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) 
+2. [Brain-Computer Interfacing](http://essexbcis.uk/)
+3. [Computer Vision](https://essexnlip.uk/computer-vision/)
 
 
 Current editorial duties
