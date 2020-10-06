@@ -50,7 +50,7 @@ Research interests
 ======
 My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of the intelligent systems and practice my skills on the following programming languages: Python, Matlab, and R. 
 
-My research groups are as follows:
+I am associated to the following research groups at the University of Essex:
 1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) 
 2. [Brain-Computer Interfacing](http://essexbcis.uk/)
 3. [Computer Vision](https://essexnlip.uk/computer-vision/)
@@ -74,7 +74,7 @@ Current:
 
 * Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC, Colchester, England
 
-* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Now working as KTP Associate (AI Data Scientist at TT Education).
+* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020.
 
 * Mr [Maviya Tahsildar](https://www.linkedin.com/in/maviya-tahsildar-9319b9189/) (MSc Student (2019-2020), Project Title: PDF Data Extraction
 
