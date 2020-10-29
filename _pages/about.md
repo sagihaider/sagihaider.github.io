@@ -74,16 +74,18 @@ Current:
 
 * Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with Provide CIC, Colchester, England
 
-* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020.
 
 * Mr [Maviya Tahsildar](https://www.linkedin.com/in/maviya-tahsildar-9319b9189/) (MSc Student (2019-2020), Project Title: PDF Data Extraction
+
+
+
+Past: 
+
+* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020. Currently, Data Scientist - Barts Cancer Institute.
 
 * Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
 
 * Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
-
-
-Past: 
 
 * Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
 
