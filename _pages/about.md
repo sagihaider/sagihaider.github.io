@@ -11,7 +11,7 @@ redirect_from:
 
 ## Welcome to my homepage about my ongoing research and teaching activities.
 
-I am a Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). 
+I am a Lecturer in [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) at the [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), at the [University of Essex](https://www.essex.ac.uk/). Previously, I worked as Post-doctoral Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). 
 
 The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
