@@ -63,6 +63,8 @@ Current editorial duties
 
 * Review Editor for Medtech Data Analytics, Frontiers in Medical Technology
 
+* Guest Associate Editor in Neurotechnology and Systems Neuroergonomics: Machine Learning and Signal Processing for Neurotechnologies and Brain-Computer Interactions Out of the Lab [link to call](https://www.frontiersin.org/research-topics/17467/machine-learning-and-signal-processing-for-neurotechnologies-and-brain-computer-interactions-out-of)
+
 
 Supervision
 ======
