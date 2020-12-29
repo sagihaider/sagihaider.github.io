@@ -45,6 +45,12 @@ Healthcare analytics is the combination of data science and healthcare, where da
 * Technology and digital transformation for future healthcare
 * Predictive Modelling using Electronic Health Records 
 
+Here is a list of the projects:
+
+* Artificial Intelligence for Diagnosis of Skin Cancer
+
+Rates of melanoma and non-melanoma skin cancer have been rising significantly during the last three decades, and waiting times for assessment of a suspicious skin lesion are long in both the NHS and the private health sector in the UK. By developing artificial intelligence-based computer vision algorithms we can improve the early detection rate, which gives a better outcome for the patient, and means resources can be effectively managed for more serious cases. [To read more](https://www.essex.ac.uk/research-projects/Artificial-Intelligence-for-Diagnosis-of-Skin-Cancer)
+
 *** 
 **3. Environmental Sciences and Agriculture**
 
