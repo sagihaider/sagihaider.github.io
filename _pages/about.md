@@ -30,10 +30,8 @@ I am also associated with following professional bodies:
 * Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
 * Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
 
-*** 
-Connect with me on these platforms:
 
-<a href="https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sagihaider//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+
 
 <!-- Job Opening
 ======
@@ -50,6 +48,7 @@ Title: "AI Software Development Engineer (KTP Associate)" with the well-establis
 * The project will develop an integrated smart platform to enhance communication speed, productivity and robustness from house planning to delivery.
 * Click on the link to [Apply Now](https://vacancies.essex.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=359514MiES&WVID=9918109NEm&LANG=USA) -->
 
+***
 
 Research interests
 ======
@@ -115,6 +114,11 @@ Links to coverage of media and press:
 [Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf), 2018
 
 [Hindustan Times](http://sagihaider.github.io/files/HindustanTimes2014.JPG), 2015
+
+*** 
+Connect with me on these platforms:
+
+<a href="https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sagihaider//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/sagihaider"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 
 <!-- IADS Summer School-2019
