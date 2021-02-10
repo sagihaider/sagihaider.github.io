@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 
+
+2021
+======
+
+* Keynote speaker at "ICCCIS-2021: International Conference on Computing, Communication, and Intelligent Systems ([ICCCIS](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2ficccis.in%2f&c=E,1,Kc8hEAsLtLa9zfHyux23UoS91L1B2y3GZozz3efj0ilPeszwILAShOs3-RuX8dboAnKFuDO5h9FmEblZGT4vdFfyWsMyRcrqkBCUwSlM0NecDuYwwqRVuAQI1JM,&typo=1)-2021), Greater Noida, India. Topic: Advancing Machine-Learning methods Brain-Computer Interfacing. 
+
+*** 
+
 2020
 ======
 
