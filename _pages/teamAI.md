@@ -9,6 +9,7 @@ author_profile: true
 I am interested in collaborating and working with potential researchers who are interested in working on AI. My research interests and activities focus on the AI for decision-making, machine learning methods, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills in the following programming languages: Python, Matlab, and R. So, please feel free to get in touch if you are passionate about any of the above-mentioned topics.  
 
 
+
 *** 
 ## Post-Docs / Associates (Past & Present)
 
@@ -41,6 +42,18 @@ None at the moment
 
 * Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
+*** 
+## Academic and Industry Collaboration
+
+I also actively collaborate with the leading people in the academia and industries. Here is a list of my existing and past collaborations: 
+
+### IIIT-Lucknow, India
+
+### King-George Medical College, Lucknow, India
+
+### Ulster University, Northern-Ireland, UK
+
+### East Suffolk and North Essex NHS Foundation Trust, UK
 
 <!-- 
 
