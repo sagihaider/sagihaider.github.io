@@ -6,7 +6,17 @@ author_profile: true
 ---
 
 *** 
-I am interested in collaborating and working with potential researchers who are interested in working in AI. My research interests and activities focus on the AI for decision-making, machine learning methods, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills on the following programming languages: Python, Matlab, and R. So, please feel free to get in touch if you are passionate in any of the above-mentioned topics. 
+I am interested in collaborating and working with potential researchers who are interested in working on AI. My research interests and activities focus on the AI for decision-making, machine learning methods, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills in the following programming languages: Python, Matlab, and R. So, please feel free to get in touch if you are passionate about any of the above-mentioned topics.  
+
+
+*** 
+## Post-Docs / Associates (Past & Present)
+
+*** 
+## PhD Students (Past & Present)
+
+*** 
+## MSc Students (Past & Present)
 
 
 <!-- 
