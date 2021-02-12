@@ -21,6 +21,8 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## PhD Students (Past & Present)
 
+None at the moment
+
 *** 
 ## MSc & BSc Students (Past & Present)
 
