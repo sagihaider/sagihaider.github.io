@@ -21,8 +21,8 @@ main:
   - title: "News"
     url: /news/  
 
-  - title: "Covid19"
-    url: /covid19/ 
+  - title: "Team AI"
+    url: /teamAI/ 
     
   # - title: "Guide"
   #   url: /markdown/
