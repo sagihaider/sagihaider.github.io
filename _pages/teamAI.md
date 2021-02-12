@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 *** 
+I am interested in collaborating and working with potential researchers who are interested in working in AI. My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills on the following programming languages: Python, Matlab, and R. So, please feel free to get in touch if you are passionate in any of the above-mentioned topics. 
+
+<!-- 
 
 Early classification of 2019 novel coronavirus disease (COVID-19) is essential for disease cure and control. Compared with reverse-transcription polymerase chain reaction (RT-PCR), chest computed tomography (CT) imaging may be a significantly more trustworthy, useful, and rapid technique to classify and evaluate COVID-19, specifically in the epidemic region.
 
@@ -160,7 +163,7 @@ Ref: [Ref: Virology](https://www.virology.ws/2020/04/05/infection-fatality-rate-
 # **19. Confirmed Cases and Fatalities worldwide trend (without China) on log10 scale**
 <img src="/files/CovidImages/Unknown-38.png" width="800"> 
 
-
+ -->
 
 
 
