@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "COVID-19 Data Analysis"
-permalink: /covid19/
+title: "Team AI"
+permalink: /teamAI/
 author_profile: true
 ---
 
