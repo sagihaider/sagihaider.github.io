@@ -12,11 +12,32 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## Post-Docs / Associates (Past & Present)
 
+* Dr [Yogesh Kumar Meena](https://uk.linkedin.com/in/ykmeena): (KTP Associate: AI-Software Engineering, Feb-2021 to present) with [Mersea Homes](https://www.merseahomes.co.uk/), Colchester, England
+
+* Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with [Provide CIC](https://www.provide.org.uk/), Colchester, England
+
+* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020. Currently, Data Scientist - Barts Cancer Institute.
+
 *** 
 ## PhD Students (Past & Present)
 
 *** 
-## MSc Students (Past & Present)
+## MSc & BSc Students (Past & Present)
+
+
+
+* Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
+
+* Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
+
+* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Currently, Data Scientist - Barts Cancer Institute.
+
+
+* Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
+
+* Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
+
+* Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
 
 
 <!-- 

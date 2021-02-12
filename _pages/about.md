@@ -70,7 +70,7 @@ Current editorial duties
 * Guest Associate Editor in Neurotechnology and Systems Neuroergonomics: Machine Learning and Signal Processing for Neurotechnologies and Brain-Computer Interactions Out of the Lab [link to call](https://www.frontiersin.org/research-topics/17467/machine-learning-and-signal-processing-for-neurotechnologies-and-brain-computer-interactions-out-of)
 
 
-Supervision
+<!-- Supervision
 ======
 I'm interested in supervising PhD students. However, I am currently not having any external funding to support. Students with their own funding, please feel free to contact. 
 
@@ -99,7 +99,7 @@ Past:
 
 * Mr Ricardo González Martínez (MSc Student (2018-2019), Project Title: Price-prediction based on product features and description)
 
-* Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC.
+* Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/) (BSc Student (2018-2019), Project Title: WeatherBe - a full-stack web application). Now working as Graduate Software Engineer at BBC. -->
 
 
 Media and Press
