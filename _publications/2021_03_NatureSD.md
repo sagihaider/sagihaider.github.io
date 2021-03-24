@@ -1,0 +1,13 @@
+---
+title: "A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface"
+collection: publications
+permalink: /publication/2021_03_NatureSD
+excerpt: 'The dataset will be available for all AI and ML researchers around the globe to test/explore their MachineLearning and DataAnalytics algorithms to the first publicly available 306 channel four class MEG BCI data.'
+date: 2021-03-22
+venue: 'Scientific Data'
+citation: 'Rathee, D., Raza, H., Roy, S., and Prasad, G.  A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface. <i> Pediatric obesity</i>.'
+---
+
+<!-- [Article publicly available here](https://onlinelibrary.wiley.com/doi/full/10.1111/ijpo.12512) -->
+
+
