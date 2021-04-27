@@ -22,7 +22,7 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## PhD Students (Past & Present)
 
-None at the moment
+* **Mr John Bosco Uroko** is currently a part-time PhD student started in April 2021. John is exploring deep learning and data fusion techniques in BCI robotics. Dr Liang Hu is the main supervisor and I am co-supervising him with Professor Gu, Dongbing.
 
 *** 
 ## MSc & BSc Students (Past & Present)
