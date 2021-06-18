@@ -34,7 +34,6 @@ I am interested in collaborating and working with potential researchers who are 
 | 2020-21|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
 | 2020-21|Ms Monali V Gothi| MSc| Change/Shift Detection|
 | 2020-21|Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/)| MSc| Detecting COVID-19 using Chest CT-Scans|
-
 | 2020-21|Ms [Elena Barry](https://www.linkedin.com/in/elenabarry/)| BSc| Emojional: Emoji Embeddings|
 | 2020-21|Ms [Bradley Higson](https://www.linkedin.com/in/elenabarry/)| BSc| BCI-based Gesture Control of Computer Robotics|
 
