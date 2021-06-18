@@ -37,7 +37,7 @@ Here is a list of key publications:
 * [IEEE TCDS, 2017](https://ieeexplore.ieee.org/abstract/document/8239668)
 * [IEEE JBHI, 2019](https://ieeexplore.ieee.org/abstract/document/8424844)
 * [Neurocomputing, 2019](https://doi.org/10.1016/j.neucom.2018.04.087)
-* [Scientific Data, Nature, 20121](https://doi.org/10.1038/s41597-021-00899-7)
+* [Scientific Data, Nature, 2021](https://doi.org/10.1038/s41597-021-00899-7)
 
 
 
