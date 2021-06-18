@@ -49,7 +49,15 @@ I also actively collaborate with the leading people in the academia and industri
 
 ### IIIT-Lucknow, India
 
+Jointly working with IIIT-L ([Dr Vishal Krishna Singh](https://iiitl.ac.in/index.php/personnel/dr-vishal-krishna-singh/)) on advancing in AI that could be used in solving major global environmental crises--from climate change to agriculture. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including forest-fire, water availability, crop-monitoring, and ecosystems wellbeing. I am interested in bringing AI and ML to play a key role in enhancing environmental decision and policy-making work, by bringing algorithmic solutions to the following themes:
+
+* Developing forest-fire prediction algorithm using IoT
+* Image analysis for monitoring crops 
+
 ### King-George Medical College, Lucknow, India
+
+One of my key collaboration is with King George Medical College, Lucknow, India with whom we have signed a data-sharing agreement. We aim to develop an accurate computer vision-based diagnostic system for age-group estimation using dental X-ray images and this work is extremely important in forensic dentistry and for various medico-legal purposes. We are working with [Dr.Akhilanand Chaurasia](https://in.linkedin.com/in/dr-akhilanand-chaurasia-56b15b92) who is an Assistant Professor & Consultant
+King George's Medical University, India. 
 
 ### Ulster University, Northern-Ireland, UK
 
