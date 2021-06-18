@@ -35,10 +35,11 @@ I am interested in collaborating and working with potential researchers who are 
 | 2020-21|Ms Monali V Gothi| MSc| Change/Shift Detection|
 | 2020-21|Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/)| MSc| Detecting COVID-19 using Chest CT-Scans|
 
+| 2020-21|Ms [Elena Barry](https://www.linkedin.com/in/elenabarry/)| BSc| Emojional: Emoji Embeddings|
+| 2020-21|Ms [Bradley Higson](https://www.linkedin.com/in/elenabarry/)| BSc| BCI-based Gesture Control of Computer Robotics|
 
 
 
-* MS [Elena Barry](https://www.linkedin.com/in/elenabarry/) (BSc Student (2020 - 2021)), Project Title: Emojional: Emoji Embeddings
 
 * Mr [Bradley Higson ](https://www.linkedin.com/in/bradley-higson-840a83b1/) (BSc Student (2020 - 2021)), Project Title: BCI-based Gesture Control of Computer Robotics
 
