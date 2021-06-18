@@ -35,6 +35,16 @@ I am interested in collaborating and working with potential researchers who are 
 
 * Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/) (MSc Student (2020 - 2021)), Project Title: Detecting COVID-19 using Chest CT-Scans
 
+* MS [Elena Barry](https://www.linkedin.com/in/elenabarry/) (BSc Student (2020 - 2021)), Project Title: Emojional: Emoji Embeddings
+
+* Mr [Bradley Higson ](https://www.linkedin.com/in/bradley-higson-840a83b1/) (BSc Student (2020 - 2021)), Project Title: BCI-based Gesture Control of Computer Robotics
+
+* Mr Ryan Van Dijck (BSc Student (2020 - 2021)), Project Title: Git back task management system
+
+* Mr Samuel P Eley (BSc Student (2020 - 2021)), Project Title: Online Survey System
+
+* Mr [Toochukwu KAniagwu](https://www.linkedin.com/in/toochukwu-aniagwu-476431146/) (BSc Student (2020 - 2021)), Project Title: Collaborative Whiteboard
+
 * Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
 
 * Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
