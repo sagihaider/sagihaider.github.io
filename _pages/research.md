@@ -57,6 +57,10 @@ Here is a list of the projects:
 
 Rates of [melanoma](https://en.wikipedia.org/wiki/Melanoma) and [non-melanoma](https://www.nhs.uk/conditions/non-melanoma-skin-cancer/) skin cancer have been rising significantly during the last three decades, and waiting times for assessment of a suspicious skin lesion are long in both the NHS and the private health sector in the UK. By developing artificial intelligence-based computer vision algorithms we can improve the early detection rate, which gives a better outcome for the patient, and means resources can be effectively managed for more serious cases. [To read more](https://www.essex.ac.uk/research-projects/Artificial-Intelligence-for-Diagnosis-of-Skin-Cancer)
 
+* Predictors of objectively measured physical activity in 12‐month‐old infants
+
+Physical activity (PA) levels are associated with long-term health, and levels of PA when young are predictive of adult activity levels. We examined factors associated with PA levels in 12-month infants. 141 mother-infant pairs were recruited via a longitudinal birth cohort study (April 2010 to March 2013) at Wales. The PA level was collected using accelerometers and linked to postnatal notes and electronic medical records via the Secure Anonymised Information Linkage databank. Univariable and multivariable linear regressions were used to examine the factors associated with PA levels. We founds that the PA levels of infants were strongly associated with both gestational and postnatal environmental factors. Healthy behaviours appear to cluster, and a healthy diet was associated with a more active infant. Boys were substantially more active than girls, even at age 12 months. These findings can help inform interventions to promote healthier lives for infants and to understand the determinants of their PA levels. [To read more](https://doi.org/10.1111/ijpo.12512)
+
 *** 
 **3. Environmental Sciences and Agriculture**
 
