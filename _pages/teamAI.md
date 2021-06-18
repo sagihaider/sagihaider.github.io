@@ -36,23 +36,14 @@ I am interested in collaborating and working with potential researchers who are 
 | 2020-21|Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/)| MSc| Detecting COVID-19 using Chest CT-Scans|
 | 2020-21|Ms [Elena Barry](https://www.linkedin.com/in/elenabarry/)| BSc| Emojional: Emoji Embeddings|
 | 2020-21|Ms [Bradley Higson](https://www.linkedin.com/in/elenabarry/)| BSc| BCI-based Gesture Control of Computer Robotics|
+| 2020-21|Ms [Ryan Van Dijck](https://www.linkedin.com/in/elenabarry/)| BSc| Online Survey System|
+| 2020-21|Ms [Toochukwu Kaniagwu](https://www.linkedin.com/in/toochukwu-aniagwu-476431146/)| BSc| Collaborative Whiteboard|
+| 2019-20|Ms [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7)| BSc| Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application|
+| 2019-20|Ms [Ryan Shaw](https://www.linkedin.com/in/toochukwu-aniagwu-476431146/)| BSc| Machine Learning for Stock Price Prediction |
+| 2019-20|Ms [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk)| MSc| Deep Learning for Text|
 
 
 
-
-* Mr [Bradley Higson ](https://www.linkedin.com/in/bradley-higson-840a83b1/) (BSc Student (2020 - 2021)), Project Title: BCI-based Gesture Control of Computer Robotics
-
-* Mr Ryan Van Dijck (BSc Student (2020 - 2021)), Project Title: Git back task management system
-
-* Mr Samuel P Eley (BSc Student (2020 - 2021)), Project Title: Online Survey System
-
-* Mr [Toochukwu KAniagwu](https://www.linkedin.com/in/toochukwu-aniagwu-476431146/) (BSc Student (2020 - 2021)), Project Title: Collaborative Whiteboard
-
-* Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
-
-* Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
-
-* Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Currently, Data Scientist - Barts Cancer Institute.
 
 * Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
 
