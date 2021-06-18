@@ -27,11 +27,17 @@ The following are my areas of research:
 
 A major issue in bringing real-world applications of machine learning outside the laboratory is the difference in the data distributions between training and testing stages or domains. The diverging statistical properties in different domains can lead to decay the prediction performance. The technical term for a change in the distribution of features is covariate shift, which also happens to be a common challenge in electroencephalography (EEG) and Magnetoencephalography (MEG) based brain-computer interface (BCI); this is due to the presence of non-stationarities in the EEG/MEG signals. The non-stationary nature of EEG/MEG signals makes an EEG/MEG-based BCI a dynamic system, thus improving its performance is a challenging task. A lot of adaptive machine learning approaches have been developed and used previously to tackle this challenge such as passive and active approach for learning, domain adaptation, transfer learning, covariate shift minimization, deep learning, and more. I am particularly interested in developing methods for covariate shift adaptation in both EEG/MEG datasets. To visualize the covariate shift generally scatter plot and histogram are used. I am also interested in exploring new ways of analysing, visualizing, and measuring the covariate shift in data. 
 
+<p align="center">
+  <img width="1000" height="500" src="/images/bci.jpeg">
+</p>
+
 Here is a list of key publications:
 
 * [Soft Computing, 2016](https://link.springer.com/article/10.1007/s00500-015-1937-5)
 * [IEEE TCDS, 2017](https://ieeexplore.ieee.org/abstract/document/8239668)
 * [IEEE JBHI, 2019](https://ieeexplore.ieee.org/abstract/document/8424844)
+* [Neurocomputing, 2019](https://doi.org/10.1016/j.neucom.2018.04.087)
+* [Scientific Data, Nature, 20121](https://doi.org/10.1038/s41597-021-00899-7)
 
 
 
