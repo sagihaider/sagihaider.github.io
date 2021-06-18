@@ -27,14 +27,19 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## MSc & BSc Students (Past & Present)
 
+* Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/) (MSc Student (2020 - 2021)), Project Title: Advancing Melanoma Detection using Computer Vision
 
+* Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/) (MSc Student (2020 - 2021)), Project Title: Predictive Analytics in Crypto Currency
+
+* Ms Monali V Gothi (MSc Student (2020 - 2021)), Project Title: Change/Shift Detection
+
+* Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/) (MSc Student (2020 - 2021)), Project Title: Detecting COVID-19 using Chest CT-Scans
 
 * Mr [Jeet Sachania](https://uk.linkedin.com/in/jeet-sachania-453113b7) (BSc Student (2019 - 2020)), Project Title: Using Microsoft Power BI To Create Enterprise Applications: Stitch – A data consolidation application.
 
 * Mr [Ryan Shaw](https://www.linkedin.com/in/ryanshaw98/) (BSc Student (2019 - 2020)), Project Title: Machine Learning for Stock Price Prediction 
 
 * Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Deep Learning for Text). Currently, Data Scientist - Barts Cancer Institute.
-
 
 * Ms [Pranavi Vasa](https://www.linkedin.com/in/pranavi-vasa/?originalSubdomain=uk) (MSc Student (2018-2019), Project Title: Handling Covariate Shift using Deep Learning). Now working at University of Sufflok as KTP Associate
 
