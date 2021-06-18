@@ -27,9 +27,12 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## MSc & BSc Students (Past & Present)
 
-* Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/) (MSc Student (2020 - 2021)), Project Title: Advancing Melanoma Detection using Computer Vision
 
-* Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/) (MSc Student (2020 - 2021)), Project Title: Predictive Analytics in Crypto Currency
+| Year | Student Name | Course | Title |
+|-------|--------|---------|---------|
+| 2020-21|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/)| MSc| Advancing Melanoma Detection using Computer Vision|
+| 2020-21|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
+
 
 * Ms Monali V Gothi (MSc Student (2020 - 2021)), Project Title: Change/Shift Detection
 
