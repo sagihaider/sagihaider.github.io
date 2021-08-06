@@ -53,6 +53,11 @@ Healthcare analytics is the combination of data science and healthcare, where da
 
 Here is a list of the projects:
 
+
+* AI-driven SMART Triage System [Provide CIC](https://www.provide.org.uk/)
+
+We are working on a project that will enable Provide CIC to improve their current clinical triage process in terms of significant reduction of processing time and better decision making. Moreover, the product has been designed in a commercial environment, hence capable of generating significant revenue through sales as a service to other healthcare service providers. 
+
 * Artificial Intelligence for Diagnosis of Skin Cancer with [Check4Cancer](https://www.check4cancer.com/)
 
 Rates of [melanoma](https://en.wikipedia.org/wiki/Melanoma) and [non-melanoma](https://www.nhs.uk/conditions/non-melanoma-skin-cancer/) skin cancer have been rising significantly during the last three decades, and waiting times for assessment of a suspicious skin lesion are long in both the NHS and the private health sector in the UK. By developing artificial intelligence-based computer vision algorithms we can improve the early detection rate, which gives a better outcome for the patient, and means resources can be effectively managed for more serious cases. [To read more](https://www.essex.ac.uk/research-projects/Artificial-Intelligence-for-Diagnosis-of-Skin-Cancer)
