@@ -15,7 +15,7 @@ I am interested in collaborating and working with potential researchers who are 
 
 * Dr [Yogesh Kumar Meena](https://uk.linkedin.com/in/ykmeena): (KTP Associate: AI-Software Engineering, Feb-2021 to present) with [Mersea Homes](https://www.merseahomes.co.uk/), Colchester, England
 
-* Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to present) with [Provide CIC](https://www.provide.org.uk/), Colchester, England
+* Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to Non-2021) with [Provide CIC](https://www.provide.org.uk/), Colchester, England. Currently, Dheeraj is a Chief Technical and Analytics Offcer (CTAO) at Provide Digital. 
 
 * Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) (MSc Student (2018-2019), Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020. Currently, Data Scientist - Barts Cancer Institute.
 
