@@ -10,6 +10,8 @@ author_profile: true
 2021
 ======
 
+* Publication Manuscript Accepted and Published at UKCI 2021. Title: "Emojional: Emoji Embeddings". [Link to manuscript](https://link.springer.com/chapter/10.1007/978-3-030-87094-2_27)
+
 * Publication Manuscript Accepted in Scientific Data, Nature. Title: "A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface". [Link to manuscript](https://www.nature.com/articles/s41597-021-00899-7)
 
 * Keynote speaker at "ICCCIS-2021: International Conference on Computing, Communication, and Intelligent Systems ([ICCCIS](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2ficccis.in%2f&c=E,1,Kc8hEAsLtLa9zfHyux23UoS91L1B2y3GZozz3efj0ilPeszwILAShOs3-RuX8dboAnKFuDO5h9FmEblZGT4vdFfyWsMyRcrqkBCUwSlM0NecDuYwwqRVuAQI1JM,&typo=1)-2021), Greater Noida, India. Topic: Advancing Machine-Learning methods Brain-Computer Interfacing. Dates: 19th -20th Feb 2021.
