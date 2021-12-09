@@ -30,7 +30,7 @@ I am interested in collaborating and working with potential researchers who are 
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
-| 2020-21|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/)| MSc| Advancing Melanoma Detection using Computer Vision|
+| 2020-21|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/). Currently, KTP Associate with Code WorldwWide and University of Essex| MSc| Advancing Melanoma Detection using Computer Vision|
 | 2020-21|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
 | 2020-21|Ms Monali V Gothi| MSc| Change/Shift Detection|
 | 2020-21|Mr [Kyriakos Michael](https://www.linkedin.com/in/kyriakos-michael-1b450a147/)| MSc| Detecting COVID-19 using Chest CT-Scans|
