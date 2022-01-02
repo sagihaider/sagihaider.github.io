@@ -24,21 +24,10 @@ The following are my areas of research:
 
 
 1. [EEG/MEG-based Brain-Computer Interfacing](#BCI)
-<!-- 2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Healthcare and Predictive Analytics](#healthcare)
+3. [Environmental Sciences and Agriculture](#env-agri)
+4. [AI in Engineering and Architecture](#eng-arch)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text -->
 
 *** 
 **1. EEG/MEG-based Brain-Computer Interfacing <a name="BCI"></a>**
@@ -60,7 +49,7 @@ Here is a list of key publications:
 
 
 *** 
-**2. Healthcare and Predictive Analytics**
+**2. Healthcare and Predictive Analytics<a name="healthcare"></a>**
 
 Healthcare analytics is the combination of data science and healthcare, where data analytics is used on healthcare data for offering insights into hospital management, patient records, costs, diagnoses, and more. The field covers a broad area of the healthcare industry, offering insights on both the macro and micro level. When combined with artificial intelligence and machine learning methods and data visualisation tools, healthcare analytics helps managers operate better by providing real-time information that can support decisions, predictive power, and deliver actionable insights. I am particularly interested in the following themes:
 
@@ -85,7 +74,7 @@ Rates of [melanoma](https://en.wikipedia.org/wiki/Melanoma) and [non-melanoma](h
 Physical activity (PA) levels are associated with long-term health, and levels of PA when young are predictive of adult activity levels. We examined factors associated with PA levels in 12-month infants. 141 mother-infant pairs were recruited via a longitudinal birth cohort study (April 2010 to March 2013) at Wales. The PA level was collected using accelerometers and linked to postnatal notes and electronic medical records via the Secure Anonymised Information Linkage databank. Univariable and multivariable linear regressions were used to examine the factors associated with PA levels. We founds that the PA levels of infants were strongly associated with both gestational and postnatal environmental factors. Healthy behaviours appear to cluster, and a healthy diet was associated with a more active infant. Boys were substantially more active than girls, even at age 12 months. These findings can help inform interventions to promote healthier lives for infants and to understand the determinants of their PA levels. [To read more](https://doi.org/10.1111/ijpo.12512)
 
 *** 
-**3. Environmental Sciences and Agriculture**
+**3. Environmental Sciences and Agriculture<a name="env-agri"></a>**
 
 Advances in AI could be one of the solutions to solving major global environmental crises--from climate change to agriculture. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including forest-fire, water availability, crop-monitoring, and ecosystems wellbeing. I am interested in bringing AI and ML to play a key role in enhancing environmental decision and policy-making work, by bringing algorithmic solutions to the following themes:
 
@@ -95,7 +84,7 @@ Advances in AI could be one of the solutions to solving major global environment
 [Highlights](http://sagihaider.github.io/files/ForestFire.pdf), 2020
 
 *** 
-**4. AI in Engineering and Architecture**
+**4. AI in Engineering and Architecture<a name="eng-arch"></a>**
 
 <p align="center">
   <img width="600" height="250" src="/images/layout.gif">
