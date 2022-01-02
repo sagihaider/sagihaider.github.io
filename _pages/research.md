@@ -22,8 +22,26 @@ The picture that changed my life is given below. The picture is from the book ``
 *** 
 The following are my areas of research:
 
+
+1. [EEG/MEG-based Brain-Computer Interfacing](#BCI)
+<!-- 2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text -->
+
 *** 
-**1. EEG/MEG-based Brain-Computer Interfacing**
+**1. EEG/MEG-based Brain-Computer Interfacing <a name="BCI"></a>**
 
 A major issue in bringing real-world applications of machine learning outside the laboratory is the difference in the data distributions between training and testing stages or domains. The diverging statistical properties in different domains can lead to decay the prediction performance. The technical term for a change in the distribution of features is covariate shift, which also happens to be a common challenge in electroencephalography (EEG) and Magnetoencephalography (MEG) based brain-computer interface (BCI); this is due to the presence of non-stationarities in the EEG/MEG signals. The non-stationary nature of EEG/MEG signals makes an EEG/MEG-based BCI a dynamic system, thus improving its performance is a challenging task. A lot of adaptive machine learning approaches have been developed and used previously to tackle this challenge such as passive and active approach for learning, domain adaptation, transfer learning, covariate shift minimization, deep learning, and more. I am particularly interested in developing methods for covariate shift adaptation in both EEG/MEG datasets. To visualize the covariate shift generally scatter plot and histogram are used. I am also interested in exploring new ways of analysing, visualizing, and measuring the covariate shift in data. 
 
