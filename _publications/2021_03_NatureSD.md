@@ -2,6 +2,7 @@
 title: "A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface"
 collection: publications
 permalink: /publication/2021_03_NatureSD
+excerpt: 'The dataset will be available for all AI and ML researchers around the globe to test/explore their MachineLearning and DataAnalytics algorithms to the first publicly available 306 channel four class MEG BCI data.'
 date: 2021-04-21
 venue: 'Scientific Data'
 doi: 'https://doi.org/10.1038/s41597-021-00899-7'
