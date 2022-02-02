@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2022_02_IEEESensor
 date: 2022-02-01
 venue: 'IEEE Sensors Journal'
-<!-- doi: 'https://doi.org/10.1038/s41597-021-00899-7' -->
 citation: 'Singh, VK., Singh, C., and Raza, H.  Event Classification and Intensity Discrimination for Forest Fire Inference With IoT. <i> IEEE Sensors Journal/i>.'
 ---
 
