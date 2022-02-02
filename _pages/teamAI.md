@@ -30,6 +30,14 @@ I am interested in collaborating and working with potential researchers who are 
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
+| 2021-22|Mr [Antony James](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
+| 2021-22|Mr [Nouman Mureed](https://www.linkedin.com/in/nouman-mureed-4a2227132/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
+| 2021-22|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/). Currently, KTP Associate with Code WorldwWide and University of Essex| MSc| Advancing Melanoma Detection using Computer Vision|
+| 2021-22|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
+| 2021-22|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/). Currently, KTP Associate with Code WorldwWide and University of Essex| MSc| Advancing Melanoma Detection using Computer Vision|
+
+
+
 | 2020-21|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/). Currently, KTP Associate with Code WorldwWide and University of Essex| MSc| Advancing Melanoma Detection using Computer Vision|
 | 2020-21|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
 | 2020-21|Ms Monali V Gothi| MSc| Change/Shift Detection|
