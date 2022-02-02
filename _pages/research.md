@@ -60,6 +60,14 @@ Healthcare analytics is the combination of data science and healthcare, where da
 
 Here is a list of the projects:
 
+* Computer Vision in Dentistry:
+
+Radiography, intraoral scans, and facial scans often present dental practitioners with a quantity of overwhelming and unstructured data. AI-driven dental imaging solutions can help us to make an informed decisions quickly and efficiently. AI driven algorithms have proved to outperform dentists in diagnosing tooth decay or predicting whether a tooth should be extracted, retained, or have restorative treatment. We are focusing on a range of dentistry applications:
+
+1. Periodontology
+2. Forensic dentistry 
+3. Dental radiography 
+
 
 * AI-driven SMART Triage System [Provide CIC](https://www.provide.org.uk/)
 
