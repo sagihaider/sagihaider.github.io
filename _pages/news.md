@@ -5,7 +5,21 @@ permalink: /news/
 author_profile: true
 ---
 
+2022
+======
 
+* Publication Manuscript Accepted and Published in IEEE Sensors Journal. Title: "Event Classification and Intensity Discrimination for Forest Fire Inference With IoT". [Link to manuscript](https://ieeexplore.ieee.org/abstract/document/9744118). This publication is an output from our GRCF project with IIIT-Lucknow, India. 
+
+
+* **Grant**: _KTP_: 'Melanoma Detection using Advance Computer Vision', Funding Amount: £180,672.00
+, Funder: 67% Innovate UK and 33% Check4Cancer Limited, Role: Academic Lead (i.e. PI)
+
+* **Grant**: _KTP_: 'Examine work practices and embed leading-edge management theory to drive operational efficiency in a financial advice SME', Funding Amount: £185,972.00
+, Funder: 67% Innovate UK and 33% Brightstar Financial Limited, Role: Academic Supervisor
+
+
+* **Grant**: _KTP_: 'Eastern Region Multi-Agency Intelligence Tool', Funding Amount: Total £1 Million (University of Essex: 
+£103,279.57), Funder: Ministry for Levelling Up, Housing and Communities via “Local Data Accelerator Fund for Children and Families”, Role: Co-investigator
 
 2021
 ======
@@ -17,6 +31,10 @@ author_profile: true
 * Keynote speaker at "ICCCIS-2021: International Conference on Computing, Communication, and Intelligent Systems ([ICCCIS](https://linkprotect.cudasvc.com/url?a=http%3a%2f%2ficccis.in%2f&c=E,1,Kc8hEAsLtLa9zfHyux23UoS91L1B2y3GZozz3efj0ilPeszwILAShOs3-RuX8dboAnKFuDO5h9FmEblZGT4vdFfyWsMyRcrqkBCUwSlM0NecDuYwwqRVuAQI1JM,&typo=1)-2021), Greater Noida, India. Topic: Advancing Machine-Learning methods Brain-Computer Interfacing. Dates: 19th -20th Feb 2021.
 
 * Member of Advisory Board “Advances in Applied Sciences, Engineering and Technology (AASET-2021)”, on May 21-22, 2021.
+
+* **Grant**: _KTP_: 'AI-assisted smart off-site communication in property development', Funding Amount: £211,843.00
+, Funder: 67% Innovate UK and 33% Mersea Homes Limited, Role: Academic Supervisor
+
 *** 
 
 2020
