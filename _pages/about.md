@@ -13,9 +13,7 @@ redirect_from:
 ## Welcome to my homepage about my ongoing research and teaching activities.
  
 
-I am a Lecturer in [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) at the [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), at the [University of Essex](https://www.essex.ac.uk/). Previously, I worked as Post-doctoral Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), School of Computer Science and Electronic Engineering, University of Essex. 
-
-The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
+I am an India-born British computer scientist and currently working as Senior Lecturer in [Artificial Intelligence](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/artificial-intelligence) at the [School of Computer Science and Electronic Engineering](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), at the [University of Essex](https://www.essex.ac.uk/). Previously, I worked as Post-doctoral Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/research/institutes-and-centres/institute-for-analytics-and-data-science), School of Computer Science and Electronic Engineering, University of Essex. The link for my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). Please feel free to explore this website by using the navigation panel on the top and links on the left. Don't hesitate to contact me if you want any additional information or if you are interested in a research collaboration. Hope you'll enjoy it!
 
 
 Biography
@@ -23,14 +21,12 @@ Biography
 I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; master's degree in Computer Engineering from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from [Colvin Taluqdars' College](https://en.wikipedia.org/wiki/Colvin_Taluqdars%27_College) in Lucknow, which is one of the oldest private schools in India. I was born in the city of [Lucknow](https://en.wikipedia.org/wiki/Lucknow) and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow. 
 
 
-I have previously worked at [Swansea University](https://www.swansea.ac.uk/), Wales, UK; [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; [Dilla University](http://www.du.edu.et/), Ethiopia; and [Manav Rachna International University](https://manavrachna.edu.in/), India. 
+Prior to joining University of Essex, I worked at [Swansea University](https://www.swansea.ac.uk/), Wales, UK; [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; [Dilla University](http://www.du.edu.et/), Ethiopia; and [Manav Rachna International University](https://manavrachna.edu.in/), India. 
 
 I am also associated with following professional bodies: 
 
 * Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
 * Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
-
-
 
 
 <!-- Job Opening
@@ -55,7 +51,7 @@ Research interests
 My research interests and activities focus on the artificial intelligence machine learning for decision making, non-stationary learning, brain-computer interface, EEG/MEG signal processing, computer vision, and computational intelligence methods for healthcare, businesses, and environment. I work on the development of intelligent systems and practices my skills on the following programming languages: Python, Matlab, and R. 
 
 I am associated to the following research groups at the University of Essex:
-1. [AI for Decision Making](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/ai-for-decision-making) 
+1. [Artificial Intelligence and explainable AI](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/artificial-intelligence) 
 2. [Brain-Computer Interfacing](http://essexbcis.uk/)
 3. [Computer Vision](https://essexnlip.uk/computer-vision/)
 
