@@ -10,7 +10,7 @@ author_profile: true
 
 
 * Won best academic awards
-[![KTP Best Academic 2022](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=-7VJq4hC6cA "KTP Best Academic 2022!")
+[![KTP Best Academic 2022](<img src="/images/AwardThumnail.png" style="width:800px;height:300px;">)](https://www.youtube.com/watch?v=-7VJq4hC6cA "KTP Best Academic 2022!")
 
 * Publication Manuscript Accepted and Published in IEEE Sensors Journal. Title: "Event Classification and Intensity Discrimination for Forest Fire Inference With IoT". [Link to manuscript](https://ieeexplore.ieee.org/abstract/document/9744118). This publication is an output from our GRCF project with IIIT-Lucknow, India. 
 
