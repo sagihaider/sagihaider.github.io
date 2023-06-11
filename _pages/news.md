@@ -3,7 +3,37 @@ layout: single
 title: ""
 permalink: /news/
 author_profile: true
+
 ---
+2023
+======
+
+
+### Publication: 
+
+* CLEFT: Contextualised Unified Learning of User Engagement in Video Lectures With Feedback S Roy, V Gaur, H Raza, S Jameel IEEE Access 11, 17707-17720	 
+
+* Graph Laplacian for Heterogeneous Data Clustering in Sensor-Based Internet of Things VK Singh, G Tripathi, A Ojha, R Bhardwaj, H Raza IETE Journal of Research, 1-13
+
+### Talks:
+* Delivered R Boot Camp at the University of Essex (Jan 2023)
+* Delivered Data Science for All Boot Camp at the University of Essex (Jan 2023)
+
+### Leadership:
+
+* Took PhD viva at University of Sheffield 
+* Attended ACCUATE Accelerator Program 
+* Best Partnership Award 2022
+* Social media for researchers - panel discussion & networking
+* Delivered a talk at BLG DRC event on Explainable AI
+* Delivered a keynote at ICACIA – 2023 International Conference on Advances in Computational Intelligence and it’s Applications February 23-25, 2023
+* COM-IT-CON-2023 Keynote on 15th July 2023
+
+Funding:
+
+* **Grant**: Applied for _KTP_: 'Intelligent Recommendation in Logistic Business', Funding Amount: XXX,XXX.00
+, Funder: 67% Innovate UK and 33% Trunk Logistic, Role: Academic Supervisor
+
 
 2022
 ======
