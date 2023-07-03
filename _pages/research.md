@@ -53,6 +53,14 @@ Here is a list of key publications:
 
 Healthcare analytics is the combination of data science and healthcare, where data analytics is used on healthcare data for offering insights into hospital management, patient records, costs, diagnoses, and more. The field covers a broad area of the healthcare industry, offering insights on both the macro and micro level. When combined with artificial intelligence and machine learning methods and data visualisation tools, healthcare analytics helps managers operate better by providing real-time information that can support decisions, predictive power, and deliver actionable insights. I am particularly interested in the following themes:
 
+
+1. **Skin Cancer Detection (2022-2024)**: Secured £204,671.98 in research funding as the principal investigator (PI) from Innovate UK, in collaboration with Check4Cancer (UK), to develop a state-of-the-art AI engine for detecting melanoma-based skin cancer lesions. As part of this project, we have hired a post-doctoral researcher who is currently developing explainable Vision Transformers and other computer vision-based methods to launch a robust AI model within a mobile app, with a particular emphasis on minimizing false negatives. We have access to the Check4Cancer dataset, which consists of dermoscopic and digital images, along with metadata collected over the past two decades. The highlights of the project are available at the University of Essex webpages: [Blog 1](https://www.essex.ac.uk/research-projects/artificial-intelligence-for-diagnosis-of-skin-cancer) and [Blog 2](https://www.essex.ac.uk/news/2022/12/13/check4cancer-launches-skin-cancer-ai-project-with-the-university-of-essex).
+
+
+
+
+
+
 * AI & data-driven SMART triage system 
 * AI Pathway with an intelligent decision support system
 * Technology and digital transformation for future healthcare
