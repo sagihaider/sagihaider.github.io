@@ -66,6 +66,7 @@ Healthcare analytics is the combination of data science and healthcare, where da
     + Read the business case study [Click here to read](https://www.essex.ac.uk/business/expertise/case-studies/provide).
             
 
+3. **Forensic Dentistry**: AI-driven algorithms have proven to outperform dentists in diagnosing tooth decay and predicting the need for tooth extraction, retention, or restorative treatment. I have collaborated with dentists from around the world, including Professor Akhilananda Chaurasia from the Department of Oral Medicine and Radiology at King George's Medical University, India, and Professor Rachel Sarig from the Goldschleger School of Dental Medicine, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. We are working on a couple of research projects such as estimating the age and gender of living individuals using Molar teeth from OPG radiographs, collating first ever OPG dataset for mental foramen to be submitted in Scientific Data, and detecting and segmenting mental foramen from OPG radiographs. Our AI research focuses on various applications in dentistry, including periodontology, forensic dentistry, and dental radiography. The output from one of our research projects is submitted for publication in the Journal of Dentistry \cite{Raza2023}.
 
 
 * AI & data-driven SMART triage system 
