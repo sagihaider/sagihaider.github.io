@@ -58,6 +58,13 @@ Healthcare analytics is the combination of data science and healthcare, where da
 
 
 
+2. **AI-assisted Patient Triaging in NHS (2017-2020)**: Secured £558,251.75 in research funding as the principal investigator (PI) from Innovate UK, in collaboration with Provide CIC, to develop the AI-Assisted Intelligent Triaging System for musculoskeletal services. In this research project, we designed, developed, and deployed the Smart Referral System, which provides several benefits to the company, including a significant reduction in clinician staff time and a highly efficient patient triage process. The project also contributed to the development of standardized referral pathways for 12 different clinical services. We have successfully completed the Provide CIC KTP project with several major contributions in AI-related healthcare. The KTP Project was able to adapt extremely successfully to the highly challenging conditions brought about by the global pandemic and the radical shift in care delivery. The developed novel AI-based architecture allows real-time patient triaging and directs them to appropriate clinical pathways accordingly. This has simultaneously reduced face-to-face appointments, which is crucial in the current conditions while providing patients with immediate access to self-management treatments. The creation of an entirely new approach to service delivery has revolutionized the clinical referral pathway, significantly reducing the time taken for triage decisions from weeks or months to just a few hours. All the required information is provided instantaneously to the key decision makers.The project has won several awards, which are given as follows:
+
+
+* Best Associate Award was secured by our post-doc (KTP associate: Dr Dheeraj Rathee) [Click here to read](https://www.essex.ac.uk/news/2021/10/21/essex-ktp-awards-2021)
+* I won the Best Academic Award for this project. [Click here to watch it on YouTube](https://www.youtube.com/watch?v=-7VJq4hC6cA).
+* Read the business case study [Click here to read](https://www.essex.ac.uk/business/expertise/case-studies/provide).
+            
 
 
 
