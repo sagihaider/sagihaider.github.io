@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+bibliography: references.bib
 author_profile: true
 ---
 
