@@ -34,18 +34,16 @@ I am interested in collaborating and working with potential researchers who are 
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
-<!-- 2021-2023 -->
 | 2022-23|Mr [Charles Bond](https://www.linkedin.com/in/charles-bond/), currently, doing MSc dissertation, University of Essex| MSc|Single Trial Classification of MEG signal for Motor Imagery Detection|
 | 2022-23|Ms [Minerva Sarma](https://www.linkedin.com/in/minerva-sarma-299508157/), currently, doing MSc dissertation, University of Essex| MSc|Analyis of Non-Stationarity in MEG Signals|
 | 2022-23|Mr [Isreal Ufumaka](https://www.linkedin.com/in/isreal-ufumaka/, currently, doing MSc dissertation, University of Essex| MSc|Skin Cancer Detection|
 | 2022-23|Mr [Gayathri Mol Shajimon](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI for Melanoma Detection|
 | 2023-23|Mr [Moin Hassan](https://www.linkedin.com/in/hassanmoin1/), currently, doing MSc dissertation, University of Essex| MSc|AI in Dentistry|
-<!-- 2021-2023 -->
-| 2021-22|Mr [Antony James](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
+| 2021-22|Mr [Antony James](https://www.linkedin.com/in/antony-james-937149196/), University of Essex| MSc|AI based age prediction from Mental Foramen|
 | 2021-22|Mr [Nouman Mureed](https://www.linkedin.com/in/nouman-mureed-4a2227132/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
-| 2021-22|Ms [Oana Blagoe](https://www.linkedin.com/in/oana-blagoe/), currently, doing MSc dissertation, University of Essex| MSc|Identification of individual age using first molar images|
-| 2021-22|Ms [Tanushree Kulkarni](https://www.linkedin.com/in/tanushree-kulkarni-b75921144/), currently, doing MSc dissertation, University of Essex| MSc|Identification of individual age using first molar images|
-| 2021-22|Ms Madanayakanahalli Srinivasa Murthy, Sriramya, currently, doing MSc dissertation, University of Essex| MSc|Transfer Learning for Oral Cancer Detection using Microscopic Images|
+| 2021-22|Ms [Oana Blagoe](https://www.linkedin.com/in/oana-blagoe/), University of Essex| MSc|Identification of individual age using first molar images|
+| 2021-22|Ms [Tanushree Kulkarni](https://www.linkedin.com/in/tanushree-kulkarni-b75921144/), University of Essex| MSc|Identification of individual age using first molar images|
+| 2021-22|Ms Madanayakanahalli Srinivasa Murthy, Sriramya, University of Essex| MSc|Transfer Learning for Oral Cancer Detection using Microscopic Images|
 | 2020-21|Mr [Varun Dutt](https://www.linkedin.com/in/varun-dutt-b9b56b162/). Currently, KTP Associate with Code WorldwWide and University of Essex| MSc| Advancing Melanoma Detection using Computer Vision|
 | 2020-21|Mr [Faizan A Waheed Khan](https://www.linkedin.com/in/faizan-khan-76379345/)| MSc| Predictive Analytics in Crypto Currency|
 | 2020-21|Ms Monali V Gothi| MSc| Change/Shift Detection|
