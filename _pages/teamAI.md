@@ -22,6 +22,10 @@ I am interested in collaborating and working with potential researchers who are 
 *** 
 ## PhD Students (Past & Present)
 
+* **Mr Mohsin Ali** is currently a full-time PhD student started in April 2022. Mohsin is exploring explainable AI and it's application to healthcare. Professor John Q Gan co-supervising Mohsin.
+
+* **Mr Rahmat** is currently a full-time PhD student started in April 2022. Rahmat is working on Computer Vision techniques for improving Melanona detection performance. Professor John Q Gan is the main supervisor and I am co-supervising.
+
 * **Mr John Bosco Uroko** is currently a part-time PhD student started in April 2021. John is exploring deep learning and data fusion techniques in BCI robotics. Dr Liang Hu is the main supervisor and I am co-supervising him with Professor Gu, Dongbing.
 
 *** 
@@ -30,6 +34,13 @@ I am interested in collaborating and working with potential researchers who are 
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
+<!-- 2021-2023 -->
+| 2022-23|Mr [Charles Bond](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|Single Trial Classification of MEG signal for Motor Imagery Detection|
+| 2022-23|Ms [Minerva Sarma](https://www.linkedin.com/in/minerva-sarma-299508157/), currently, doing MSc dissertation, University of Essex| MSc|Analyis of Non-Stationarity in MEG Signals|
+| 2022-23|Mr [Isreal Ufumaka](https://www.linkedin.com/in/isreal-ufumaka/, currently, doing MSc dissertation, University of Essex| MSc|Skin Cancer Detection|
+| 2022-23|Mr [Gayathri Mol Shajimon](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI for Melanoma Detection|
+| 2023-23|Mr [Moin Hassan](https://www.linkedin.com/in/hassanmoin1/), currently, doing MSc dissertation, University of Essex| MSc|AI in Dentistry|
+<!-- 2021-2023 -->
 | 2021-22|Mr [Antony James](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
 | 2021-22|Mr [Nouman Mureed](https://www.linkedin.com/in/nouman-mureed-4a2227132/), currently, doing MSc dissertation, University of Essex| MSc|AI based age prediction from Mental Foramen|
 | 2021-22|Ms [Oana Blagoe](https://www.linkedin.com/in/oana-blagoe/), currently, doing MSc dissertation, University of Essex| MSc|Identification of individual age using first molar images|
