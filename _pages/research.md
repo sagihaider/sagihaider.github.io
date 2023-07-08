@@ -2,7 +2,7 @@ xx  ---
 layout: single
 title: "Research"
 permalink: /research/
-bibliography: references.bib
+<!-- bibliography: references.bib -->
 author_profile: true
 ---
 
@@ -31,7 +31,8 @@ The following are my areas of research:
 
 
 *** 
-**1. EEG/MEG-based Brain-Computer Interfacing <a name="BCI"></a>**
+
+<!-- **1. EEG/MEG-based Brain-Computer Interfacing <a name="BCI"></a>** -->
 
 <!-- A major issue in bringing real-world applications of machine learning outside the laboratory is the difference in the data distributions between training and testing stages or domains. The diverging statistical properties in different domains can lead to decay the prediction performance. The technical term for a change in the distribution of features is covariate shift, which also happens to be a common challenge in electroencephalography (EEG) and Magnetoencephalography (MEG) based brain-computer interface (BCI); this is due to the presence of non-stationarities in the EEG/MEG signals. The non-stationary nature of EEG/MEG signals makes an EEG/MEG-based BCI a dynamic system, thus improving its performance is a challenging task. A lot of adaptive machine learning approaches have been developed and used previously to tackle this challenge such as passive and active approach for learning, domain adaptation, transfer learning, covariate shift minimization, deep learning, and more. I am particularly interested in developing methods for covariate shift adaptation in both EEG/MEG datasets. To visualize the covariate shift generally scatter plot and histogram are used. I am also interested in exploring new ways of analysing, visualizing, and measuring the covariate shift in data. 
 
@@ -47,7 +48,7 @@ Here is a list of key projects:
         
 3. **Stroke Rehabilitation**: The aim of the study was to design a BCI-operated neuro-rehabilitation system that would ensure recovery of the patient's finger motions so that the patients can get back their independence in performing their activities of daily life and improve their quality of life. We proposed a novel algorithm Cortico-Muscular-Coupling (CMC)\cite{chowdhury2019eeg} and implemented it with covariate Shift Adaptation based BCI system for Personalized Neuro-Rehabilitation of Stroke Patients\cite{chowdhury2017online}. With my team members at IIT-Kanpur, India, we have conducted experiments on $10$ healthy and $10$ stroke subjects. The activities involved in this project are the development of a CMC-based single-trial EEG classification method for decoding user intentions, a novel method for feature extraction using correlation in EEG and EMG signals, conducting experiments on healthy subjects \& stroke subjects, deriving results from the analysis, and finally, the impact on the patient\cite{chowdhury2018active} to recover the motor activities. 
  -->
-
+<!-- 
 Key Publication in BCI and Neural Engineering:
 
 *** 
@@ -118,3 +119,4 @@ Advances in AI could be one of the solutions to solving major global environment
 
 Construction is one of the oldest professions as people have been building shelters and structures for millennia. However the industry has evolved quite a bit in the way they design, plan, and build structures. For decades, technology has been used in the construction industry to make jobs more efficient and construction projects and structures safer. In recent years, construction companies have increasingly started using AI in a range of ways to make construction more efficient and innovative. From optimizing work schedules to improving workplace safety to keeping a secure watch on construction facilities, AI in the construction industry is already proving its value. Construction managers have been finding value with AI and cognitive technologies to help automate many of the mundane but essential tasks to running their operations. They are finding AI helpful with scheduling related tasks in order to prevent delays, conflicts, and other issues. This is both on the staff level of scheduling and on the project and materials side. Keeping this in mind, we have recently collaborated with [Mersea Homes](https://www.merseahomes.co.uk/) using Knowledge Transfer Partnership. The company are currently operating an outdated paper system for creating, communicating and updating site plans. The intention of this project is to develop an intelligent digital system using the combined expertise of IoT and data science specialists which can provide our site workers with real-time live updates to project plans using embedded sensors and smart phones receiving personalised live updates from our centralised server. Data-sharing will be based on an intelligent system driven by a machine learning algorithm, which will learn and anticipate which contractors and staff need particular information.
 
+ -->
