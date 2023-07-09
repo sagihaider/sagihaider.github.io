@@ -36,7 +36,7 @@ I am interested in collaborating and working with potential researchers who are 
 |-------|--------------------|---------|------------------|
 | 2022-23|Mr [Charles Bond](https://www.linkedin.com/in/charles-bond/), currently, doing MSc dissertation, University of Essex| MSc|Single Trial Classification of MEG signal for Motor Imagery Detection|
 | 2022-23|Ms [Minerva Sarma](https://www.linkedin.com/in/minerva-sarma-299508157/), currently, doing MSc dissertation, University of Essex| MSc|Analyis of Non-Stationarity in MEG Signals|
-| 2022-23|Mr [Isreal Ufumaka](https://www.linkedin.com/in/isreal-ufumaka/, currently, doing MSc dissertation, University of Essex| MSc|Skin Cancer Detection|
+| 2022-23|Mr [Isreal Ufumaka](https://www.linkedin.com/in/isreal-ufumaka/), currently, doing MSc dissertation, University of Essex| MSc|Skin Cancer Detection|
 | 2022-23|Mr [Gayathri Mol Shajimon](https://www.linkedin.com/in/antony-james-937149196/), currently, doing MSc dissertation, University of Essex| MSc|AI for Melanoma Detection|
 | 2023-23|Mr [Moin Hassan](https://www.linkedin.com/in/hassanmoin1/), currently, doing MSc dissertation, University of Essex| MSc|AI in Dentistry|
 | 2021-22|Mr [Antony James](https://www.linkedin.com/in/antony-james-937149196/), University of Essex| MSc|AI based age prediction from Mental Foramen|
