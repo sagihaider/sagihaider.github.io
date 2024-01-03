@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
 ## Welcome to my homepage about my ongoing research and teaching activities.
- 
 
 I am an India-born British computer scientist and currently working as a Senior Lecturer in Artificial Intelligence at the School of Computer Science and Electronic Engineering (CSEE), University of Essex (UoE). From Nov 2020-Nov 2022, I worked as a Lecturer in CSEE and from Nov 2017-Nov 2022, I worked as a Post-doctoral Research Fellow at the Institute for Analytics and Data Science (IADS), UoE. Prior to joining UoE, I worked as Post-Doctoral Research Officer in Machine Learning at The Farr Institute of Health Informatics Research, Swansea University, UK (July 2016 - Present). Before joining Swansea, I worked as a Post-Doctoral Research Assistant in Machine Learning for EEG-based Brain-Computer Interfacing at the Intelligent Systems Research Centre (ISRC), School of Computing and Intelligent Systems, Ulster University, UK (December 2015-June 2016). My doctoral (PhD) dissertation was under the supervision of Professor Girijesh Prasad and Dr Hubert Cecotti and looked at adaptive learning for modelling for non-stationary systems and its application to EEG-based brain-computer interfaces (October 2012-December 2015).
 
@@ -64,6 +61,8 @@ Links to coverage of media and press:
 [Business Standard](http://sagihaider.github.io/files/BusinessStandard.pdf), 2018
 
 [Hindustan Times](http://sagihaider.github.io/files/HindustanTimes2014.JPG), 2015
+
+[Best Academic Award](https://www.youtube.com/watch?v=-7VJq4hC6cA), 2022
 
 *** 
 Connect with me on these platforms:
