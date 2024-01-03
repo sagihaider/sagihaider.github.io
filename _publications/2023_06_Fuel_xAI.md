@@ -2,7 +2,8 @@
 title: "Development of explainable AI-based predictive models for bubbling fluidised bed gasification process"
 collection: publications
 permalink: /publication/2023_011_Fuel
-excerpt: 'The study focused on developing seven regression models to predict gas composition and gas yield, employing an Explainable AI (XAI) method for interpretability. The gradient boosting algorithm outperformed other regression-based models. The application of SHAP (Shapley additive explanations) values was utilized to elucidate the impact of input variables on the target. The results suggest that XAI, particularly when coupled with the gradient boosting algorithm, serves as a valuable tool for enhancing decision-making processes in fluidized bed gasifiers, providing transparency and interpretability to the predictive models and funded by Economic and Social Research Council (ESRC) funded Business and Local Government Data Research Centre under Grant ES/S007156/1.'
+excerpt: 'The study focused on developing seven regression models to predict gas composition and gas yield, employing an Explainable AI (XAI) method for interpretability. The gradient boosting algorithm outperformed other regression-based models. The application of SHAP (Shapley additive explanations) values was utilized to elucidate the impact of input variables on the target. The results suggest that XAI, particularly when coupled with the gradient boosting algorithm, serves as a valuable tool for enhancing decision-making processes in fluidized bed gasifiers, providing transparency and interpretability to the predictive models. This research was funded by Economic and Social Research Council (ESRC) funded Business and Local Government Data Research Centre under Grant ES/S007156/1.
+Codes are available: [GitHub](https://github.com/sagihaider/XAI-Gasification-Modelling)!'
 date: 2023-11-01
 venue: 'Fuel'
 doi: 'https://doi.org/10.1016/j.fuel.2023.128971'
@@ -22,4 +23,5 @@ Highlights
 * XAI is a viable solution for better decision-making in fluidised bed gasifiers.
 
 
-
+The study focused on developing seven regression models to predict gas composition and gas yield, employing an Explainable AI (XAI) method for interpretability. The gradient boosting algorithm outperformed other regression-based models. The application of SHAP (Shapley additive explanations) values was utilized to elucidate the impact of input variables on the target. The results suggest that XAI, particularly when coupled with the gradient boosting algorithm, serves as a valuable tool for enhancing decision-making processes in fluidized bed gasifiers, providing transparency and interpretability to the predictive models. This research was funded by Economic and Social Research Council (ESRC) funded Business and Local Government Data Research Centre under Grant ES/S007156/1.
+Codes are available: [GitHub](https://github.com/sagihaider/XAI-Gasification-Modelling)!'
