@@ -6,7 +6,7 @@ excerpt: 'The dataset will be available for all AI and ML researchers around the
 date: 2021-04-21
 venue: 'Scientific Data'
 doi: 'https://doi.org/10.1038/s41597-021-00899-7'
-citation: 'Rathee, D., Raza, H., Roy, S. and Prasad, G., 2021. A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface. <i>Scientific Data<\i>, 8(1), p.120.'
+citation: 'Rathee, D., Raza, H., Roy, S. and Prasad, G., 2021. A magnetoencephalography dataset for motor and cognitive imagery-based brain-computer interface. <i>Scientific Data</>, 8(1), p.120.'
 ---
 
 [Article publicly available here](https://doi.org/10.1038/s41597-021-00899-7)
