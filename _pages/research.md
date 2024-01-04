@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My interest in Artificial Intelligence (AI) and Machine Learning begins when I was doing my BTech Degree at Integral University, Lucknow, India in the academic year 2007-2008. Since then I have been working on several areas of AI. The word cloud given below highlights the keywords related to my research directions. 
+My passion for Artificial Intelligence (AI) and Machine Learning sparked during my BTech Degree at Integral University, Lucknow, India, in the academic year 2007-2008. Since then, I have delved into various facets of AI. The word cloud presented below showcases the key themes and keywords encapsulating my research endeavors.
 
 <!-- <img src="/images/wordcloud.png" width="600" align="center">  -->
 
@@ -20,14 +20,13 @@ The picture that changed my life is given below. The picture is from the book ``
 </p>
 
 *** 
-The following are my areas of research:
+The following are my areas of Applied AI research:
 
 
 1. [EEG/MEG-based Brain-Computer Interfacing](#BCI)
 2. [Healthcare and Predictive Analytics](#healthcare)
 3. [Environmental Sciences and Agriculture](#env-agri)
 4. [AI in Engineering and Architecture](#eng-arch)
-
 
 *** 
 
