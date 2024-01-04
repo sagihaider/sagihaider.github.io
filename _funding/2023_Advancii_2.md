@@ -1,5 +1,5 @@
 ---
-title: "Strategic Insights Engine: Building a Minimum Viable Product for Patent and Company Data Analysis (Part 1)"
+title: "Strategic Insights Engine: Building a Minimum Viable Product for Patent and Company Data Analysis (Part 2)"
 collection: funding
 type: "Contract Research"
 permalink: /funding/2023_Advancii_1
