@@ -4,7 +4,7 @@ collection: funding
 type: "KTP"
 permalink: /funding/2023_MEL
 venue: "University of Essex"
-date: 2022-11-23
+date: 2023-11-23
 location: "Colchester, Essex, England"
 ---
 
