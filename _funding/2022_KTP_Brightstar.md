@@ -1,19 +1,16 @@
 ---
-title: "KTP with Check4Cancer: Development of the AI-Assisted Skin Cancer Prediction Model"
+title: "KTP with Brightstar: Examine working practices and embed leading-edge management theory to drive operational efficiency in a financial advice SME."
 collection: funding
 type: "KTP"
-permalink: /funding/2022_KTP_C4C
+permalink: /funding/2022_Brightstar
 venue: "University of Essex"
-date: 2022-05-22
+date: 2022-01-19
 location: "Colchester, Essex, England"
 ---
 
-Funding Amount: £204,671.980 <br/>
+Funding Amount: £206,972.00 <br/>
 Funder: Innovate UK (formerly Technology Strategy Board) <br/>
 Role: Academic Lead <br/>
-KTP Associate: Dr Shafiqul Islam<br/>
-
-
-Secured £204,671.98 in research funding as the principal investigator (PI) from Innovate UK, in collaboration with Check4Cancer (UK), to develop a state-of-the-art AI engine for detecting melanoma-based skin cancer lesions. As part of this project, we have hired a post-doctoral researcher who is currently developing explainable Vision Transformers and other computer vision-based methods to launch a robust AI model within a mobile app, with a particular emphasis on minimizing false negatives. We have access to the Check4Cancer dataset, which consists of dermoscopic and digital images, along with metadata collected over the past two decades.
+Status: Work not strated due to associate hiring challenges<br/>
 
 
