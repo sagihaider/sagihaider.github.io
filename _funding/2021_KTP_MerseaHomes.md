@@ -4,6 +4,7 @@ collection: funding
 type: "KTP"
 permalink: /funding/2021_KTP_MerseaHomes
 venue: "University of Essex"
+date: 2020-07-29
 location: "Colchester, Essex, England"
 ---
 

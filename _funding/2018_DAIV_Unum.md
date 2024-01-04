@@ -4,6 +4,7 @@ collection: funding
 type: "DAIVs"
 permalink: /funding/2018_DAIV_Unum
 venue: "University of Essex"
+date: 2018-08-01
 location: "Colchester, Essex, England"
 ---
 

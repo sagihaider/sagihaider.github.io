@@ -4,6 +4,7 @@ collection: funding
 type: "Grant"
 permalink: /funding/2019_EFSNET
 venue: "University of Essex"
+date: 2019-01-18
 location: "Colchester, Essex, England"
 ---
 

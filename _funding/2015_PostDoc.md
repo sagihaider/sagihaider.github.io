@@ -5,6 +5,7 @@ collection: funding
 type: "Post-Doc"
 permalink: /funding/2015_PostDoc
 venue: "University of Ulster"
+date: 2016-12-10
 location: "Derry/Londonderry, Northern Ireland, UK"
 ---
 

@@ -4,6 +4,7 @@ collection: funding
 type: "DAIVs"
 permalink: /funding/2020_Maji
 venue: "University of Essex"
+date: 2019-12-20
 location: "Colchester, Essex, England"
 ---
 

@@ -4,6 +4,7 @@ collection: funding
 type: "KTP"
 permalink: /funding/2018_KTP_Provide
 venue: "University of Essex"
+date: 2018-05-24
 location: "Colchester, Essex, England"
 ---
 

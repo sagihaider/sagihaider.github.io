@@ -4,6 +4,7 @@ collection: funding
 type: "DAIVs"
 permalink: /funding/2019_DAIV_EP
 venue: "University of Essex"
+date: 2019-04-01
 location: "Colchester, Essex, England"
 ---
 

@@ -4,6 +4,7 @@ collection: funding
 type: "KTP"
 permalink: /funding/2019_KTP_TTEducation
 venue: "University of Essex"
+date: 2019-01-17
 location: "Colchester, Essex, England"
 ---
 
