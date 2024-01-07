@@ -2,7 +2,7 @@
 title: "Event Classification and Intensity Discrimination for Forest Fire Inference With IoT"
 collection: publications
 permalink: /publication/2022_02_IEEESensor
-excerpt: 'This paper focused on Event Classification and Intensity Discrimination for Forest Fire Inference With IoT and funded by Essex GCRF.'
+excerpt: '[22IEEESen] This paper focused on Event Classification and Intensity Discrimination for Forest Fire Inference With IoT and funded by Essex GCRF.'
 date: 2022-01-01
 venue: 'IEEE Sensors Journal'
 doi: 'https://doi.org/10.1109/JSEN.2022.3163155'
