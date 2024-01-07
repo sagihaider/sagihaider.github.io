@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IEEE_TNSRE_2017
 date: 2017-07-01
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
-excerpt: 'This paper is about CSD pre-processing method for  enhanceing the performance of motor-imagery-related brain–computer interface.'
+excerpt: '[TNSRE'17] This paper is about CSD pre-processing method for  enhanceing the performance of motor-imagery-related brain–computer interface.'
 citation: 'Rathee, D., Raza., H., Prasad, G., and Cecotti, H. Current source density estimation enhances the performance of motor-imagery-related brain–computer interface.; <i>IEEE-TNSRE, 2017</i>. 25(12), 2461 - 2471.'
 ---
 
