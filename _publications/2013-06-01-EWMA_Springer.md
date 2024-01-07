@@ -2,7 +2,7 @@
 title: "EWMA Based Two-Stage Dataset Shift-Detection in Non-stationary Environments"
 collection: publications
 permalink: /publication/2013-06-EWMA_Springer
-excerpt: '[2013AIAI] Detecting dataset shifts in non-stationary environments is crucial. This paper proposes a novel method for detecting shift points in time-series data, utilizing a two-stage structure with an Exponentially Weighted Moving Average (EWMA) chart and Kolmogorov-Smirnov test. The approach minimizes type-I error rate, suitable for real-time implementation with improved performance.'
+excerpt: '[AIAI`13] Detecting dataset shifts in non-stationary environments is crucial. This paper proposes a novel method for detecting shift points in time-series data, utilizing a two-stage structure with an Exponentially Weighted Moving Average (EWMA) chart and Kolmogorov-Smirnov test. The approach minimizes type-I error rate, suitable for real-time implementation with improved performance.'
 date: 2013-06-01
 venue: '9th IFIP WG 12.5 International Conference, AIAI 2013, Paphos, Cyprus'
 

@@ -2,7 +2,7 @@
 title: "Dataset shift detection in non-stationary environments using EWMA charts."
 collection: publications
 permalink: /publication/2013_06_IEEE_SMC
-excerpt: '[2013IEEESMC] Detecting dataset shifts in time-series data is crucial due to changing distributions over time in non-stationary environments. This paper introduces an algorithm using an EWMA control chart for auto-correlated observations, enabling real-time monitoring and timely detection of shifts, validated by experiments on various datasets.'
+excerpt: '[IEEESMC`13] Detecting dataset shifts in time-series data is crucial due to changing distributions over time in non-stationary environments. This paper introduces an algorithm using an EWMA control chart for auto-correlated observations, enabling real-time monitoring and timely detection of shifts, validated by experiments on various datasets.'
 date: 2013-06-01
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2013'
 
