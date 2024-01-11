@@ -15,9 +15,18 @@ author_profile: true
 
 * Graph Laplacian for Heterogeneous Data Clustering in Sensor-Based Internet of Things VK Singh, G Tripathi, A Ojha, R Bhardwaj, H Raza IETE Journal of Research, 1-13
 
+
 ### Talks:
 * Delivered R Boot Camp at the University of Essex (Jan 2023)
 * Delivered Data Science for All Boot Camp at the University of Essex (Jan 2023)
+* Delivered an invited talk at IIT GandhiNagar on "Brain-computer intefacing" in Aug 2023. Hosted by Dr Yogesh Kumar Meena, Assistant Professor, Computer Science & Engineering, IIT-G. 
+* Delivered an invited talk at LearnFest event organised by Essex County Council on "Explainable AI: A step towards informed decision-making" in Dec 2023. 
+* Presented a keynote address at the International Conference on Cloud and Parallel Computing, Artificial and Business Intelligence, Quantum, and Machine Learning: Trends, Perspectives, and Prospects (Com-IT-Con-2023) held on July 14-15, 2023, at Manav Rachna Educational Institutions, Faridabad. The talk focused on "Explainable AI in Healthcare."
+* Delivered a workshop titled "AI for High School Educators" at the Higher Education Conclave held on August 11-12, 2023, at the Hyatt Regency in Chandigarh, India.
+* I presented two research papers at IEEE BIBM in Istanbul, Turkey. 
+    * The first paper, titled "An Improved Vision-Transformer Network for Skin Cancer Classification," was authored by Gayathri Mol Shajimon, Isreal Ufumaka, and myself. 
+    * The second paper, titled "MEGNet: A MEG-Based Deep Learning Model for Cognitive and Motor Imagery Classification," was authored by Minerva Sarma, Charles Bond, and myself. Both papers showcase the outcomes of research conducted by our MSc students.
+
 
 ### Leadership:
 
