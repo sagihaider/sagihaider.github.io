@@ -39,7 +39,7 @@ innovation programme under the Marie Skłodowska-Curie grant.
 * Delivered an invited talk at workshop on "Artificial Intelligence and Data Science for Society and the Public Good" and the title of the talk was Explainable AI in healthcare. A special thanks to Simon Heath, who brilliantly captured the essence of my session through a captivating sketch note. 
 
 <p align="center">
-  <img width="600" height="600" src="/images/CSA.png">
+  <img width="600" height="600" src="/images/LearnFest2023.jpeg">
 </p>
 
 
