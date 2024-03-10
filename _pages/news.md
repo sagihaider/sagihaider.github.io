@@ -9,6 +9,11 @@ author_profile: true
 2024
 ======
 
+### Leadership:
+
+* Participated in a PhD viva as an internal examiner at the University of Essex. Dr Mushfika Sultana passed her exam in minor corrections. 
+* Participated 2 days in an interview panel for NeuroInsight: This project has received funding from the European Union’s Horizon 2020 research and
+innovation programme under the Marie Skłodowska-Curie grant. 
 
 2023
 ======
@@ -50,7 +55,7 @@ author_profile: true
 
 Funding:
 
-* **Grant**: Applied for _KTP_: 'Intelligent Recommendation in Logistic Business', Funding Amount: XXX,XXX.00
+* **Grant**: Applied for _KTP_: 'Intelligent Recommendation in Logistic Business', Funding Amount: £238,795.00
 , Funder: 67% Innovate UK and 33% Trunk Logistic, Role: Academic Supervisor
 
 
