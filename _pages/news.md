@@ -5,6 +5,11 @@ permalink: /news/
 author_profile: true
 
 ---
+
+2024
+======
+
+
 2023
 ======
 
@@ -26,7 +31,11 @@ author_profile: true
 * I presented two research papers at IEEE BIBM in Istanbul, Turkey. 
     * The first paper, titled "An Improved Vision-Transformer Network for Skin Cancer Classification," was authored by Gayathri Mol Shajimon, Isreal Ufumaka, and myself. 
     * The second paper, titled "MEGNet: A MEG-Based Deep Learning Model for Cognitive and Motor Imagery Classification," was authored by Minerva Sarma, Charles Bond, and myself. Both papers showcase the outcomes of research conducted by our MSc students.
-Delivered an invited talk at workshop on "Artificial Intelligence and Data Science for Society and the Public Good" and the title of the talk was Explainable AI in healthcare
+* Delivered an invited talk at workshop on "Artificial Intelligence and Data Science for Society and the Public Good" and the title of the talk was Explainable AI in healthcare. A special thanks to Simon Heath, who brilliantly captured the essence of my session through a captivating sketch note. 
+
+<p align="center">
+  <img width="600" height="600" src="/images/CSA.png">
+</p>
 
 
 ### Leadership:
