@@ -12,8 +12,9 @@ author_profile: true
 ### Leadership:
 
 * Participated in a PhD viva as an internal examiner at the University of Essex. Dr Mushfika Sultana passed her exam in minor corrections. 
-* Participated 2 days in an interview panel for NeuroInsight: This project has received funding from the European Union’s Horizon 2020 research and
-innovation programme under the Marie Skłodowska-Curie grant. 
+* Participated 2 days in an interview panel for NeuroInsight: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant. 
+* Organised a special session "Artificial Intelligence in Dental Radiology" in 28th UK Conference on Medical Image Understanding and Analysis - MIUA, 24 - 26 July 2024 Manchester Metropolitan University. [link](https://miua2024.github.io/)
+* Participated as Publication Chairs at 3rd International Conference on Advanced Communication and Intelligent Systems, Jawaharlal Nehru University, New Delhi, India. [link](https://icacis.org/)
 
 2023
 ======
