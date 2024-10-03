@@ -16,6 +16,10 @@ author_profile: true
 * Organised a special session "Artificial Intelligence in Dental Radiology" in 28th UK Conference on Medical Image Understanding and Analysis - MIUA, 24 - 26 July 2024 Manchester Metropolitan University. [link](https://miua2024.github.io/)
 * Participated as Publication Chairs at 3rd International Conference on Advanced Communication and Intelligent Systems, Jawaharlal Nehru University, New Delhi, India. [link](https://icacis.org/)
 
+### Talks:
+* 
+
+
 2023
 ======
 
