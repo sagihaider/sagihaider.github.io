@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Development of the AI-Assisted Skin Cancer Detection for Reducing Cancer Waiting Time 
+description: KTP Project with Check4Cancer, Cambridge
+img: assets/img/C4C_img1.jpeg
 importance: 1
 category: work
 related_publications: true
