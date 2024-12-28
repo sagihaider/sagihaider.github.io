@@ -442,9 +442,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-development-of-the-ai-assisted-skin-cancer-detection-for-reducing-cancer-waiting-time",
+          title: 'Development of the AI-Assisted Skin Cancer Detection for Reducing Cancer Waiting Time',
+          description: "KTP Project with Check4Cancer, Cambridge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
