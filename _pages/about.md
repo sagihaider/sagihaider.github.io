@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 4B.528, CSEE,</p>
     <p>University of Essex</p>
-    <p>Colchester, Essex, CO4 3SQ, UK</p>
+    <p>Colchester, Essex</p>
     <p>CO4 3SQ, United Kingdom (UK)</p>
 
 news: true # includes a list of news items
