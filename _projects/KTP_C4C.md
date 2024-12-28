@@ -8,12 +8,18 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+* Funding Amount: £204,671.980 <br/>
+* Funder: Innovate UK (formerly Technology Strategy Board) <br/>
+* Role: Academic Lead <br/>
+* KTP Associate: Dr Shafiqul Islam<br/>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Secured £204,671.98 in research funding as the principal investigator (PI) from Innovate UK, in collaboration with Check4Cancer (UK), to develop a state-of-the-art AI engine for detecting melanoma-based skin cancer lesions. As part of this project, we have hired a post-doctoral researcher who is currently developing explainable Vision Transformers and other computer vision-based methods to launch a robust AI model within a mobile app, with a particular emphasis on minimizing false negatives. We have access to the Check4Cancer dataset, which consists of dermoscopic and digital images, along with metadata collected over the past two decades.
 
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
+<!-- 
     ---
     layout: page
     title: project
@@ -44,9 +50,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -78,4 +82,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
