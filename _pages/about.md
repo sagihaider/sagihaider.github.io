@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 4B.528, Colchester Campus</p>
-    <p>Wivenhoe Park, University of Essex</p>
+    <p>Room 4B.528, CSEE,</p>
+    <p>University of Essex</p>
     <p>Colchester, Essex, CO4 3SQ, UK</p>
+    <p>CO4 3SQ, United Kingdom (UK)</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
