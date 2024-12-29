@@ -51,7 +51,7 @@ Current editorial duties
 
 * Review Editor for Medtech Data Analytics, Frontiers in Medical Technology
 
-* Guest Associate Editor in Neurotechnology and Systems Neuroergonomics: Machine Learning and Signal Processing for Neurotechnologies and Brain-Computer Interactions Out of the Lab [link to call](https://www.frontiersin.org/research-topics/17467/machine-learning-and-signal-processing-for-neurotechnologies-and-brain-computer-interactions-out-of)
+* Guest Associate Editor in Neurotechnology and Systems Neuroergonomics: Machine Learning and Signal Processing for Neurotechnologies and Brain-Computer Interactions Out of the Lab [link to call](https://www.frontiersin.org/research-topics/17467/machine-learning-and-signal-processing-for-neurotechnologies-and-brain-computer-interactions-out-of).
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
