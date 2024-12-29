@@ -477,11 +477,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-integrating-ml-and-rpa-in-traditional-manufacturing-and-supply-operations",
+          title: 'Integrating ML and RPA in Traditional Manufacturing and Supply Operations',
+          description: "KTP Project with MEL Aviations, Sudbury",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/KTP-MEL/";
             },},{id: "projects-ai-assisted-skin-cancer-detection",
           title: 'AI-Assisted Skin Cancer Detection',
           description: "KTP Project with Check4Cancer, Cambridge",
