@@ -24,7 +24,7 @@ You can view my University of Essex [Profile](https://www.essex.ac.uk/people/raz
 
 Biography
 ======
-I received a PhD in Computer Science from [University of Ulster](https://www.ulster.ac.uk/faculties/computing-engineering-and-the-built-environment/schools/computing), Northern Ireland, UK; Master's degree in Computer Engineering from [Manav Rachna International University](https://manavrachna.edu.in/), India; and a Bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from [Colvin Taluqdars' College](https://en.wikipedia.org/wiki/Colvin_Taluqdars%27_College) in Lucknow, which is one of the oldest private schools in India. I was born in the city of [Lucknow](https://en.wikipedia.org/wiki/Lucknow) and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow. 
+I received a PhD in Computer Science from University of Ulster, Northern Ireland, UK; Master's degree in Computer Engineering from Manav Rachna International University, India; and a Bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from Colvin Taluqdars' College in Lucknow, which is one of the oldest private schools in India. I was born in the city of Lucknow and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow. 
 
 
 I am also associated with following professional bodies: 
@@ -39,9 +39,9 @@ Research interests
 My research interests include a range of fields within Artificial Intelligence (AI) and Machine Learning (ML), including Artificial Neural Networks, Deep Learning, Vision Transformers (ViT), Domain Adaptation, Non-stationary Learning, and Electroencephalography (EEG)/Magnetoencephalography (MEG)-based Brain-Computer Interfaces (BCI). I also researched in Robotics related to BCI-based Neuro-Rehabilitation. With substantial expertise, I have been involved in the development, testing, and deployment of intelligent learning systems across diverse applications. These applications span from robotics to medical imaging (EEG & MEG), healthcare systems (such as skin-cancer detection and forensic dentistry), and addressing real-world challenges in the NHS, UK. My research extends across the entire spectrum, covering foundational ML and explainable AI (xAI) theories to practical implementations in real-world scenarios. One of my primary focuses is on influencing policies to ensure the safe and ethical adoption of ML technologies.
 
 I am associated to the following research groups at the University of Essex:
-1. [Artificial Intelligence and explainable AI](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/artificial-intelligence) 
-2. [Brain-Computer Interfacing](http://essexbcis.uk/)
-3. [Computer Vision](https://essexnlip.uk/computer-vision/)
+1. Artificial Intelligence and explainable AI
+2. Brain-Computer Interfacing
+3. Computer Vision
 
 
 Current editorial duties
