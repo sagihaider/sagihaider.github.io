@@ -30,7 +30,7 @@ I received a PhD in Computer Science from University of Ulster, Northern Ireland
 I am also associated with following professional bodies: 
 
 * Fellow of the Higher Education Academy [(FHEA)](https://www.advance-he.ac.uk/fellowship/fellowship). 
-* Senior Member of the Institute of Electrical and Electronics Engineers [(SMIEEE)](https://www.ieee.org/membership/senior/index1.html).
+* Senior Member of the Institute of Electrical and Electronics Engineers (SMIEEE)
 
 **
 
