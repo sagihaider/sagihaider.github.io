@@ -431,16 +431,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-on-research-leave-from-oct-2024-to-march-2025-sparkles-smile",
+          title: 'I am on research leave from Oct 2024 to March 2025! :sparkles: :smile:...',
+          description: "",
+          section: "News",},{id: "news-join-us-at-ijcnn-2025-for-our-special-session-on-data-efficient-vision-transformers-for-more-details-visit",
+          title: 'Join Us at IJCNN 2025 for Our Special Session on Data-efficient Vision Transformers....',
           description: "",
           section: "News",},{id: "projects-project-2",
           title: 'project 2',
