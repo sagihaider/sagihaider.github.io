@@ -6,28 +6,41 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Join Us at IJCNN 2025 for Our Special Session on Data-efficient Vision Transformers. For more details [visit](https://sagihaider.com/ijcnn-2025-data-efficient-vits/)
+
 
 ---
+We are thrilled to announce our special session, "Data-efficient Vision Transformers: Challenges & Applications", which will take place during the IEEE International Joint Conference on Neural Networks (<a href="https://2025.ijcnn.org/">IEEE IJCNN 2025</a> 2025) in Rome, Italy, from 30 June to 5 July 2025.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## About the Session
+Vision Transformers (ViTs) are reshaping computer vision with state-of-the-art performance across various domains. However, their dependency on large datasets often limits their potential in real-world, data-scarce scenarios. This special session focuses on innovative methods to enhance data efficiency in ViTs, including self-supervised learning, transfer learning, and generative augmentation strategies.
 
-#### Hipster list
+## Why Attend?
+Explore cutting-edge techniques for optimising ViTs for low-data regimes.
+Engage with experts from academia, industry, and research institutions.
+Discover real-world applications in healthcare, autonomous systems, and more.
+Participate in discussions on future directions and emerging challenges.
+
+#### Key Topics
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Data-efficient training methods</li>
+    <li>Self-supervised and few-shot learning</li>
+    <li>Model compression and optimisation</li>
+    <li>Applications in resource-constrained environments</li>
+    <li>Generative models for synthetic data augmentation</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+## Organisers
+<ul>
+    <li>Dr. Haider Raza, University of Essex, UK</li>
+    <li>Dr. Muhammad Haris Khan, MBZUAI, UAE</li>
+    <li>Professor John Q Gan, University of Essex, UK</li>
+</ul>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> We look forward to welcoming researchers, practitioners, and industry professionals passionate about advancing Vision Transformers in practical, impactful ways.
+> —Haider Raza
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Stay tuned for submission deadlines and more details! For inquiries, feel free to reach out to us: h.raza@essex.ac.uk 
