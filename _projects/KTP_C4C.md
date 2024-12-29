@@ -17,5 +17,3 @@ related_publications: true
 * Year: 2022 - 2024
 
 Secured £204,671.98 in research funding as the principal investigator (PI) from Innovate UK, in collaboration with Check4Cancer (UK), to develop a state-of-the-art AI engine for detecting melanoma-based skin cancer lesions. As part of this project, we have hired a post-doctoral researcher who developed explainable AI and other computer vision-based methods to launch a robust AI model within a mobile app, with a particular emphasis on minimizing false negatives. We have access to the Check4Cancer dataset, which consists of dermoscopic and digital images, along with metadata collected over the past two decades.
-
-We Published a range of papers {% cite islam2024machine}.
