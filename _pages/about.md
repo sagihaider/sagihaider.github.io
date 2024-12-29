@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Senior Lecturer in Artificial Intelligence
+subtitle: <a href='#'>Affiliations</a>. Senior Lecturer in Artificial Intelligence, University of Essex
 
 profile:
   align: right
