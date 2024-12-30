@@ -444,16 +444,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BBSRC-C4C/";
+            },},{id: "projects-strategic-insights-engine-for-ip-protection",
+          title: 'Strategic Insights Engine for IP protection',
+          description: "Innovation Voucher and Contract research with Advancii, UK (2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IV-Advancii/";
+            },},{id: "projects-check4cancer-skin-cancer-ai-model",
+          title: 'Check4Cancer Skin Cancer AI Model',
+          description: "Innovation Voucher with Check4Cancer, UK (2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IV-C4C/";
             },},{id: "projects-integrating-ml-and-rpa-in-traditional-manufacturing-and-supply-operations",
           title: 'Integrating ML and RPA in Traditional Manufacturing and Supply Operations',
           description: "KTP Project with MEL Aviations, Sudbury",
@@ -474,11 +479,21 @@ ninja.data = [{
           description: "KTP Project with Provide CIC, UK (2018-2021)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP_Provide/";
+            },},{id: "projects-smart-platform-for-effective-office-site-communications",
+          title: 'Smart platform for effective office-site communications',
+          description: "KTP Project with Mersea Homes, UK (2021-2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP_TTEducation/";
             },},{id: "projects-ai-assisted-manage-my-move",
           title: 'AI-Assisted Manage My Move',
           description: "KTP Project with Truck Logistics, UK (2023-2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP_Trunk/";
+            },},{id: "projects-eastern-region-advanced-data-sharing-project",
+          title: 'Eastern Region Advanced Data Sharing Project',
+          description: "Consultancy research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MoEA-Hertz/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -526,7 +541,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@youtube.com/@TheClassofAI", "_blank");
+          window.open("https://youtube.com/@TheClassofAI", "_blank");
         },
       },{
       id: 'light-theme',
