@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Senior Lecturer in Artificial Intelligence, University of Essex
+subtitle: <a href='#'>Affiliations</a>. || Senior Lecturer in Artificial Intelligence, University of Essex || Co-founder of [Sensiwise AI](https://sensiwise.ai/)
 
 profile:
   align: right
