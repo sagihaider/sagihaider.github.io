@@ -431,16 +431,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-ieee-ijcnn-2025-special-session-on-data-efficient-vision-transformers",
+          title: 'IEEE IJCNN 2025 Special Session on Data-efficient Vision Transformers',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-i-am-on-research-leave-from-oct-2024-to-march-2025-sparkles-smile",
           title: 'I am on research leave from Oct 2024 to March 2025! :sparkles: :smile:...',
           description: "",
-          section: "News",},{id: "news-join-us-at-ijcnn-2025-for-our-special-session-on-data-efficient-vision-transformers-for-more-details-visit",
-          title: 'Join Us at IJCNN 2025 for Our Special Session on Data-efficient Vision Transformers....',
+          section: "News",},{id: "news-currently-i-do-not-have-any-open-funded-phd-positions-however-if-you-are-interested-in-pursuing-a-self-funded-position-please-feel-free-to-email-me-your-cv-along-with-a-two-page-research-proposal-including-references-additionally-i-recommend-contacting-the-university-of-essex-admissions-team-to-explore-funded-programmes-and-opportunities-and-funding-available-at-the-university",
+          title: 'Currently, I do not have any open funded PhD positions. However, if you...',
           description: "",
           section: "News",},{id: "projects-project-2",
           title: 'project 2',
