@@ -4,7 +4,7 @@ title: Check4Cancer Skin Cancer AI Model
 description: Innovation Voucher with Check4Cancer, UK (2020)
 img: assets/img/BBSRC.jpg
 importance: 2
-category: work
+category: Healthcare
 related_publications: true
 ---
 
