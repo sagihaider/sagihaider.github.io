@@ -520,6 +520,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=oM66s7wAAAAJ", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/sagihaider", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@youtube.com/@TheClassofAI", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
