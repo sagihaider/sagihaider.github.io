@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IEEE IJCNN 2025 Special Session on Data-efficient Vision Transformers
-date: 2015-11-07 16:11:00-0400
+date: 2024-12-15 16:11:00-0400
 inline: false
 related_posts: false
 ---

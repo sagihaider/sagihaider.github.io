@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI-Assisted Skin Cancer Detection 
-description: KTP Project with Check4Cancer, Cambridge
+description: KTP Project with Check4Cancer, Cambridge, UK (2022-2024)
 img: assets/img/C4C_img1.jpeg
 importance: 1
 category: work
