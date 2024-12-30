@@ -449,21 +449,6 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
@@ -489,6 +474,11 @@ ninja.data = [{
           description: "KTP Project with Mersea Homes, UK (2021-2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP_Mersea/";
+            },},{id: "projects-ai-assisted-smart-referral-system",
+          title: 'AI-Assisted Smart Referral System',
+          description: "KTP Project with Provide CIC, UK (2018-2021)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP_Provide/";
             },},{id: "projects-ai-assisted-manage-my-move",
           title: 'AI-Assisted Manage My Move',
           description: "KTP Project with Truck Logistics, UK (2023-2026)",
