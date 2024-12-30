@@ -4,7 +4,7 @@ title: Strategic Insights Engine for IP protection
 description: Innovation Voucher and Contract research with Advancii, UK (2024)
 img: assets/img/Advancii.jpeg
 importance: 2
-category: Others
+category: work
 related_publications: true
 ---
 

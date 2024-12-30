@@ -4,7 +4,7 @@ title: AI-Assisted Smart Referral System
 description: KTP Project with Provide CIC, UK (2018-2021)
 img: assets/img/Provide.png
 importance: 1
-category: Healthcare
+category: work
 related_publications: true
 ---
 

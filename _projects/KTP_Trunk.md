@@ -4,7 +4,7 @@ title: AI-Assisted Manage My Move
 description: KTP Project with Truck Logistics, UK (2023-2026)
 img: assets/img/Trunk.png
 importance: 2
-category: Others
+category: work
 giscus_comments: true
 ---
 

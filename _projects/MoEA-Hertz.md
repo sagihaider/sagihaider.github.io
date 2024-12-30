@@ -4,7 +4,7 @@ title: Eastern Region Advanced Data Sharing Project
 description: Consultancy research
 # img: assets/img/Advancii.jpeg
 importance: 3
-category: Others
+category: work
 related_publications: true
 ---
 
