@@ -431,12 +431,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-ieee-ijcnn-2025-special-session-on-data-efficient-vision-transformers",
-          title: 'IEEE IJCNN 2025 Special Session on Data-efficient Vision Transformers',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-on-research-leave-from-oct-2024-to-march-2025-sparkles-smile",
+    },{id: "news-i-am-on-research-leave-from-oct-2024-to-march-2025-sparkles-smile",
           title: 'I am on research leave from Oct 2024 to March 2025! :sparkles: :smile:...',
           description: "",
           section: "News",},{id: "news-phd-positions-and-scholarships",
@@ -444,11 +439,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+            },},{id: "news-ieee-ijcnn-2025-special-session-on-data-efficient-vision-transformers",
+          title: 'IEEE IJCNN 2025 Special Session on Data-efficient Vision Transformers',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -486,9 +481,19 @@ ninja.data = [{
               window.location.href = "/projects/KTP-MEL/";
             },},{id: "projects-ai-assisted-skin-cancer-detection",
           title: 'AI-Assisted Skin Cancer Detection',
-          description: "KTP Project with Check4Cancer, Cambridge",
+          description: "KTP Project with Check4Cancer, Cambridge, UK (2022-2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP_C4C/";
+            },},{id: "projects-smart-platform-for-effective-office-site-communications",
+          title: 'Smart platform for effective office-site communications',
+          description: "KTP Project with Mersea Homes, UK (2021-2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP_Mersea/";
+            },},{id: "projects-ai-assisted-manage-my-move",
+          title: 'AI-Assisted Manage My Move',
+          description: "KTP Project with Truck Logistics, UK (2023-2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP_Trunk/";
             },},{
         id: 'social-email',
         title: 'email',
