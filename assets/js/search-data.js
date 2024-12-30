@@ -444,21 +444,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
+          title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
+          description: "BBSRC funded with Check4Cancer, UK (2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/BBSRC-C4C/";
             },},{id: "projects-integrating-ml-and-rpa-in-traditional-manufacturing-and-supply-operations",
           title: 'Integrating ML and RPA in Traditional Manufacturing and Supply Operations',
           description: "KTP Project with MEL Aviations, Sudbury",
