@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-* Funding Amount: ££211,843.00 <br/>
+* Funding Amount: £211,843.00 <br/>
 * Funder: Innovate UK (formerly Technology Strategy Board) <br/>
 * Role: Academic Supervisor <br/>
 * Academic Team: Dr Haider Raza and Dr John Woods.
