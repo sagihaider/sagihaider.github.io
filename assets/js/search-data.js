@@ -439,10 +439,12 @@ ninja.data = [{
             },},{id: "news-i-am-on-research-leave-from-oct-2024-to-march-2025-sparkles-smile",
           title: 'I am on research leave from Oct 2024 to March 2025! :sparkles: :smile:...',
           description: "",
-          section: "News",},{id: "news-currently-i-do-not-have-any-open-funded-phd-positions-however-if-you-are-interested-in-pursuing-a-self-funded-position-please-feel-free-to-email-me-your-cv-along-with-a-two-page-research-proposal-including-references-additionally-i-recommend-contacting-the-university-of-essex-admissions-team-to-explore-funded-programmes-and-opportunities-and-funding-available-at-the-university",
-          title: 'Currently, I do not have any open funded PhD positions. However, if you...',
+          section: "News",},{id: "news-phd-positions-and-scholarships",
+          title: 'PhD positions and scholarships',
           description: "",
-          section: "News",},{id: "projects-project-2",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
