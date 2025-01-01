@@ -36,6 +36,13 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
+| 2023-24|Mr [Rajat Rishi](https://www.linkedin.com/in/rajat-rishi-495980a6/), University of Essex| MSc|Single Trial Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
+| 2023-24|Mr Amir Behzad, University of Essex| MSc|Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
+| 2023-24|Miss [Katie Beadles](https://www.linkedin.com/in/katie-beadles-93605a1b0/), University of Essex| MSc|Deep Learning Exploration and Interpretation for Skin Lesion Classification|
+| 2023-24|Mr Ali Nawrozie, University of Essex| MSc|Deep Learning Exploration and Interpretation for Skin Lesion Classification|
+| 2023-24|Miss Niusha Shabanpour, University of Essex| MSc|Change/Shift Detection in Non-Stationary Data|
+| 2023-24|Mr Mohammad Usaid Syed, University of Essex| MSc|Dental Image Segmentation & Enumeration|
+| 2023-24|Mr HAFIZ MUHAMMAD ALI Hassan University of Essex| MSc|Dental Image Segmentation & Enumeration|
 | 2022-23|Mr [Charles Bond](https://www.linkedin.com/in/charles-bond/), currently, doing MSc dissertation, University of Essex| MSc|Single Trial Classification of MEG signal for Motor Imagery Detection|
 | 2022-23|Ms [Minerva Sarma](https://www.linkedin.com/in/minerva-sarma-299508157/), currently, doing MSc dissertation, University of Essex| MSc|Analyis of Non-Stationarity in MEG Signals|
 | 2022-23|Mr [Isreal Ufumaka](https://www.linkedin.com/in/isreal-ufumaka/), currently, doing MSc dissertation, University of Essex| MSc|Skin Cancer Detection|
@@ -66,19 +73,19 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 I also actively collaborate with the leading people in the academia and industries. Here is a list of my existing and past collaborations: 
 
-### King-George Medical College, Lucknow, India
+#### King-George Medical College, Lucknow, India
 
 One of my key collaboration is with King George Medical College, Lucknow, India with whom we have signed a data-sharing agreement. We aim to develop an accurate computer vision-based diagnostic system for age-group estimation using dental X-ray images and this work is extremely important in forensic dentistry and for various medico-legal purposes. We are working with [Dr.Akhilanand Chaurasia](https://in.linkedin.com/in/dr-akhilanand-chaurasia-56b15b92) who is an Assistant Professor & Consultant King George's Medical University, India. 
 
 
-### Muhammad Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. 
+#### Muhammad Bin Zayed University of Artificial Intelligence (MBZUAI), UAE. 
 I have collaborated with Dr. Muhammad Haris Khan from Muhammad Bin Zayed University on advancing research in Artificial Intelligence, with a particular focus on vision transformers and domain adaptation. Our work aims to address challenges in generalising visual recognition systems across diverse and dynamic data domains, contributing to the development of robust and adaptable AI models.
 
-### Ulster University, Northern-Ireland, UK
+#### Ulster University, Northern-Ireland, UK
 
 I have actively collaborated with Dr. Saugat Bhattacharya and Professor Girijesh Prasad from Ulster University on pioneering research in brain-computer interfacing (BCI), focusing on developing adaptive learning techniques for non-stationary systems to enhance the efficiency and reliability of EEG-based BCI systems. This partnership has significantly contributed to advancing innovative solutions in neural engineering and human-computer interaction.
 
-### IIIT-Lucknow, India
+#### IIIT-Lucknow, India
 
 Jointly working with Dr Vishal Krishna Singh from IIIT-L who now joined University of Essex. We worked on advancing in AI that could be used in solving major global environmental crises--from climate change to agriculture. With advances in machine learning and deep learning, we can now tap the predictive power of AI to make better data-driven models of environmental processes to improve our ability to study current and future trends, including forest-fire, water availability, crop-monitoring, and ecosystems wellbeing. I am interested in bringing AI and ML to play a key role in enhancing environmental decision and policy-making work, by bringing algorithmic solutions to the following themes:
 
