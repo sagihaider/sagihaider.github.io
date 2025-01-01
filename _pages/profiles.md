@@ -30,13 +30,14 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 * **Mr John Bosco Uroko** is currently a part-time PhD student started in April 2021. John is exploring deep learning and data fusion techniques in BCI robotics. Dr Liang Hu is the main supervisor and I am co-supervising him with Professor Gu, Dongbing.
 
+* **Mr Andrew Soames** is currently a full-time PhD Psychology student started in 2023. Andrew is exploring the possible psychological impacts of AI and digital (mediated) communication for workers in hybrid, distributed/remote and in-person locations. I am co-supervising Andrew with Dr Paul Hanel from the Psychology Department.
 
 *** 
 ## MSc & BSc Students (Past & Present)
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
-| 2023-24|Mr [Rajat Rishi](https://www.linkedin.com/in/rajat-rishi-495980a6/), University of Essex| MSc|Single Trial Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
+| 2023-24|Mr [Rajat Rishi](https://www.linkedin.com/in/rajat-rishi-495980a6/), University of Essex| MSc| Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
 | 2023-24|Mr Amir Behzad, University of Essex| MSc|Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
 | 2023-24|Miss [Katie Beadles](https://www.linkedin.com/in/katie-beadles-93605a1b0/), University of Essex| MSc|Deep Learning Exploration and Interpretation for Skin Lesion Classification|
 | 2023-24|Mr Ali Nawrozie, University of Essex| MSc|Deep Learning Exploration and Interpretation for Skin Lesion Classification|
