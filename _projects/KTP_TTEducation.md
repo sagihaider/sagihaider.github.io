@@ -4,7 +4,7 @@ title: Smart platform for effective office-site communications
 description: KTP Project with Mersea Homes, UK (2021-2023)
 img: assets/img/TTEducation.png
 importance: 5
-category: work
+category: others
 related_publications: true
 ---
 

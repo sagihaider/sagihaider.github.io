@@ -4,7 +4,7 @@ title: Integrating ML and RPA in Traditional Manufacturing and Supply Operations
 description: KTP Project with MEL Aviations, Sudbury
 img: assets/img/MEL.jpg
 importance: 3
-category: work
+category: others
 related_publications: true
 ---
 

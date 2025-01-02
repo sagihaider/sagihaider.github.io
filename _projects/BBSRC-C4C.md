@@ -4,7 +4,7 @@ title: Enhancing Skin Cancer Detection Across Diverse Skin Types
 description: BBSRC funded with Check4Cancer, UK (2024)
 img: assets/img/BBSRC.jpg
 importance: 1
-category: work
+category: healthcare
 related_publications: true
 ---
 
