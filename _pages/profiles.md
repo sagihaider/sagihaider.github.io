@@ -32,6 +32,8 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 * **Mr Andrew Soames** is currently a full-time PhD Psychology student started in 2023. Andrew is exploring the possible psychological impacts of AI and digital (mediated) communication for workers in hybrid, distributed/remote and in-person locations. I am co-supervising Andrew with Dr Paul Hanel from the Psychology Department.
 
+* **Mr Mamdouh Hasid N Alanazi** is currently a full-time PhD Public Health student started in 2024. Mamdouh is foucsing on enhancing quality and equity in telemedicine and digital health with AI integration in Saudi Arabia’s Health Vision 2030. I am co-supervising Mamdouh with Professor Reza Majdzadeh from the School of Health and Social Care.
+
 *** 
 ## MSc & BSc Students (Past & Present)
 
