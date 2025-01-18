@@ -11,10 +11,15 @@ My passion for Artificial Intelligence (AI) and Machine Learning sparked during 
 <!-- <img src="/assets/img/wordcloud.png" width="400" align="center">  -->
 
 <p align="center">
-  <img width="800" height="600" src="/assets/img/wordcloud.png">
+  <img width="400" height="300" src="/assets/img/wordcloud.png">
 </p>
 
 The picture that changed my life is given below. The picture is from the book ``Artificial Intelligence: A Modern Approach`` by Stuart Russell and Peter Norvig. The first chapter of the book is an introduction to AI and I read it in 2007. I would say no one can explain it much better than this book.
+
+<p align="center">
+
+  <img width="300" height="300" src="/assets/img/AI_4Pillars.png">
+</p>
 
 ***
 The methodological contributions are given as follows:
