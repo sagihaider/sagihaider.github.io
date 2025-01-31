@@ -15,6 +15,12 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 *** 
 ## Post-Docs / Associates (Past & Present)
 
+* [Manuel Verduzco Valenzuela](https://www.linkedin.com/in/manuel-verduzco/): (KTP Associate: Data Scientist, April-2024 to present) with [MEL Aviations](https://www.melcomponents.co.uk/), Sudbury, England.
+
+* Ms [Minerva Sarma](https://www.linkedin.com/in/minervasarma/): (KTP Associate: AI-Software Engineering, Dec-2023 to present) with [Trunk Logistics](https://www.trunklogistics.com/), England.
+
+* Dr [Shafiq Ul Islam](https://www.linkedin.com/in/mdshafiqul-islam/): (KTP Associate: AI-Data Scientist, Oct-2022 to Oct-2024) with [Check4Cancer](https://www.check4cancer.com/), Colchester, England
+
 * Dr [Yogesh Kumar Meena](https://uk.linkedin.com/in/ykmeena): (KTP Associate: AI-Software Engineering, Feb-2021 to present) with [Mersea Homes](https://www.merseahomes.co.uk/), Colchester, England
 
 * Dr [Dheeraj Rathee](https://www.linkedin.com/in/dheeraj-rathee-phd-2a816297/) (KTP Associate: AI-Data Scientist, Nov-2018 to Non-2021) with Provide CIC, Colchester, England. Currently, Dheeraj is a Chief Technical and Analytics Offcer (CTAO) at Provide Digital. 
