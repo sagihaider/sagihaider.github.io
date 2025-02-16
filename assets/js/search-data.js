@@ -147,6 +147,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-news-coverage-bbc",
+          title: 'News Coverage BBC',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
