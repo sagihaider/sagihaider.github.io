@@ -15,7 +15,7 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 *** 
 ## Post-Docs / Associates (Past & Present)
 
-* [Manuel Verduzco Valenzuela](https://www.linkedin.com/in/manuel-verduzco/): (KTP Associate: Data Scientist, April-2024 to present) with [MEL Aviations](https://www.melcomponents.co.uk/), Sudbury, England.
+* Mr [Manuel Verduzco Valenzuela](https://www.linkedin.com/in/manuel-verduzco/): (KTP Associate: Data Scientist, April-2024 to present) with [MEL Aviations](https://www.melcomponents.co.uk/), Sudbury, England.
 
 * Ms [Minerva Sarma](https://www.linkedin.com/in/minervasarma/): (KTP Associate: AI-Software Engineering, Dec-2023 to present) with [Trunk Logistics](https://www.trunklogistics.com/), England.
 
