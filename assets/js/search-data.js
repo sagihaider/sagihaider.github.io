@@ -147,8 +147,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-news-coverage-bbc",
-          title: 'News Coverage BBC',
+            },},{id: "news-media-and-news-coverage",
+          title: 'Media and News Coverage',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
