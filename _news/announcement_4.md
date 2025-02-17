@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Coverage BBC
+title: Media and News Coverage
 date: 2025-02-15 16:11:00-0400
 inline: false
 related_posts: false
