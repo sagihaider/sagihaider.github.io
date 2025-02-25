@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. || Senior Lecturer in Artificial Intelligence, University of Essex || Co-founder of Sensiwise AI||
+subtitle: <a href='#'>Qualifications</a>. || PhD || M Tech || B Tech|| SMIEEE || FHEA || MCTS ||
 
 profile:
   align: right
