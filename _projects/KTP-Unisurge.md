@@ -4,7 +4,7 @@ title: To revolutionise the medical supply industry by developing a demand predi
 description: KTP Project with Unisurge International's, Newmarket, England
 img: assets/img/Unisurge.jpeg
 importance: 4
-category: others
+category: healthcare
 related_publications: true
 ---
 
