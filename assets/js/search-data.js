@@ -145,6 +145,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-cvpr-2025-two-workshop-paper-accepted",
+          title: 'CVPR 2025 - two workshop paper accepted',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
@@ -165,6 +170,11 @@ ninja.data = [{
           description: "KTP Project with MEL Aviations, Sudbury",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-MEL/";
+            },},{id: "projects-to-revolutionise-the-medical-supply-industry-by-developing-a-demand-prediction-model-for-surgical-procedure-packs",
+          title: 'To revolutionise the medical supply industry by developing a demand prediction model for...',
+          description: "KTP Project with Unisurge International&#39;s, Newmarket, England",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP-Unisurge/";
             },},{id: "projects-ai-assisted-skin-cancer-detection",
           title: 'AI-Assisted Skin Cancer Detection',
           description: "KTP Project with Check4Cancer, Cambridge, UK (2022-2024)",
