@@ -170,8 +170,8 @@ ninja.data = [{
           description: "KTP Project with MEL Aviations, Sudbury",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-MEL/";
-            },},{id: "projects-to-revolutionise-the-medical-supply-industry-by-developing-a-demand-prediction-model-for-surgical-procedure-packs",
-          title: 'To revolutionise the medical supply industry by developing a demand prediction model for...',
+            },},{id: "projects-ai-assisted-demand-prediction-model-for-surgical-procedure-packs",
+          title: 'AI assisted demand prediction model for surgical procedure packs',
           description: "KTP Project with Unisurge International&#39;s, Newmarket, England",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-Unisurge/";
