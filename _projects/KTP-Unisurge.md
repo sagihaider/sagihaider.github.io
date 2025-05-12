@@ -1,6 +1,6 @@
 ---
 layout: page
-title: To revolutionise the medical supply industry by developing a demand prediction model for surgical procedure packs
+title: AI assisted demand prediction model for surgical procedure packs
 description: KTP Project with Unisurge International's, Newmarket, England
 img: assets/img/Unisurge.jpeg
 importance: 4
