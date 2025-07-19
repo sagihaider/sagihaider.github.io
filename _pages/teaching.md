@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: A comprehensive record of my teaching experience across universities in the UK, Ethiopia, and India, covering modules in AI, data science, programming, and databases.
 nav: true
 nav_order: 6
@@ -11,7 +11,7 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-## Teaching Experience (Table Format)
+## Teaching Experience 
 
 | Role              | Term/Year              | Module Code | Module Title                                      | Institution                                 | Notes                                |
 |-------------------|------------------------|-------------|---------------------------------------------------|---------------------------------------------|--------------------------------------|
@@ -31,6 +31,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 | Instructor        | Summer 2010            | IT-822      | Data Warehousing and Data Mining                  | MRIU, India                                 | –                                    |
 | Instructor        | Winter 2010            | CS-502      | Computer Graphics                                 | MRIU, India                                 | –                                    |
 | Instructor        | Summer 2009            | CS-301      | Discrete Structures                               | MRIU, India                                 | –                                    |
+
+
+
 
 
 ## Teaching Philosophy
