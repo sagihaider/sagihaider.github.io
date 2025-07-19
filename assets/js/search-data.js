@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "A comprehensive record of my teaching experience across universities in the UK, Ethiopia, and India, covering modules in AI, data science, programming, and databases.",
           section: "Navigation",
           handler: () => {
