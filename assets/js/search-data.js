@@ -165,6 +165,11 @@ ninja.data = [{
           description: "Innovation Voucher with Check4Cancer, UK (2020)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/IV-C4C/";
+            },},{id: "projects-ai-enabled-multimodal-biomarker-discovery-for-precision-medicine",
+          title: 'AI-Enabled Multimodal Biomarker Discovery for Precision Medicine',
+          description: "KTP Project with Chronomics Limited, London",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP-Hurdle/";
             },},{id: "projects-integrating-ml-and-rpa-in-traditional-manufacturing-and-supply-operations",
           title: 'Integrating ML and RPA in Traditional Manufacturing and Supply Operations',
           description: "KTP Project with MEL Aviations, Sudbury",
