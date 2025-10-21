@@ -175,6 +175,11 @@ ninja.data = [{
           description: "KTP Project with MEL Aviations, Sudbury",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-MEL/";
+            },},{id: "projects-ai-enabled-multimodal-biomarker-discovery-for-precision-medicine",
+          title: 'AI-Enabled Multimodal Biomarker Discovery for Precision Medicine',
+          description: "KTP Project with Chronomics Limited, London",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP-RSPB/";
             },},{id: "projects-ai-assisted-demand-prediction-model-for-surgical-procedure-packs",
           title: 'AI assisted demand prediction model for surgical procedure packs',
           description: "KTP Project with Unisurge International&#39;s, Newmarket, England",
