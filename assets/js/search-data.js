@@ -180,6 +180,11 @@ ninja.data = [{
           description: "KTP Project with The Royal Society for the Protection of Birds (RSPB), UK",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-RSPB/";
+            },},{id: "projects-ai-driven-data-intelligence-and-process-optimisation-for-digital-transformation-at-storm-technologies",
+          title: 'AI-Driven Data Intelligence and Process Optimisation for Digital Transformation at Storm Technologies',
+          description: "KTP Project with Storm Technologies Limited, UK",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP-Strom/";
             },},{id: "projects-ai-assisted-demand-prediction-model-for-surgical-procedure-packs",
           title: 'AI assisted demand prediction model for surgical procedure packs',
           description: "KTP Project with Unisurge International&#39;s, Newmarket, England",
