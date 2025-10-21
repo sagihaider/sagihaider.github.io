@@ -175,9 +175,9 @@ ninja.data = [{
           description: "KTP Project with MEL Aviations, Sudbury",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-MEL/";
-            },},{id: "projects-ai-enabled-multimodal-biomarker-discovery-for-precision-medicine",
-          title: 'AI-Enabled Multimodal Biomarker Discovery for Precision Medicine',
-          description: "KTP Project with Chronomics Limited, London",
+            },},{id: "projects-building-trust-through-ai-countering-misinformation-in-environmental-communication",
+          title: 'Building Trust Through AI- Countering Misinformation in Environmental Communication',
+          description: "KTP Project with The Royal Society for the Protection of Birds (RSPB), UK",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-RSPB/";
             },},{id: "projects-ai-assisted-demand-prediction-model-for-surgical-procedure-packs",
