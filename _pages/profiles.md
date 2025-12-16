@@ -30,7 +30,7 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 *** 
 ## PhD Students (Past & Present)
 
-* **Mr Mohsin Ali** is currently a full-time PhD student started in April 2022. Mohsin is exploring the use of explainable AI in Vision Transfomers and it's application to healthcare. Professor John Q Gan co-supervising Mohsin.
+* **Mr Mohsin Ali** defended his PhD thesis in Dec 2025. He started a full-time PhD studentship in April 2022. Mohsin explored the use of explainable AI in Vision Transfomers and it's application to healthcare. Professor John Q Gan co-supervised Mohsin.
 
 * **Mr Rahmat Izwan Heroza** is currently a full-time PhD student started in April 2022. Rahmat is working on Computer Vision techniques for improving Melanona detection performance. Professor John Q Gan is the main supervisor and I am co-supervising.
 
@@ -45,6 +45,9 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
+| 2024-25|Mr [Tun Ye Minn](https://www.linkedin.com/in/tun-ye-minn-109148168/), University of Essex| MSc| Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance|
+| 2024-25|Mr [Malik Haseeb Haider](https://www.linkedin.com/in/malik-hhaider/), University of Essex| MSc| Dental Disease Classification Using Deep Learning: A Multi-Model Approach for Panoramic X-ray Analysis|
+| 2024-25|Mr Muhammad Babar, University of Essex| MSc| End-to-End System for Dental Radiograph Analysis|
 | 2023-24|Mr [Rajat Rishi](https://www.linkedin.com/in/rajat-rishi-495980a6/), University of Essex| MSc| Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
 | 2023-24|Mr Amir Behzad, University of Essex| MSc|Predicting and Optimizing Syngas Production in Fluidized Bed Biomass Gasification|
 | 2023-24|Miss [Katie Beadles](https://www.linkedin.com/in/katie-beadles-93605a1b0/), University of Essex| MSc|Deep Learning Exploration and Interpretation for Skin Lesion Classification|
