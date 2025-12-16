@@ -220,6 +220,16 @@ ninja.data = [{
           description: "Consultancy research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MoEA-Hertz/";
+            },},{id: "projects-ai-for-oral-health-exploring-mobile-based-artificial-intelligence-for-early-screening-of-oral-pre-cancer-and-cancer",
+          title: 'AI for Oral Health-Exploring Mobile-Based Artificial Intelligence for Early Screening of Oral Pre-Cancer...',
+          description: "The Royal Society 2026-2028",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Royal-Society-IE/";
+            },},{id: "projects-royal-society-pairing-scheme-2026",
+          title: 'Royal Society Pairing Scheme 2026',
+          description: "Royal Society Pairing Scheme 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Royal-Society-PS/";
             },},{
         id: 'social-email',
         title: 'email',
