@@ -150,13 +150,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-announcement-6",
-          title: 'Announcement_6',
+            },},{id: "news-awarded-a-royal-society-international-exchanges-grant",
+          title: 'Awarded a Royal Society International Exchanges grant.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-announcement-7",
-          title: 'Announcement_7',
+            },},{id: "news-royal-society-pairing-scheme-2026-successful-selection",
+          title: 'Royal Society Pairing Scheme 2026 – Successful Selection',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
