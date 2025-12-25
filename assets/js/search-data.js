@@ -150,7 +150,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
+            },},{id: "news-i-m-delighted-to-share-that-i-have-been-awarded-a-royal-society-international-exchanges-grant-to-support-a-new-international-research-collaboration-between-the-university-of-essex-and-aiims-new-delhi-india-i-m-delighted-to-share-that-i-have-been-awarded-a-royal-society-international-exchanges-grant-to-support-a-new-international-research-collaboration-between-the-university-of-essex-and-aiims-new-delhi-india-the-project-ai-for-oral-health-exploring-mobile-based-artificial-intelligence-for-early-screening-of-oral-pre-cancer-and-cancer-will-run-from-january-2026-to-december-2027-it-focuses-on-developing-mobile-based-ai-and-computer-vision-tools-to-support-early-detection-of-oral-cancer-particularly-in-low-resource-and-community-settings-this-collaboration-will-involve-bilateral-research-visits-close-clinical-technical-collaboration-and-joint-academic-outputs-with-the-long-term-aim-of-improving-early-diagnosis-and-public-health-outcomes-i-m-grateful-to-the-royal-society-and-all-collaborators-for-their-support-and-i-look-forward-to-progressing-this-impactful-work",
+          title: 'I’m delighted to share that I have been awarded a Royal Society International...',
+          description: "",
+          section: "News",},{id: "news-royal-society-pairing-scheme-2026-successful-selection-i-am-delighted-to-share-that-i-have-been-selected-for-the-royal-society-pairing-scheme-2026-a-highly-competitive-national-programme-that-connects-leading-uk-researchers-with-parliamentarians-and-senior-civil-servants-following-a-competitive-process-with-over-300-applications-i-will-take-part-in-the-week-in-westminster-16-19-march-2026-where-i-will-shadow-a-policymaker-engage-in-policy-focused-workshops-and-gain-first-hand-insight-into-how-scientific-evidence-informs-decision-making-at-the-heart-of-government-this-opportunity-aligns-strongly-with-my-work-in-ai-healthcare-and-responsible-innovation-including-my-entrepreneurial-activities-through-sensiwise-ai-and-the-saira-sensiwise-ai-readiness-assessment-framework-i-look-forward-to-contributing-to-and-learning-from-this-important-dialogue-between-science-innovation-and-policy",
+          title: 'Royal Society Pairing Scheme 2026 – Successful Selection I am delighted to share...',
+          description: "",
+          section: "News",},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
           section: "Projects",handler: () => {
