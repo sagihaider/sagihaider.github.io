@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Royal Society Pairing Scheme 2026 – Successful Selection
 date: 2025-12-06 07:59:00-0400
 inline: false
 related_posts: false

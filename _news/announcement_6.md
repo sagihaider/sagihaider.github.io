@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Awarded a Royal Society International Exchanges grant.
 date: 2025-12-06 07:59:00-0400
 inline: false
 related_posts: false
