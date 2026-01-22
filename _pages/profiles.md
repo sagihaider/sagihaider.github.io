@@ -15,6 +15,10 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 *** 
 ## Post-Docs / Associates (Past & Present)
 
+* Mr [Malik Haseeb Haider](https://www.linkedin.com/in/malik-hhaider/): (KTP Associate: Data Scientist, Jan-2026 to present) with [Royal Society of Bird Protection](https://www.rspb.org.uk/), Sandy, England.
+
+* Dr [Mohsin Ali](https://www.linkedin.com/in/mohsin-ali-752270207/): (KTP Associate: Data Scientist, Oct-2025 to present) with [Unisurge International](https://unisurge.com/), Newmarket, England.
+
 * Mr [Manuel Verduzco Valenzuela](https://www.linkedin.com/in/manuel-verduzco/): (KTP Associate: Data Scientist, April-2024 to present) with [MEL Aviations](https://www.melcomponents.co.uk/), Sudbury, England.
 
 * Ms [Minerva Sarma](https://www.linkedin.com/in/minervasarma/): (KTP Associate: AI-Software Engineering, Dec-2023 to present) with [Trunk Logistics](https://www.trunklogistics.com/), England.
