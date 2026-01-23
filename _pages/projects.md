@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: A collection of ongoing and sucessfully completed funded projects.
 nav: true
-nav_order: 3
-display_categories: [healthcare, others]
+nav_order: 2
+# display_categories: [healthcare, others]
 horizontal: false
 ---
 
