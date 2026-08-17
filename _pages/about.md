@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. || Senior Lecturer in Artificial Intelligence, University of Essex || Co-founder of Sensiwise AI|| <a href='#'>Qualifications</a>. || PhD || M Tech || B Tech || SMIEEE || FHEA || MCTS ||
+subtitle: Senior Lecturer (Associate Professor) in Artificial Intelligence, University of Essex || Founder, Sensiwise AI || AI Advisor, Check4Cancer || PhD || SMIEEE || FHEA || MCTS
 
 profile:
   align: right
@@ -19,13 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Indian-born British computer scientist. Co-founder of [Sensiwise AI](https://sensiwise.ai/) and currently working as a Senior Lecturer in Artificial Intelligence at the [School of Computer Science and Electronic Engineering (CSEE)](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex (UoE)](https://www.essex.ac.uk/). From Nov 2020-Nov 2022, I worked as a Lecturer in CSEE and from Nov 2017-Nov 2022, I worked as a Post-doctoral Research Fellow at the [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science), UoE. Prior to joining UoE, I worked as a Post-Doctoral Research Officer in Machine Learning at The Farr Institute of Health Informatics Research, [Swansea University](https://www.swansea.ac.uk/), UK (July 2016 - Present). Before joining Swansea, I worked as a Post-Doctoral Research Assistant in Machine Learning for EEG-based Brain-Computer Interfacing at the Intelligent Systems Research Centre (ISRC), School of Computing and Intelligent Systems, [Ulster University](https://www.ulster.ac.uk/), UK (December 2015-June 2016). My doctoral (PhD) dissertation was under the supervision of Professor Girijesh Prasad and Dr Hubert Cecotti and looked at adaptive learning for modelling for non-stationary systems and its application to EEG-based brain-computer interfaces (October 2012-December 2015).
+I am an Indian-born British computer scientist, AI researcher, educator, and entrepreneur. I am a Senior Lecturer (Associate Professor) in Artificial Intelligence at the [School of Computer Science and Electronic Engineering (CSEE)](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering), [University of Essex](https://www.essex.ac.uk/). I am also the Founder of [Sensiwise AI](https://sensiwise.ai/) (September 2023-present) and an AI Advisor to [Check4Cancer](https://www.check4cancer.com/) (June 2025-present).
+
+At the University of Essex, I previously worked as a Lecturer in Artificial Intelligence (2020-2022) and as a Postdoctoral Research Fellow at the [Institute for Analytics and Data Science](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science) (2017-2020). Before joining Essex, I was a Postdoctoral Research Officer in Machine Learning at the Centre for Improvement in Population Health through E-records Research (CIPHER), [Swansea University](https://www.swansea.ac.uk/) (2016-2017), and a Postdoctoral Research Assistant in Brain-Computer Interfacing at [Ulster University](https://www.ulster.ac.uk/) (2015-2016). I was also a Visiting Researcher at the Indian Institute of Technology Kanpur in 2015. Earlier in my career, I held lecturing positions at Dilla University (2011-2012), Manav Rachna International University (2009-2011), and Cosmic Business School (2008-2009).
 
 You can view my University of Essex [Profile](https://www.essex.ac.uk/people/razah72409). If you have any questions or are interested in a research collaboration, don’t hesitate to reach out. 
 
 Biography
 ======
-I received a PhD in Computer Science from University of Ulster, Northern Ireland, UK; Master's degree in Computer Engineering from Manav Rachna International University, India; and a Bachelor’s degree in Computer Science and Engineering from [Integral University](http://iul.ac.in/), India. I completed my primary and secondary education during 1991-2003 from Colvin Taluqdars' College in Lucknow, which is one of the oldest private schools in India. I was born in the city of Lucknow and spent nearly 24 years. Here is a [YouTube](https://www.youtube.com/watch?v=dS2fpg-SdJ8) video if you want to see Lucknow. 
+I received a PhD in Computer Science from Ulster University in 2016. My thesis investigated adaptive learning for modelling non-stationarity in EEG-based brain-computer interfacing. I received an M.Tech. in Computer Science and Engineering from Manav Rachna International University in 2011, where my dissertation focused on advancing spiking neural networks, and a B.Tech. in Computer Science and Engineering from [Integral University](http://iul.ac.in/) in 2008.
 
 I am also associated with following professional bodies: 
 
@@ -34,7 +36,9 @@ I am also associated with following professional bodies:
 
 Research interests
 ======
-My research interests include a range of fields within Artificial Intelligence (AI) and Machine Learning (ML), including Artificial Neural Networks, Deep Learning, Vision Transformers (ViT), Domain Adaptation, Non-stationary Learning, and Electroencephalography (EEG)/Magnetoencephalography (MEG)-based Brain-Computer Interfaces (BCI). I also researched in Robotics related to BCI-based Neuro-Rehabilitation. With substantial expertise, I have been involved in the development, testing, and deployment of intelligent learning systems across diverse applications. These applications span from robotics to medical imaging (EEG & MEG), healthcare systems (such as skin-cancer detection and forensic dentistry), and addressing real-world challenges in the NHS, UK. My research extends across the entire spectrum, covering foundational ML and explainable AI (xAI) theories to practical implementations in real-world scenarios. One of my primary focuses is on influencing policies to ensure the safe and ethical adoption of ML technologies.
+My research spans artificial intelligence, agentic AI, and trustworthy systems, with particular interests in explainable AI, human-AI alignment, and the responsible deployment of AI in high-stakes domains. I work on deep learning, foundation models, large language models, generative AI, Vision Transformers, multimodal learning, domain adaptation, and domain generalisation. I am also interested in continual and non-stationary learning, covariate and concept-shift detection, and robust modelling under changing data distributions.
+
+In biomedical AI, my work covers EEG, EMG, and MEG signal processing; brain-computer interfaces; AI-assisted communication and stroke rehabilitation; medical imaging; skin-cancer detection; forensic dentistry; and healthcare decision support. Across these areas, I develop, evaluate, and deploy intelligent systems while contributing to policy discussions around safe, ethical, and socially responsible AI adoption.
 
 I am associated to the following research groups at the University of Essex:
 1. Artificial Intelligence and explainable AI
