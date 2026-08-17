@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A collection of ongoing and sucessfully completed funded projects.",
+          description: "Funded research and industry partnerships translating AI into healthcare, business, environmental and public value.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -241,13 +241,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/Royal-Society-PS/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
