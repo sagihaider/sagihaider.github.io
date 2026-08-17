@@ -6,14 +6,30 @@ description: Members of the lab or group
 nav: true
 nav_order: 7
 ---
-I am keen to collaborate with researchers and professionals who share a passion for advancing AI and its applications. My research interests span a range of AI-driven domains, including decision-making, machine learning methods, non-stationary learning, brain-computer interfaces, EEG/MEG signal processing, computer vision, and computational intelligence solutions for healthcare, businesses, and environmental challenges.  
+<div class="people-page" markdown="1">
 
-At [Sensiwise AI](https://sensiwise.ai/), I lead all initiatives related to artificial intelligence, bringing years of experience and expertise in developing AI-driven solutions. My areas of focus include AI for healthcare, covering robotics, medical imaging, and diagnostic systems such as skin cancer detection. I also specialise in machine learning, explainable AI (xAI), and their practical implementation in real-world scenarios. With a strong track record of addressing challenges in healthcare systems and influencing policies for ethical AI adoption, I ensure Sensiwise AI delivers innovative, reliable, and impactful solutions that empower businesses and improve lives.
+<header class="people-hero">
+  <p class="people-eyebrow">Research community</p>
+  <h2>People, partnerships, and shared inquiry</h2>
+  <p>I collaborate with researchers, students, and professionals advancing adaptive and applied AI—from brain–computer interfaces and computer vision to healthcare, organisations, and environmental challenges.</p>
+  <p>At <a href="https://sensiwise.ai/">Sensiwise AI</a>, I lead artificial-intelligence initiatives that translate machine learning, explainable AI, medical imaging, robotics, and diagnostic research into responsible real-world solutions.</p>
+  <div class="people-actions">
+    <a class="people-button people-button--primary" href="mailto:{{ site.email }}">Discuss a collaboration</a>
+    <a class="people-button" href="/research/">Explore my research</a>
+  </div>
+</header>
 
-If you are enthusiastic about any of these topics and are looking to collaborate on impactful AI projects, please don’t hesitate to get in touch. Let’s work together to push the boundaries of what AI can achieve!   
+<nav class="people-directory" aria-label="People page sections">
+  <a href="#associates"><span>01</span><strong>Research associates</strong><small>Past and present</small></a>
+  <a href="#phd-researchers"><span>02</span><strong>PhD researchers</strong><small>Supervised and co-supervised</small></a>
+  <a href="#student-projects"><span>03</span><strong>Student projects</strong><small>MSc and BSc research</small></a>
+  <a href="#collaborators"><span>04</span><strong>Collaborators</strong><small>Academic and industry partners</small></a>
+</nav>
 
-*** 
-## Post-Docs / Associates (Past & Present)
+<p class="people-invitation">Interested in a related problem or collaboration? I welcome conversations that connect rigorous AI research with meaningful practical impact.</p>
+
+<h2 id="associates">Post-Docs &amp; Research Associates</h2>
+<p class="people-section-note">Past and present researchers working across university–industry partnerships and applied AI programmes.</p>
 
 * Mr [Malik Haseeb Haider](https://www.linkedin.com/in/malik-hhaider/): (KTP Associate: Data Scientist, Jan-2026 to present) with [Royal Society of Bird Protection](https://www.rspb.org.uk/), Sandy, England.
 
@@ -31,8 +47,8 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 * Mr [Arjith Vajrala](https://www.linkedin.com/in/ajith-vajrala-21b88b68/?originalSubdomain=uk) MSc Student (2018-2019), Worked as KTP Associate (AI Data Scientist at TT Education) from 2019-2020. Currently, Data Scientist - Barts Cancer Institute.
 
-*** 
-## PhD Students (Past & Present)
+<h2 id="phd-researchers">PhD Researchers</h2>
+<p class="people-section-note">Past and present doctoral researchers whom I supervise or co-supervise.</p>
 
 * **Mr Mohsin Ali** defended his PhD thesis in Dec 2025. He started a full-time PhD studentship in April 2022. Mohsin explored the use of explainable AI in Vision Transfomers and it's application to healthcare. Professor John Q Gan co-supervised Mohsin.
 
@@ -44,8 +60,8 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 
 * **Mr Mamdouh Hasid N Alanazi** is currently a full-time PhD Public Health student started in 2024. Mamdouh is foucsing on enhancing quality and equity in telemedicine and digital health with AI integration in Saudi Arabia’s Health Vision 2030. I am co-supervising Mamdouh with Professor Reza Majdzadeh from the School of Health and Social Care.
 
-*** 
-## MSc & BSc Students (Past & Present)
+<h2 id="student-projects">MSc &amp; BSc Student Projects</h2>
+<p class="people-section-note">A record of past and present taught-degree research projects, organised by academic year.</p>
 
 | Academic Year | Student Name | Course | Title |
 |-------|--------------------|---------|------------------|
@@ -84,8 +100,7 @@ If you are enthusiastic about any of these topics and are looking to collaborate
 | 2019-20|Mr Ricardo González Martínez| MSc| Price-prediction based on product features and description|
 | 2019-20|Mr [Bartlomiej Kloza](https://www.linkedin.com/in/bartlomiej-kloza-36a52b185/)| BSc| WeatherBe - a full-stack web application|
 
-*** 
-## Academic and Industry Collaboration
+<h2 id="collaborators">Academic &amp; Industry Collaborations</h2>
 
 I also actively collaborate with the leading people in the academia and industries. Here is a list of my existing and past collaborations: 
 
@@ -107,3 +122,5 @@ Jointly working with Dr Vishal Krishna Singh from IIIT-L who now joined Universi
 
 * Developing forest-fire prediction algorithm using IoT
 * Image analysis for monitoring crops
+
+</div>
