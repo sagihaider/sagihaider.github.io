@@ -4,6 +4,10 @@ title: AI and IoT for Forest Fire Study
 description: University of Essex GCRF research project (2020)
 importance: 4
 category: others
+theme: environment
+status: completed
+period: "2020"
+start_year: 2020
 related_publications: true
 ---
 

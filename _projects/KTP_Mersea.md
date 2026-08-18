@@ -5,6 +5,10 @@ description: KTP Project with Mersea Homes, UK (2021-2023)
 img: assets/img/Mersea.jpg
 importance: 4
 category: others
+theme: enterprise
+status: completed
+period: "2021–2023"
+start_year: 2021
 related_publications: true
 ---
 

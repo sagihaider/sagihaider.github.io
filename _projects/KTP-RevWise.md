@@ -4,6 +4,10 @@ title: Agentic AI for Intelligent Affiliate Marketing and Communication Optimisa
 description: Innovate UK KTP with RevWise Limited (2026-2029)
 importance: 1
 category: others
+theme: enterprise
+status: current
+period: "2026–2029"
+start_year: 2026
 related_publications: false
 ---
 

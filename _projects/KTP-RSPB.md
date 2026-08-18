@@ -5,6 +5,10 @@ description: KTP Project with The Royal Society for the Protection of Birds (RSP
 img: assets/img/rspb.png
 importance: 3
 category: others
+theme: environment
+status: current
+period: "2026–2029"
+start_year: 2026
 related_publications: true
 ---
 

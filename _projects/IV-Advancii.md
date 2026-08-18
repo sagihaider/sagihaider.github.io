@@ -5,6 +5,10 @@ description: Innovation Voucher and Contract research with Advancii, UK (2024)
 img: assets/img/Advancii.jpeg
 importance: 2
 category: others
+theme: enterprise
+status: completed
+period: "2023–2024"
+start_year: 2023
 related_publications: true
 ---
 

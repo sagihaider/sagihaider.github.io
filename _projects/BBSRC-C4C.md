@@ -5,6 +5,10 @@ description: BBSRC funded with Check4Cancer, UK (2024)
 img: assets/img/BBSRC.jpg
 importance: 1
 category: healthcare
+theme: healthcare
+status: completed
+period: "2024"
+start_year: 2024
 related_publications: true
 ---
 

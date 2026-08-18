@@ -4,6 +4,10 @@ title: Business and Local Government Data Research Centre
 description: ESRC-funded data research programme (2019-2022)
 importance: 5
 category: others
+theme: public-policy
+status: completed
+period: "2019–2022"
+start_year: 2019
 related_publications: true
 ---
 

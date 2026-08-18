@@ -2,9 +2,13 @@
 layout: page
 title: AI-Enabled Multimodal Biomarker Discovery for Precision Medicine
 description: KTP Project with Chronomics Limited, London
-img: assets/img/hurdle.jpeg
+img: assets/img/hurdle.webp
 importance: 4
 category: healthcare
+theme: healthcare
+status: current
+period: "2025–2028"
+start_year: 2025
 related_publications: true
 ---
 

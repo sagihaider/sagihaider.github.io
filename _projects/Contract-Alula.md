@@ -4,6 +4,10 @@ title: Multimodal Machine Learning for Health Risk Prediction
 description: Contract research with Alula Technologies Limited (2026)
 importance: 1
 category: healthcare
+theme: healthcare
+status: current
+period: "2026"
+start_year: 2026
 related_publications: false
 ---
 

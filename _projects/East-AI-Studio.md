@@ -4,6 +4,10 @@ title: East AI Studio - Essex Accelerated Skills and Transformation in Generativ
 description: Innovate UK project led by the University of Essex (2026-2029)
 importance: 1
 category: others
+theme: enterprise
+status: current
+period: "2026–2029"
+start_year: 2026
 related_publications: false
 ---
 

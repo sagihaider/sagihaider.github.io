@@ -4,6 +4,10 @@ title: AI-Powered Chatbot for Financial Wellbeing
 description: Research project with Maji Financial Wellbeing Limited (2019-2020)
 importance: 4
 category: others
+theme: enterprise
+status: completed
+period: "2019–2020"
+start_year: 2019
 related_publications: false
 ---
 

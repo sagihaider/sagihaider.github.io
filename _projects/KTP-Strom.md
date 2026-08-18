@@ -5,6 +5,10 @@ description: KTP Project with Storm Technologies Limited, UK
 img: assets/img/storm.png
 importance: 3
 category: others
+theme: enterprise
+status: current
+period: "2026–2029"
+start_year: 2026
 related_publications: true
 ---
 

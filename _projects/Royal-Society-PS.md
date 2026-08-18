@@ -5,6 +5,10 @@ description: Royal Society Pairing Scheme 2026
 img: assets/img/royalsociety.png
 importance: 2
 category: others
+theme: public-policy
+status: completed
+period: "2026"
+start_year: 2026
 related_publications: true
 ---
 

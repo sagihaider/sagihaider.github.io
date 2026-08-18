@@ -5,6 +5,10 @@ description: The Royal Society 2026-2028
 img: assets/img/royalsociety.png
 importance: 2
 category: others
+theme: healthcare
+status: current
+period: "2026–2028"
+start_year: 2026
 related_publications: true
 ---
 
@@ -17,4 +21,4 @@ related_publications: true
 
 **Project Summary**  
 
-This project will develop mobile-based AI models for early detection of oral pre-cancer and cancer using existing clinical images. It aims to support early screening, improve referrals, and enable accessible oral healthcare through UK–India research collaboration with AIIMS and KGMU. 
+This project will develop mobile-based AI models for early detection of oral pre-cancer and cancer using existing clinical images. It aims to support early screening, improve referrals, and enable accessible oral healthcare through UK–India research collaboration with AIIMS and KGMU.

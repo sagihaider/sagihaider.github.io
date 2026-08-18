@@ -5,6 +5,10 @@ description: KTP Project with Truck Logistics, UK (2023-2026)
 img: assets/img/Trunk.png
 importance: 2
 category: others
+theme: enterprise
+status: current
+period: "2024–2027"
+start_year: 2024
 giscus_comments: true
 ---
 

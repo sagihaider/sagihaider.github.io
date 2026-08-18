@@ -5,6 +5,10 @@ description: KTP Project with Provide CIC, UK (2018-2021)
 img: assets/img/Provide.png
 importance: 1
 category: healthcare
+theme: healthcare
+status: completed
+period: "2018–2021"
+start_year: 2018
 related_publications: true
 ---
 
@@ -26,4 +30,4 @@ The wider impact of this software on the NHS could be significant, as it could e
 
 In addition to the KTP, the project team also worked on a Bed Bureau app, an idea born during the pandemic. Hospital bed management was already a challenge even before it was exacerbated by Covid-19. The Bed Bureau app has a live dashboard displaying bed availability in red (fully booked), amber (up to 50% available), and green (over 50% available).
 
-Our KTP Associate: Dr Dheeraj Rathee won Best Knowledge Transfer Partnership (KTP) Associate at our KTP Award Ceremony 2021 [link](https://www.essex.ac.uk/business/expertise/case-studies/provide) and Dr Haider Raza won Best Academic [YouTube](https://www.youtube.com/watch?v=-7VJq4hC6cA&t=39s). 
+Our KTP Associate: Dr Dheeraj Rathee won Best Knowledge Transfer Partnership (KTP) Associate at our KTP Award Ceremony 2021 [link](https://www.essex.ac.uk/business/expertise/case-studies/provide) and Dr Haider Raza won Best Academic [YouTube](https://www.youtube.com/watch?v=-7VJq4hC6cA&t=39s).

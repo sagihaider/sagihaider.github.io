@@ -5,6 +5,10 @@ description: KTP Project with MEL Aviations, Sudbury
 img: assets/img/MEL.jpg
 importance: 3
 category: others
+theme: enterprise
+status: current
+period: "2024–2027"
+start_year: 2024
 related_publications: true
 ---
 

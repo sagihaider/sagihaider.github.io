@@ -4,6 +4,10 @@ title: AI-Assisted Decision-Making for Colchester Hospital
 description: Research project with East Suffolk and North Essex NHS Foundation Trust (2018-2019)
 importance: 4
 category: healthcare
+theme: healthcare
+status: completed
+period: "2018–2019"
+start_year: 2018
 related_publications: false
 ---
 

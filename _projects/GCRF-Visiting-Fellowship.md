@@ -4,6 +4,10 @@ title: Two-Way Visiting Fellowship
 description: University of Essex GCRF visiting fellowship (2020)
 importance: 4
 category: others
+theme: public-policy
+status: completed
+period: "2020"
+start_year: 2020
 related_publications: false
 ---
 

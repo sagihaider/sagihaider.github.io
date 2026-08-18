@@ -5,6 +5,10 @@ description: KTP Project with Check4Cancer, Cambridge, UK (2022-2024)
 img: assets/img/C4C_img1.jpeg
 importance: 1
 category: healthcare
+theme: healthcare
+status: completed
+period: "2022–2024"
+start_year: 2022
 related_publications: true
 ---
 
