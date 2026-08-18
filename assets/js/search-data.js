@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "Different areas of my research",
+          description: "Adaptive and applied artificial intelligence research",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -165,6 +165,41 @@ ninja.data = [{
           description: "BBSRC funded with Check4Cancer, UK (2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/BBSRC-C4C/";
+            },},{id: "projects-multimodal-machine-learning-for-health-risk-prediction",
+          title: 'Multimodal Machine Learning for Health Risk Prediction',
+          description: "Contract research with Alula Technologies Limited (2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Contract-Alula/";
+            },},{id: "projects-ai-powered-chatbot-for-financial-wellbeing",
+          title: 'AI-Powered Chatbot for Financial Wellbeing',
+          description: "Research project with Maji Financial Wellbeing Limited (2019-2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Contract-Maji/";
+            },},{id: "projects-ai-assisted-decision-making-for-colchester-hospital",
+          title: 'AI-Assisted Decision-Making for Colchester Hospital',
+          description: "Research project with East Suffolk and North Essex NHS Foundation Trust (2018-2019)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ESNEFT-Colchester-Hospital/";
+            },},{id: "projects-business-and-local-government-data-research-centre",
+          title: 'Business and Local Government Data Research Centre',
+          description: "ESRC-funded data research programme (2019-2022)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ESRC-BLGDRC/";
+            },},{id: "projects-east-ai-studio-essex-accelerated-skills-and-transformation-in-generative-and-agentic-ai",
+          title: 'East AI Studio - Essex Accelerated Skills and Transformation in Generative and Agentic...',
+          description: "Innovate UK project led by the University of Essex (2026-2029)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/East-AI-Studio/";
+            },},{id: "projects-ai-and-iot-for-forest-fire-study",
+          title: 'AI and IoT for Forest Fire Study',
+          description: "University of Essex GCRF research project (2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GCRF-Forest-Fire/";
+            },},{id: "projects-two-way-visiting-fellowship",
+          title: 'Two-Way Visiting Fellowship',
+          description: "University of Essex GCRF visiting fellowship (2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/GCRF-Visiting-Fellowship/";
             },},{id: "projects-strategic-insights-engine-for-ip-protection",
           title: 'Strategic Insights Engine for IP protection',
           description: "Innovation Voucher and Contract research with Advancii, UK (2024)",
@@ -190,6 +225,11 @@ ninja.data = [{
           description: "KTP Project with The Royal Society for the Protection of Birds (RSPB), UK",
           section: "Projects",handler: () => {
               window.location.href = "/projects/KTP-RSPB/";
+            },},{id: "projects-agentic-ai-for-intelligent-affiliate-marketing-and-communication-optimisation",
+          title: 'Agentic AI for Intelligent Affiliate Marketing and Communication Optimisation',
+          description: "Innovate UK KTP with RevWise Limited (2026-2029)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/KTP-RevWise/";
             },},{id: "projects-ai-driven-data-intelligence-and-process-optimisation-for-digital-transformation-at-storm-technologies",
           title: 'AI-Driven Data Intelligence and Process Optimisation for Digital Transformation at Storm Technologies',
           description: "KTP Project with Storm Technologies Limited, UK",
