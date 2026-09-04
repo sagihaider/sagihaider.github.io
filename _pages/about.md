@@ -15,7 +15,7 @@ hide_title: true
       <div class="home-preview__actions"><a class="home-preview__button home-preview__button--primary" href="/research/">Explore research</a><a class="home-preview__button" href="/projects/">View funded projects</a></div>
     </div>
     <div class="editorial-hero__identity">
-      <figure class="editorial-hero__portrait"><img src="/assets/img/prof_pic.jpg" alt="Haider Raza" width="420" height="520"><figcaption>Senior Lecturer in Artificial Intelligence<br>University of Essex<br>Co-Founder, Sensiwise AI</figcaption></figure>
+      <figure class="editorial-hero__portrait"><img src="/assets/img/prof_pic.png" alt="Haider Raza" width="420" height="520"><figcaption>Senior Lecturer in Artificial Intelligence<br>University of Essex<br>Co-Founder, Sensiwise AI</figcaption></figure>
       <div class="editorial-hero__logos" aria-label="Affiliations">
         <a href="https://www.essex.ac.uk/" aria-label="University of Essex"><img src="/assets/img/university-of-essex-logo.jpg" alt="University of Essex" width="150" height="54"></a>
         <a class="editorial-hero__logo--sensiwise" href="https://sensiwise.ai/" aria-label="Sensiwise AI"><img src="/assets/img/sensiwise-ai-logo.png" alt="Sensiwise AI" width="88" height="54"></a>
