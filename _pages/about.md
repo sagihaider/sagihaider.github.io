@@ -61,6 +61,12 @@ hide_title: true
     </div>
   </section>
 
+  <section class="editorial-credentials" aria-labelledby="ai-fincubex-title">
+    <div><p class="home-preview__eyebrow">AI &amp; FinTech leadership</p><h2 id="ai-fincubex-title">Academic Co-Lead, AI-FincubeX</h2></div>
+    <p>At the University of Essex, I co-lead AI-FincubeX with Professor Sheri Markose, connecting AI and FinTech research with student entrepreneurship and industry collaboration.</p>
+    <div class="home-preview__actions"><a class="home-preview__button home-preview__button--primary" href="https://www.essex.ac.uk/centres-and-institutes/financial-technology-essex/ai-fincubex">Explore AI-FincubeX</a></div>
+  </section>
+
   <section class="editorial-focus" aria-labelledby="editorial-focus-title">
     <div class="home-preview__section-heading"><p class="home-preview__eyebrow">Areas of work</p><h2 id="editorial-focus-title">End-to-end AI leadership</h2></div>
     <div class="editorial-focus__grid">

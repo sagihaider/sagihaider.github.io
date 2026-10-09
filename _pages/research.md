@@ -100,6 +100,10 @@ hide_title: true
         <summary><span class="cluster-index">03</span><span class="cluster-title"><strong>Applied &amp; responsible AI</strong><small>Environment, enterprise, engineering and public value</small></span><span class="cluster-toggle" aria-hidden="true"></span></summary>
         <div class="cluster-content">
           <div class="contribution-block">
+            <h3>AI-FincubeX: AI &amp; FinTech entrepreneurship</h3>
+            <p>As Academic Co-Lead of AI-FincubeX, I connect agentic AI research with digital entrepreneurship, working with students, colleagues, and industry partners. <a href="https://www.essex.ac.uk/centres-and-institutes/financial-technology-essex/ai-fincubex">Explore the Essex incubator and lab</a>.</p>
+          </div>
+          <div class="contribution-block">
             <h3>Environment, agriculture and conservation</h3>
             <p>I apply machine learning, computer vision, graph methods, and connected sensing to forest-fire prediction, biodiversity monitoring, crop analysis, water and ecosystem wellbeing, and evidence-led policy. My contributions include IoT-based early-warning approaches and event-detection methods for environmental monitoring {% cite singh2022event singh2024graph pandey2023development %}.</p>
             <div class="project-links" aria-label="Related environment projects"><a href="/projects/GCRF-Forest-Fire/">Forest-fire prediction <span>↗</span></a><a href="/projects/KTP-RSPB/">Conservation technology <span>↗</span></a><a href="/projects/Contract-Alula/">AlUla smart city &amp; environment <span>↗</span></a><a href="/projects/ESRC-BLGDRC/">Data and public policy <span>↗</span></a></div>
