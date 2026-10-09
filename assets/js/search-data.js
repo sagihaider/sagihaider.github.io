@@ -171,7 +171,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
-            },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
+            },},{id: "news-i-am-delighted-to-join-ai-fincubex-as-academic-co-lead-alongside-professor-sheri-markose-this-university-of-essex-incubator-and-lab-brings-students-researchers-and-industry-partners-together-around-ai-fintech-and-digital-entrepreneurship-i-look-forward-to-advancing-agentic-ai-through-collaborative-research-and-practical-applications-explore-ai-fincubex",
+          title: 'I am delighted to join AI-FincubeX as Academic Co-Lead, alongside Professor Sheri Markose....',
+          description: "",
+          section: "News",},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
           section: "Projects",handler: () => {
