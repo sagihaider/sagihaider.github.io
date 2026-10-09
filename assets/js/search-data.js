@@ -160,6 +160,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
+            },},{id: "news-i-am-delighted-to-have-been-named-a-finalist-for-alan-turing-innovator-of-the-year-at-the-national-ai-awards-2026-named-in-honour-of-alan-turing-the-award-celebrates-contributions-to-artificial-intelligence-through-research-innovation-and-leadership-read-more",
+          title: 'I am delighted to have been named a finalist for Alan Turing Innovator...',
+          description: "",
+          section: "News",},{id: "news-our-project-skintel-a-patient-centred-revolution-in-early-detection-and-prevention-of-skin-cancer-from-check4cancer-received-highly-commended-recognition-in-the-best-industry-specific-ai-solution-category-at-the-national-ai-awards-2026-i-am-delighted-to-celebrate-this-achievement-with-the-team-at-check4cancer-read-more",
+          title: 'Our project SKINTEL: A patient-centred revolution in early detection and prevention of skin...',
+          description: "",
+          section: "News",},{id: "news-times-higher-education-awards-2026-skintel-shortlisted-for-research-project-of-the-year-stem",
+          title: 'Times Higher Education Awards 2026 – SKINTEL® shortlisted for Research Project of the...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "projects-enhancing-skin-cancer-detection-across-diverse-skin-types",
           title: 'Enhancing Skin Cancer Detection Across Diverse Skin Types',
           description: "BBSRC funded with Check4Cancer, UK (2024)",
