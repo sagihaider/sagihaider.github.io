@@ -8,11 +8,11 @@ hide_title: true
 <div class="home-preview home-preview--editorial">
   <header class="editorial-hero">
     <div class="editorial-hero__copy">
-      <p class="home-preview__eyebrow">Academic · Entrepreneur · AI advisor</p>
+      <p class="home-preview__eyebrow">AI engineering leader · Technical delivery · Lecturer</p>
       <h1>Haider Raza</h1>
       <div class="editorial-hero__qualifications" aria-label="Qualifications and professional credentials"><span>PhD</span><span>FHEA</span><span>SMIEEE</span><span>MCTS</span></div>
-      <p class="editorial-hero__statement">Advancing adaptive and trustworthy artificial intelligence—from methodological research to responsible real-world impact.</p>
-      <div class="home-preview__actions"><a class="home-preview__button home-preview__button--primary" href="/research/">Explore research</a><a class="home-preview__button" href="/projects/">View funded projects</a></div>
+      <p class="editorial-hero__statement">Leading the design and delivery of trustworthy AI—from technical strategy and team development to production-focused solutions with real-world impact.</p>
+      <div class="home-preview__actions"><a class="home-preview__button home-preview__button--primary" href="/projects/">View AI projects</a><a class="home-preview__button" href="/research/">Explore technical expertise</a></div>
     </div>
     <div class="editorial-hero__identity">
       <figure class="editorial-hero__portrait"><img src="/assets/img/prof_pic.png" alt="Haider Raza" width="420" height="520"><figcaption>Senior Lecturer in Artificial Intelligence<br>University of Essex<br>Co-Founder, Sensiwise AI</figcaption></figure>
@@ -25,15 +25,15 @@ hide_title: true
 
   <section class="editorial-intro">
     <p class="home-preview__eyebrow">Profile</p>
-    <h2>Research, education, and enterprise connected by one purpose.</h2>
-    <div><p>I am an Indian-born British computer scientist, AI researcher, educator, and entrepreneur. I am a Senior Lecturer (Associate Professor) at the University of Essex, Founder of <a href="https://sensiwise.ai/">Sensiwise AI</a>, and AI Advisor to <a href="https://www.check4cancer.com/">Check4Cancer</a>.</p><p>My work develops reliable intelligent systems for changing, high-stakes environments and translates them into healthcare, neural engineering, environmental, and organisational applications.</p></div>
+    <h2>AI engineering, technical delivery, and people leadership.</h2>
+    <div><p>I am an Indian-born British computer scientist and AI engineering leader with experience spanning technical programme delivery, applied research, higher education, and entrepreneurship. I am a Senior Lecturer (Associate Professor) in Artificial Intelligence at the University of Essex, Founder of <a href="https://sensiwise.ai/">Sensiwise AI</a>, and AI Advisor to <a href="https://www.check4cancer.com/">Check4Cancer</a>.</p><p>I lead multidisciplinary work that turns complex AI opportunities into deliverable technical programmes. Through Knowledge Transfer Partnerships (KTPs), funded R&amp;D, and industry collaborations, I help shape technical strategy, coordinate researchers and engineers, guide solution development, and connect delivery decisions with stakeholder and organisational needs across healthcare, engineering, logistics, environmental intelligence, and enterprise transformation.</p></div>
   </section>
 
   <section class="editorial-affiliations" aria-labelledby="affiliations-title">
     <div class="home-preview__section-heading">
-      <p class="home-preview__eyebrow">Academic & entrepreneurial roles</p>
-      <h2 id="affiliations-title">Two worlds, one connected practice.</h2>
-      <p>I connect university research with responsible commercial delivery—moving ideas between rigorous investigation, education, and practical AI systems.</p>
+      <p class="home-preview__eyebrow">Technical &amp; organisational leadership</p>
+      <h2 id="affiliations-title">Connecting AI strategy with delivery.</h2>
+      <p>I combine hands-on AI expertise with programme leadership, developing people and partnerships while moving initiatives from discovery and experimentation toward dependable real-world systems.</p>
     </div>
     <div class="editorial-affiliations__grid">
       <a class="editorial-affiliation" href="https://www.essex.ac.uk/people/razah72409" aria-label="View Haider Raza's University of Essex profile">
@@ -41,9 +41,9 @@ hide_title: true
           <img src="/assets/img/university-of-essex-logo.jpg" alt="University of Essex" width="958" height="346" loading="lazy">
         </span>
         <span class="editorial-affiliation__copy">
-          <small>Academic leadership</small>
+          <small>AI technical leadership</small>
           <strong>Senior Lecturer in Artificial Intelligence</strong>
-          <span>Research, teaching, supervision, and knowledge exchange.</span>
+          <span>Technical leadership across AI teaching, applied R&amp;D, KTP delivery, team development, and knowledge exchange.</span>
           <em>View university profile ↗</em>
         </span>
       </a>
@@ -52,9 +52,9 @@ hide_title: true
           <img src="/assets/img/sensiwise-ai-logo.png" alt="Sensiwise AI" width="1080" height="1080" loading="lazy">
         </span>
         <span class="editorial-affiliation__copy">
-          <small>Entrepreneurship</small>
+          <small>AI strategy &amp; delivery</small>
           <strong>Founder, Sensiwise AI</strong>
-          <span>Responsible AI strategy, readiness, and applied innovation.</span>
+          <span>Responsible AI strategy, organisational readiness, solution planning, and applied innovation.</span>
           <em>Visit Sensiwise AI ↗</em>
         </span>
       </a>
@@ -62,12 +62,12 @@ hide_title: true
   </section>
 
   <section class="editorial-focus" aria-labelledby="editorial-focus-title">
-    <div class="home-preview__section-heading"><p class="home-preview__eyebrow">Areas of work</p><h2 id="editorial-focus-title">A connected academic practice</h2></div>
+    <div class="home-preview__section-heading"><p class="home-preview__eyebrow">Areas of work</p><h2 id="editorial-focus-title">End-to-end AI leadership</h2></div>
     <div class="editorial-focus__grid">
-      <a href="/research/"><span>01</span><h3>Research</h3><p>Adaptive learning, explainable AI, multimodal systems, and intelligent decision support.</p></a>
-      <a href="/projects/"><span>02</span><h3>Enterprise</h3><p>Funded partnerships translating AI research into dependable products and processes.</p></a>
-      <a href="/teaching/"><span>03</span><h3>Education</h3><p>Teaching, supervision, and mentoring across artificial intelligence and data science.</p></a>
-      <a href="/people/"><span>04</span><h3>Leadership</h3><p>Interdisciplinary teams, research communities, professional service, and collaboration.</p></a>
+      <a href="/research/"><span>01</span><h3>AI Engineering</h3><p>Technical direction across adaptive learning, explainable AI, multimodal systems, and intelligent decision support.</p></a>
+      <a href="/projects/"><span>02</span><h3>Technical Delivery</h3><p>Leading KTPs and funded collaborations that translate AI concepts into dependable products, processes, and organisational capability.</p></a>
+      <a href="/people/"><span>03</span><h3>People &amp; Partnerships</h3><p>Building multidisciplinary teams, mentoring technical talent, and aligning academic, industry, and stakeholder priorities.</p></a>
+      <a href="/teaching/"><span>04</span><h3>AI Education</h3><p>Developing AI and data science capability through teaching, supervision, mentoring, and knowledge transfer.</p></a>
     </div>
   </section>
 
@@ -75,9 +75,9 @@ hide_title: true
     <div class="editorial-media__intro">
       <div>
         <p class="home-preview__eyebrow">Ideas in public</p>
-        <h2 id="editorial-media-title">AI conversations beyond the classroom.</h2>
+        <h2 id="editorial-media-title">AI leadership beyond project delivery.</h2>
       </div>
-      <p>Through <strong>The Class of AI</strong>, I share accessible perspectives on artificial intelligence, research, education, and real-world practice. My new podcast series creates space for longer conversations about the ideas and people shaping the field.</p>
+      <p>Through <strong>The Class of AI</strong>, I share accessible perspectives on artificial intelligence, engineering practice, responsible adoption, and technical leadership. My podcast creates space for longer conversations about the people, decisions, and technologies shaping the field.</p>
     </div>
     <div class="editorial-media__grid">
       <a class="editorial-media__card editorial-media__card--channel" href="https://www.youtube.com/@TheClassofAI" target="_blank" rel="noopener noreferrer">
