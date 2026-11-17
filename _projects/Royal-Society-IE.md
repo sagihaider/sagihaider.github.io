@@ -12,13 +12,13 @@ start_year: 2026
 related_publications: true
 ---
 
-* Funding Amount: £12,000  <br/>
-* Funder: The Royal Society <br/>
-* Role: Principal Investigator (PI) <br/>
-* Academic Team: Dr Haider Raza (PI)
+- Funding Amount: £12,000 <br/>
+- Funder: The Royal Society <br/>
+- Role: Principal Investigator (PI) <br/>
+- Academic Team: Dr Haider Raza (PI)
 <!-- * Associate: Ms Gayathri<br/> -->
-* Year: 2025
+- Year: 2025
 
-**Project Summary**  
+**Project Summary**
 
 This project will develop mobile-based AI models for early detection of oral pre-cancer and cancer using existing clinical images. It aims to support early screening, improve referrals, and enable accessible oral healthcare through UK–India research collaboration with AIIMS and KGMU.

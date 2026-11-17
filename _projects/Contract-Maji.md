@@ -11,10 +11,10 @@ start_year: 2019
 related_publications: false
 ---
 
-* Funding Amount: £5,270 <br/>
-* Funder: Maji Financial Wellbeing Limited <br/>
-* Role: Principal Investigator (PI) <br/>
-* Duration: November 2019-January 2020 <br/>
+- Funding Amount: £5,270 <br/>
+- Funder: Maji Financial Wellbeing Limited <br/>
+- Role: Principal Investigator (PI) <br/>
+- Duration: November 2019-January 2020 <br/>
 
 **Project Summary**
 

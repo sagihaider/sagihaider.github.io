@@ -11,10 +11,10 @@ start_year: 2026
 related_publications: false
 ---
 
-* Funding Amount: Approximately £280,000 <br/>
-* Funder: Innovate UK Knowledge Transfer Partnership (KTP) <br/>
-* Role: Academic Supervisor <br/>
-* Duration: 34 months (2026-2029) <br/>
+- Funding Amount: Approximately £280,000 <br/>
+- Funder: Innovate UK Knowledge Transfer Partnership (KTP) <br/>
+- Role: Academic Supervisor <br/>
+- Duration: 34 months (2026-2029) <br/>
 
 **Project Summary**
 

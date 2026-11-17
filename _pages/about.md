@@ -113,7 +113,7 @@ hide_title: true
     <div class="editorial-credentials__badges"><span>PhD</span><span>FHEA</span><span>Senior Member, IEEE</span><a href="https://www.essex.ac.uk/people/razah72409">University profile ↗</a></div>
   </section>
 
-  {% include home_preview_locked.liquid %}
+{% include home_preview_locked.liquid %}
 
   <section class="home-preview__locked" aria-labelledby="editorial-publications-title"><p class="home-preview__eyebrow">Selected work</p><h2 id="editorial-publications-title"><a href="/publications/">Selected publications</a></h2>{% include selected_papers.liquid %}</section>
 

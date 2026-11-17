@@ -11,10 +11,10 @@ start_year: 2020
 related_publications: true
 ---
 
-* Funding Amount: £9,335.69 <br/>
-* Funder: University of Essex Global Challenges Research Fund (GCRF) <br/>
-* Role: Principal Investigator (PI) <br/>
-* Duration: February-June 2020 <br/>
+- Funding Amount: £9,335.69 <br/>
+- Funder: University of Essex Global Challenges Research Fund (GCRF) <br/>
+- Role: Principal Investigator (PI) <br/>
+- Duration: February-June 2020 <br/>
 
 **Project Summary**
 

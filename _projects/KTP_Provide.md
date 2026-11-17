@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-Assisted Smart Referral System 
+title: AI-Assisted Smart Referral System
 description: KTP Project with Provide CIC, UK (2018-2021)
 img: assets/img/Provide.png
 importance: 1
@@ -12,15 +12,15 @@ start_year: 2018
 related_publications: true
 ---
 
-* Funding Amount: £289,127.00 <br/>
-* Funder: Innovate UK (formerly Technology Strategy Board) <br/>
-* Role: Academic Supervisor <br/>
-* Academic Team: Dr Haider Raza, Professor Maria Fasli, Dr Renato Amorim
-* KTP Associate: Dr Dheeraj Rathee<br/>
-* Industry Lead: <br/>
-* Year: 2018 - 2021
+- Funding Amount: £289,127.00 <br/>
+- Funder: Innovate UK (formerly Technology Strategy Board) <br/>
+- Role: Academic Supervisor <br/>
+- Academic Team: Dr Haider Raza, Professor Maria Fasli, Dr Renato Amorim
+- KTP Associate: Dr Dheeraj Rathee<br/>
+- Industry Lead: <br/>
+- Year: 2018 - 2021
 
-Provide partnered with Essex academics for their world-leading research and expertise in data science. The Knowledge Transfer Partnership (KTP) was established to improve the efficiency of the triaging process by creating a decision-making engine, powered by AI and Natural Language Processing, which could identify the type of service patients needed and then guide them to the required level of support. 
+Provide partnered with Essex academics for their world-leading research and expertise in data science. The Knowledge Transfer Partnership (KTP) was established to improve the efficiency of the triaging process by creating a decision-making engine, powered by AI and Natural Language Processing, which could identify the type of service patients needed and then guide them to the required level of support.
 
 As part of the partnership, the AI Triage software – the Smart Referral System – has been developed and implemented for automated triaging of patients with musculoskeletal conditions.
 

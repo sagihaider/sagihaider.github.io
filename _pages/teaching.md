@@ -12,7 +12,7 @@ nav_order: 6
 <<<<<<< HEAD
 Organize your courses by years, topics, or universities, however you like!
 
-*** 
+***
 ## Taught Courses
 
 | Academic Year | Course/Module Name | Level | Place |
@@ -24,30 +24,26 @@ Organize your courses by years, topics, or universities, however you like!
 =======
 Organize your courses by years, topics, or universities, however you like! -->
 
-## Teaching Experience 
+## Teaching Experience
 
-| Role              | Term/Year              | Module Code | Module Title                                      | Institution                                 | Notes                                |
-|-------------------|------------------------|-------------|---------------------------------------------------|---------------------------------------------|--------------------------------------|
-| Module Leader     | Spring 2026            | CE888       | Data Science and Decision Making                  | University of Essex                         | –                                    |
-| Module Leader     | Spring, Autumn 2022–24 | CE880       | An Approachable Introduction to Data Science      | University of Essex                         | –                                    |
-| Module Leader     | Spring 2020–21         | CE888       | Data Science and Decision Making                  | University of Essex                         | With Dr Ana Matrán-Fernández         |
-| Instructor        | Spring 2019            | CE888       | Data Science and Decision Making                  | University of Essex                         | With Dr Samothrakis & Dr Matrán-Fernández |
-| Instructor        | Spring 2018            | CE888       | Data Science and Decision Making                  | University of Essex                         | With Dr Spyros Samothrakis           |
-| Invited Tutor     | Aug–Sept 2018          | –           | Machine Learning and Data Science                 | AIMS, South Africa                          | –                                    |
-| Teaching Assistant| Summer 2015            | COM326      | Object Oriented Programming                       | University of Ulster                        | With Dr Mia Siddique                  |
-| Teaching Assistant| Winter 2014            | COM419      | Object Oriented Modelling                         | University of Ulster                        | With Dr Yuhua Li                      |
-| Teaching Assistant| Summer 2013            | COM162      | Database Systems                                  | University of Ulster                        | With Dr Ammar Belatreche              |
-| Instructor        | Winter 2012            | CoSc-552    | Expert Systems                                    | Dilla University, Ethiopia                  | –                                    |
-| Instructor        | Summer 2011            | CoSc-452    | Artificial Intelligence                           | Dilla University, Ethiopia                  | –                                    |
-| Instructor        | Summer 2011            | CoSc-352    | Analysis of Algorithms                            | Dilla University, Ethiopia                  | –                                    |
-| Instructor        | Winter 2011            | CS-801      | Artificial Intelligence                           | MRIU, India                                 | –                                    |
-| Instructor        | Summer 2010            | IT-822      | Data Warehousing and Data Mining                  | MRIU, India                                 | –                                    |
-| Instructor        | Winter 2010            | CS-502      | Computer Graphics                                 | MRIU, India                                 | –                                    |
-| Instructor        | Summer 2009            | CS-301      | Discrete Structures                               | MRIU, India                                 | –                                    |
-
-
-
-
+| Role               | Term/Year              | Module Code | Module Title                                 | Institution                | Notes                                     |
+| ------------------ | ---------------------- | ----------- | -------------------------------------------- | -------------------------- | ----------------------------------------- |
+| Module Leader      | Spring 2026            | CE888       | Data Science and Decision Making             | University of Essex        | –                                         |
+| Module Leader      | Spring, Autumn 2022–24 | CE880       | An Approachable Introduction to Data Science | University of Essex        | –                                         |
+| Module Leader      | Spring 2020–21         | CE888       | Data Science and Decision Making             | University of Essex        | With Dr Ana Matrán-Fernández              |
+| Instructor         | Spring 2019            | CE888       | Data Science and Decision Making             | University of Essex        | With Dr Samothrakis & Dr Matrán-Fernández |
+| Instructor         | Spring 2018            | CE888       | Data Science and Decision Making             | University of Essex        | With Dr Spyros Samothrakis                |
+| Invited Tutor      | Aug–Sept 2018          | –           | Machine Learning and Data Science            | AIMS, South Africa         | –                                         |
+| Teaching Assistant | Summer 2015            | COM326      | Object Oriented Programming                  | University of Ulster       | With Dr Mia Siddique                      |
+| Teaching Assistant | Winter 2014            | COM419      | Object Oriented Modelling                    | University of Ulster       | With Dr Yuhua Li                          |
+| Teaching Assistant | Summer 2013            | COM162      | Database Systems                             | University of Ulster       | With Dr Ammar Belatreche                  |
+| Instructor         | Winter 2012            | CoSc-552    | Expert Systems                               | Dilla University, Ethiopia | –                                         |
+| Instructor         | Summer 2011            | CoSc-452    | Artificial Intelligence                      | Dilla University, Ethiopia | –                                         |
+| Instructor         | Summer 2011            | CoSc-352    | Analysis of Algorithms                       | Dilla University, Ethiopia | –                                         |
+| Instructor         | Winter 2011            | CS-801      | Artificial Intelligence                      | MRIU, India                | –                                         |
+| Instructor         | Summer 2010            | IT-822      | Data Warehousing and Data Mining             | MRIU, India                | –                                         |
+| Instructor         | Winter 2010            | CS-502      | Computer Graphics                            | MRIU, India                | –                                         |
+| Instructor         | Summer 2009            | CS-301      | Discrete Structures                          | MRIU, India                | –                                         |
 
 ## Teaching Philosophy
 
@@ -62,4 +58,5 @@ I place a strong emphasis on **inclusive, active learning**, using lectures, cas
 Looking ahead, I am passionate about developing advanced modules in **Explainable AI** and **Brain-Computer Interfaces**, particularly for healthcare applications. These will combine ethical awareness, technical rigour, and interdisciplinary collaboration to prepare students for responsible leadership in AI.
 
 Ultimately, my teaching philosophy is rooted in empowering students not just to succeed academically, but to become thoughtful innovators and contributors to society.
->>>>>>> de2f2a7619978608b85b5de170ea9158e8329d27
+
+> > > > > > > de2f2a7619978608b85b5de170ea9158e8329d27

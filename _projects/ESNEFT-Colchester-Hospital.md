@@ -11,10 +11,10 @@ start_year: 2018
 related_publications: false
 ---
 
-* Funding Amount: £41,172.45 <br/>
-* Funder: East Suffolk and North Essex NHS Foundation Trust (ESNEFT) <br/>
-* Role: Principal Investigator (PI) <br/>
-* Duration: December 2018-March 2019 <br/>
+- Funding Amount: £41,172.45 <br/>
+- Funder: East Suffolk and North Essex NHS Foundation Trust (ESNEFT) <br/>
+- Role: Principal Investigator (PI) <br/>
+- Duration: December 2018-March 2019 <br/>
 
 **Project Summary**
 

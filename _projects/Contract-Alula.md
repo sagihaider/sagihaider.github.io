@@ -11,10 +11,10 @@ start_year: 2026
 related_publications: false
 ---
 
-* Contract Amount: £13,250 <br/>
-* Client: Alula Technologies Limited <br/>
-* Role: Principal Investigator (PI) <br/>
-* Duration: 4 months (2026) <br/>
+- Contract Amount: £13,250 <br/>
+- Client: Alula Technologies Limited <br/>
+- Role: Principal Investigator (PI) <br/>
+- Duration: 4 months (2026) <br/>
 
 **Project Summary**
 

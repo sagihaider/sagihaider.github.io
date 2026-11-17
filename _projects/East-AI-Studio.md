@@ -11,10 +11,10 @@ start_year: 2026
 related_publications: false
 ---
 
-* Funding Amount: £374,601 <br/>
-* Funder: Innovate UK <br/>
-* Role: Principal Investigator (PI) <br/>
-* Duration: 30 months, from August 2026 <br/>
+- Funding Amount: £374,601 <br/>
+- Funder: Innovate UK <br/>
+- Role: Principal Investigator (PI) <br/>
+- Duration: 30 months, from August 2026 <br/>
 
 **Project Summary**
 

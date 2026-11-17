@@ -136,6 +136,7 @@ hide_title: true
         </div>
       </details>
     </div>
+
   </section>
 
   <section class="research-principle" aria-labelledby="research-principle-title">

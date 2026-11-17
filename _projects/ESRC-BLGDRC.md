@@ -11,10 +11,10 @@ start_year: 2019
 related_publications: true
 ---
 
-* Funding Amount: £1,220,550.38 <br/>
-* Funder: Economic and Social Research Council (ESRC) <br/>
-* Role: Named Researcher <br/>
-* Duration: April 2019-March 2022 <br/>
+- Funding Amount: £1,220,550.38 <br/>
+- Funder: Economic and Social Research Council (ESRC) <br/>
+- Role: Named Researcher <br/>
+- Duration: April 2019-March 2022 <br/>
 
 **Project Summary**
 

@@ -7,5 +7,5 @@
 # cv_pdf: Haider_CV_2025.pdf
 # description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 # toc:
-  # sidebar: left
+# sidebar: left
 ---
